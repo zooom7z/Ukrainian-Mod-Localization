@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<.title></.title>
+	<.titleShort></.titleShort>
+	<.baseDesc></.baseDesc>
+
+	<.title></.title>
+	<.titleShort></.titleShort>
+	<.baseDesc></.baseDesc>
+
+	<.title></.title>
+	<.titleShort></.titleShort>
+	<.baseDesc></.baseDesc>
+
+	<.title></.title>
+	<.titleShort></.titleShort>
+	<.baseDesc></.baseDesc>
+
+	<.label></.label>
+	<.description></.description>
+
+	<.label></.label>
+	<.description></.description>
+
+	<.label></.label>
+	<.description></.description>
+
+	<.label></.label>
+	<.description></.description>
+
+	<.label></.label>
+	<.description></.description>
+
+	<.label></.label>
+	<.description></.description>
+
+	<.label></.label>
+	<.description></.description>
+
+	<.label></.label>
+	<.description></.description>
+	
+	<.stages.0.label></.stages.0.label>
+	<.stages.1.label></.stages.1.label>
+	<.stages.2.label></.stages.2.label>
+	<.stages.3.label></.stages.3.label>
+
+	<.stages.0.label></.stages.0.label>
+	<.stages.1.label></.stages.1.label>
+	<.stages.2.label></.stages.2.label>
+	<.stages.3.label></.stages.3.label>
+
+	<.stages.0.label></.stages.0.label>
+	<.stages.1.label></.stages.1.label>
+	<.stages.2.label></.stages.2.label>
+	<.stages.3.label></.stages.3.label>
+
+	<.label></.label>
+	<.labelNoun></.labelNoun>
+	<.description></.description>
+	
+	<.stages.0.label></.stages.0.label>
+
+
+	<.label></.label>
+	<.labelNoun></.labelNoun>
+	<.description></.description>
+	
+	<.stages.0.label></.stages.0.label>
+
+	<.label></.label>
+	<.labelNoun></.labelNoun>
+	<.description></.description>
+	
+	<.stages.0.label></.stages.0.label>
+
+</LanguageData>

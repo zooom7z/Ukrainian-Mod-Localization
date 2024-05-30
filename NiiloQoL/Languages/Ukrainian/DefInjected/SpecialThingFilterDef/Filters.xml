@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<NQoL_AllowNonRottable.label>дозволити негниюче</NQoL_AllowNonRottable.label>
+	<NQoL_AllowNonRottable.description>Речі, які ніколи не гниють. \n\nНаприклад: сталь, дерево, зброя, уламки.</NQoL_AllowNonRottable.description>
+
+	<NQoL_AllowRottable.label>дозволити гниюче</NQoL_AllowRottable.label>
+	<NQoL_AllowRottable.description>Органічні продукти, які згниють, якщо їх не заморозити. \n\nНаприклад, страви, м'ясо, трупи.</NQoL_AllowRottable.description>
+	
+	<NQoL_AllowNonPerishable.label>дозволити нешвидкопсувне</NQoL_AllowNonPerishable.label>
+	<NQoL_AllowNonPerishable.description>Речі, які ніколи не псуються. \n\nТакі як: сталь, срібло, мінімізовані будівлі, уламки.</NQoL_AllowNonPerishable.description>
+
+	<NQoL_AllowPerishable.label>дозволити швидкопсувне</NQoL_AllowPerishable.label>
+	<NQoL_AllowPerishable.description>Речі, які зіпсуються, якщо їх залишити на відкритому повітрі. \n\nНаприклад: зброя, одяг, ліки, деревина.</NQoL_AllowPerishable.description>
+
+	<NQoL_AllowNonRuinable.label>дозволити неруйнівне</NQoL_AllowNonRuinable.label>
+	<NQoL_AllowNonRuinable.description>Речі, які не можуть бути зіпсовані температурою. \n\nНаприклад: їжу, рослинні речовини, сталь, уламки, незапліднені яйця.</NQoL_AllowNonRuinable.description>
+
+	<NQoL_AllowRuinable.label>дозволити руйнівне</NQoL_AllowRuinable.label>
+	<NQoL_AllowRuinable.description>Речі, які можуть бути зіпсовані температурою. \n\nНаприклад: запліднені яйця.</NQoL_AllowRuinable.description>
+
+	<NQoL_AllowRuined.label>дозволити зіпсоване</NQoL_AllowRuined.label>
+	<NQoL_AllowRuined.description>Речі, які були зіпсовані. \n\nНаприклад: запліднені яйця, які більше не можуть вилупитися.</NQoL_AllowRuined.description>
+
+	<NQoL_AllowNonRuined.label>дозволити незіпсоване</NQoL_AllowNonRuined.label>
+	<NQoL_AllowNonRuined.description>Речі, які не були зіпсовані. \n\nНаприклад: плідні яйця, які ще можуть вилупитися.</NQoL_AllowNonRuined.description>
+
+</LanguageData>

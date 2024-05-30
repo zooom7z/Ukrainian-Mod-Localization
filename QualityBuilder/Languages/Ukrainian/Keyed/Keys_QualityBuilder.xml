@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<QualityBuilder>QualityBuilder</QualityBuilder>
+	<QualityBuilderCommand.Label>Якість будівлі</QualityBuilderCommand.Label>
+
+	<QualityBuilderOn.Label>Вибрати якість будівництва</QualityBuilderOn.Label>
+	<QualityBuilderOn.Desc>Обрана якість: {0}. Вибрати для будівництва умілих будівельників</QualityBuilderOn.Desc>
+	<QualityBuilder.Already></QualityBuilder.Already>
+
+	<QualityBuilderOff.Label>Прибрати якість будівництва</QualityBuilderOff.Label>
+	<QualityBuilderOff.Desc>Обрана якість: {0}. Прибрати для будівництва умілих будівельників</QualityBuilderOff.Desc>
+	<QualityBuilder.Nothing></QualityBuilder.Nothing>
+
+	<QualityBuilder.SelectedSettings>Вибрані налаштування</QualityBuilder.SelectedSettings>
+	<QualityBuilder.CurrentMap>Поточна мапа</QualityBuilder.CurrentMap>
+	<QualityBuilder.Global>Налаштування за замовчуванням</QualityBuilder.Global>
+	<QualityBuilder.EnableByDefault>Увімкнути QualityBuilder за замовчуванням</QualityBuilder.EnableByDefault>
+	<QualityBuilder.IgnoreAtSkill>Ігнорувати QualityBuilder на рівні будівництва {0}</QualityBuilder.IgnoreAtSkill>
+	<QualityBuilder.MinQuality>Мінімальна якість за замовчуванням</QualityBuilder.MinQuality>
+	<QualityBuilder.OverrideBestBuilder>Перевизначити найкращого будівельника з</QualityBuilder.OverrideBestBuilder>
+</LanguageData>

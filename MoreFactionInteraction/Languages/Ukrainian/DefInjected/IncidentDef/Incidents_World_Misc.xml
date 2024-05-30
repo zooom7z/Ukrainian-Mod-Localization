@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MFI_RoadWorks.label>дорожні роботи</MFI_RoadWorks.label>
+
+   <MFI_DiplomaticMarriage.label>дипломатичний шлюб</MFI_DiplomaticMarriage.label>
+   <MFI_DiplomaticMarriage.letterLabel>Дипломатичний шлюб</MFI_DiplomaticMarriage.letterLabel>
+
+   <MFI_MysticalShaman.label>містичний шаман</MFI_MysticalShaman.label>
+   <MFI_MysticalShaman.letterLabel>Містичний шаман</MFI_MysticalShaman.letterLabel>
+
+   <MFI_SettlementBaseAttack.label>Атаковано базу фракції</MFI_SettlementBaseAttack.label>
+
+</LanguageData>

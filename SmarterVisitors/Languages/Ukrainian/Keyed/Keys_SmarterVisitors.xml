@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SV.CheckForDanger>Відвідувачі перевіряють наявність небезпеки перед тим як піти</SV.CheckForDanger>
+  <SV.CheckForDangerTT>Збираючись йти, відвідувачі перевірять, чи немає небезпеки, і якщо вона є, попросять залишитися ще на деякий час.</SV.CheckForDangerTT>
+  <SV.AddExtraFood>Дати {0} їжі відвідувачам</SV.AddExtraFood>
+  <SV.AddExtraFoodTT>Відвідувачі візьмуть їжу, щоб бути більш готовими до затримок.</SV.AddExtraFoodTT>
+  <SV.DelayThoughts>Затримки викликають негативні думки</SV.DelayThoughts>
+  <SV.DelayThoughtsTT>Якщо відвідувачі затримуватимуться, у них з'являтимуться все більш негативних думок.</SV.DelayThoughtsTT>
+  <SV.CheckHealth>Відвідувачі не підуть, якщо їм потрібне лікування</SV.CheckHealth>
+  <SV.CheckHealthTT>Якщо в групі відвідувачів є потребуючі лікування, група чекатиме, доки всі не будуть здорові.</SV.CheckHealthTT>
+  <SV.UVLightSensitivity>Чутливі до ультрафіолету відвідувачі підуть після заходу сонця</SV.UVLightSensitivity>
+  <SV.UVLightSensitivityTT>Якщо в групі є персонажі з підвищеною чутливістю до ультрафіолету, вони вирішать піти після заходу сонця. Це також стосується вампірів з мода Rim of Madness.</SV.UVLightSensitivityTT>
+  <SV.ModVersion>Встановлена версія моду: {0}</SV.ModVersion>
+  <SV.VisitorsLeaving>Вони бояться зробити це з наступої причини:\n{0}\n\nЧи дозволяєте ви їм залишитися до завтра?</SV.VisitorsLeaving>
+  <SV.VisitorsLeavingTitle>Відвідувачі з {0} зараз підуть</SV.VisitorsLeavingTitle>
+  <SV.Allow>Звичайно, ви можете залишитися</SV.Allow>
+  <SV.WaitALittle>Запитайте ще раз через годину</SV.WaitALittle>
+  <SV.Deny>Ні, будь ласка, йдіть звідси</SV.Deny>
+  <SV.ChillSpotDestroyed>Можна розмістити лише одну точку відвідування, стара точка буде видалена</SV.ChillSpotDestroyed>
+</LanguageData>

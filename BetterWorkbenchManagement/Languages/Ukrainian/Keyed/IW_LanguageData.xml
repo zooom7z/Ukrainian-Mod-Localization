@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IW.ClickToDropTip>Наразі продукцію відносять на склад. Натисніть, щоб кидать на підлогу.</IW.ClickToDropTip>
+  <IW.ClickToTakeToStockpileTip>Наразі кидається на підлогу. Натисніть, щоб відносити на склад.</IW.ClickToTakeToStockpileTip>
+  <IW.CopyJustBillsTip>Скопіюйте лише цей рецепт</IW.CopyJustBillsTip>
+  <IW.BreakLinkToOtherBillsTip>Розірвати зв'язок з іншими рецептами</IW.BreakLinkToOtherBillsTip>
+  <IW.TakeToLabel>Прийняти до</IW.TakeToLabel>
+  <IW.BestLabel>Найкраще</IW.BestLabel>
+  <IW.NullLabel>нуль</IW.NullLabel>
+  <IW.RenameBillTip>Перейменувати рецепт (використовуйте порожній рядок для скидання)</IW.RenameBillTip>
+
+  <IW.BillsLabel>Рецепти</IW.BillsLabel>
+
+  <IW.NoColRestrictionLabel>Немає обмежень для колоністів</IW.NoColRestrictionLabel>
+
+  <IW.RestrictToLabel>Обмежити до</IW.RestrictToLabel>
+
+  <IW.RestrictJobToSpecificColonistTip>Обмежити роботу певним колоністом</IW.RestrictJobToSpecificColonistTip>
+
+  <IW.CrafterWillToSpecificStockpileTip>Ремісник доставить кінцевий продукт до вказаного складу</IW.CrafterWillToSpecificStockpileTip>
+  <IW.CopyFilterButton>Скопіювати фільтр</IW.CopyFilterButton>
+
+  <IW.CopyFilterTip>Скопіюйте налаштування фільтра інгредієнтів для вставлення у відповідний фільтр</IW.CopyFilterTip>
+  <IW.PasteFilterButton>Вставити фільтр</IW.PasteFilterButton>
+
+  <IW.RenameTip>Натисніть, щоб ввести значення за допомогою клавіатури</IW.RenameTip>
+  <IW.CountOnStockpilesText>Візьміть до уваги всі склади</IW.CountOnStockpilesText>
+
+  <IW.CountInText>Врахувати</IW.CountInText>
+  <IW.WillCountTowardsTargetTip>Лише предмети з указаного складу будуть врахуватися до цілі.</IW.WillCountTowardsTargetTip>
+
+  <IW.CountedItemsFilter>Фільтр взятих до уваги елементів:</IW.CountedItemsFilter>
+  <IW.HitPointsTip>Врахувати до цілі лише предмети із заданим діапазоном здоров’я</IW.HitPointsTip>
+
+  <IW.QualityTip>Лише елементи заданого діапазону якості будуть врахуватись до цільового значення</IW.QualityTip>
+
+  <IW.MatchInputIngredientsText>Зіставте вхідні інгредієнти</IW.MatchInputIngredientsText>
+
+  <IW.IngredientsTip>Лише предмети, виготовлені з інгредієнтів у фільтрі вхідних інгредієнтів (у крайньому правому стовпці), врахуватимуться до цілі</IW.IngredientsTip>
+
+  <IW.CountCorpseClothesLabel>Врахувати одяг з трупа</IW.CountCorpseClothesLabel>
+  <IW.CountCorpseClothesDesc>Включіть одяг,з трупів, у кількість предметів</IW.CountCorpseClothesDesc>
+
+  <IW.CountInventoryLabel>Врахувати предмети колоніста</IW.CountInventoryLabel>
+  <IW.CountInventoryDesc>Також врахуйте предмети, які зараз носять, екіпіровують або перевозять будь-які колоністи чи тварини колонії</IW.CountInventoryDesc>
+
+  <IW.CountAwayLabel>Врахуйте, коли немає</IW.CountAwayLabel>
+  <IW.CountAwayDesc>Також врахуйте предмети будь-якого колоніста чи тварини, надісланого на каравані, у транспортних капсулах, у криптосонних камерах або іншим чином недоступні</IW.CountAwayDesc>
+
+  <IW.OutputFilterLabel>Врахуйте додаткові елементи</IW.OutputFilterLabel>
+
+  <IW.OutputFilterTitle>Також врахуйте ці продукти:</IW.OutputFilterTitle>
+
+  <IW.CountInstalledLabel>Врахувати встановлені елементи</IW.CountInstalledLabel>
+  <IW.CountInstalledDesc>Також врахуйте елементи, які були встановлені як будівлі</IW.CountInstalledDesc>
+
+  <IW.OpenPreviousBillTip>Відкрийте попередній рецепт у верстаку</IW.OpenPreviousBillTip>
+
+  <IW.OpenNextBillTip>Відкрийте наступний рецепт у верстаку</IW.OpenNextBillTip>
+  <IW.DoUntilXText>Робіть до X</IW.DoUntilXText>
+
+  <IW.ChangeLinkedBillModeText>Використовуйте «Деталі», щоб змінити пов’язаний режим виставлення рецептів</IW.ChangeLinkedBillModeText>
+
+  <IW.CopyAllLabel>Скопіювати все</IW.CopyAllLabel>
+  <IW.CopyAllTip>Скопіюйте всі рецепти в цьому верстаку</IW.CopyAllTip>
+
+  <IW.PasteAllLabel>Вставити все</IW.PasteAllLabel>
+  <IW.Paste>Вставити</IW.Paste>
+  <IW.PasteAllTip>Вставте скопійовані рецепти як нові рецепти сюди.</IW.PasteAllTip>
+
+  <IW.PasteLinkLabel>Встоновити зв'язок</IW.PasteLinkLabel>
+  <IW.PasteLinkTip>Вставте скопійовані рецепти та зв’яжіть їх з оригіналами. Зміни буде відображено на всіх підключених рецептах.</IW.PasteLinkTip>
+
+  <IW.FoundOldBillText>Знайти старий рецепт</IW.FoundOldBillText>
+  <IW.MigratingToNewFormat>перехід на новий формат</IW.MigratingToNewFormat>
+
+  <IW.AutoOpenBillTabLabel>Автоматично відкривати рецепти та вкладки зберігання</IW.AutoOpenBillTabLabel>
+  <IW.AutoOpenBillTabDesc>Коли вибрано верстак (або запас), одразу відкриється вкладка його рецептів (або сховища).</IW.AutoOpenBillTabDesc>
+
+  <IW.ShowItemCountInFilterLabel>Показати кількість елементів у фільтрі</IW.ShowItemCountInFilterLabel>
+  <IW.ShowItemCountInFilterDesc>Показує кількість елементів на вкладці інгредієнтів у деталях рецепту</IW.ShowItemCountInFilterDesc>
+
+  <IW.EnableDragToReorder>Перетягніть, щоб змінити порядок рецептів</IW.EnableDragToReorder>
+  <IW.EnableDragToReorderDesc>Якщо ви виявите, що він суперечить іншим модам, ви можете вимкнути функцію «перетягнути, щоб змінити порядок рецептів» у огляді верстака</IW.EnableDragToReorderDesc>
+
+  <IW.PasteBillSettings>Вставте всі налаштування (крім виведеного продукту) зі скопійованого рахунку в цей</IW.PasteBillSettings>
+
+  <IW.MirrorSuspendedStatus>Дзеркальний статус призупинено</IW.MirrorSuspendedStatus>
+  <IW.MirrorSuspendedStatusDesc>Якщо ввімкнено, коли зв’язаний рахунок призупинено або розблоковано, усі пов’язані рецепти матимуть однаковий статус. (Примітка: перемикання цього параметра на True активує синхронізацію всіх зв’язаних завдань)</IW.MirrorSuspendedStatusDesc>
+
+  <IW.DropOnFloorByDefault>Кидання на підлогу за замовчуванням</IW.DropOnFloorByDefault>
+  <IW.DropOnFloorByDefaultDesc>Нові рецепти за замовчуванням матимуть значення «Кинкти на підлогу» замість «Віднести до найкращого складу».".</IW.DropOnFloorByDefaultDesc>
+
+  <IW.ShowExtraUIButtons>Показати додаткові кнопки інтерфейсу</IW.ShowExtraUIButtons>
+  <IW.ShowExtraUIButtonsDesc>Показувати кнопки, які дозволяють за допомогою клавіатури встановлювати значення «цільової кількості» та «рівня відновлення» в деталях рецепту. Вимкніть, якщо у вас є мод або мова, які спричиняють неправильне розташування цих кнопок.</IW.ShowExtraUIButtonsDesc>
+
+  <IW.CountOutsideStockpiles>Врахуйте ресурси поза складами</IW.CountOutsideStockpiles>
+  <IW.CountOutsideStockpilesDesc>Помилка у ванільній грі не дозволяє врахувати «предмети ресурсів» (наприклад, їжу та ліки), якщо їх немає в запасах. Увімкніть цей параметр, щоб виправити це, або вимкніть, якщо ви використовуєте для цього інший мод.</IW.CountOutsideStockpilesDesc>
+
+</LanguageData>

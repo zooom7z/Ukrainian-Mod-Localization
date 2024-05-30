@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Leather_Legend.label>легендарна шкіра</Leather_Legend.label>
+	<Leather_Legend.description>Розкішна і надзвичайно важкодоступна, використовується для її довговічності та захисту.</Leather_Legend.description>
+	
+	<Leather_Chitin.label>хітин</Leather_Chitin.label>
+	<Leather_Chitin.description>Надзвичайно універсальний матеріал, що дорівнює сталі, часто зустрічається у вигляді екзоскелетів комах.</Leather_Chitin.description>
+	
+</LanguageData>

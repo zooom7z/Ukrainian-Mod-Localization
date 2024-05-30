@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Ukrainian Mod Localization</name>
+	<author>Hikaro</author>
+	<packageId>hikaro.uml</packageId>
+	<modVersion>1.0</modVersion>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Велика збірка перекладених модів як власноруч так і запозичених з виправленням помилок. 31.05.2024 р.</description>
+</ModMetaData>

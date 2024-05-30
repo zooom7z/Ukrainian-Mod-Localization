@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<NQoL_Drop_Spot.label>Місце падіння контейнерів</NQoL_Drop_Spot.label>
+	<NQoL_Drop_Spot.description>Вказує, де мають приземлитися контейнери з вантажем. \n\nПовинна бути розміщена на відкритому повітрі, інакше її може бути проігноровано. \n\nНа кожну мапу дозволено лише одне.</NQoL_Drop_Spot.description>
+	
+	<NQoL_Trader_Spot.label>Місце торгівлі</NQoL_Trader_Spot.label>
+	<NQoL_Trader_Spot.description>Позначає місце, де повинні стояти торгові каравани. \Каравани можуть ігнорувати це місце, якщо вважають його небезпечним. \n\nНа кожній карті дозволено лише одне місце.</NQoL_Trader_Spot.description>
+	
+</LanguageData>

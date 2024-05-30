@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <QualityColors>Quality Colors</QualityColors>
+    <QualityColors.Colors.Label>Змінити кольори</QualityColors.Colors.Label>
+    <QualityColors.Change>Редагувати колір для {0}</QualityColors.Change>
+    <QualityColors.Presets>Змінити пресет</QualityColors.Presets>
+    <QualityColors.Presets.Legacy>Стандартний, те, що мод мав в оригіналі</QualityColors.Presets.Legacy>
+    <QualityColors.Presets.WoW>World of Warcraft (ish)</QualityColors.Presets.WoW>
+    <QualityColors.Presets.Default>За замовчуванням</QualityColors.Presets.Default>
+    <QualityColors.Presets.Colorblind>Режим дальтоніка (Мені дуже шкода, якщо я все зіпсував)</QualityColors.Presets.Colorblind>
+    <QualityColors.Presets.FFXIV>Final Fantasy 14 (створено Erin)</QualityColors.Presets.FFXIV>
+    <QualityColors.Apply>Додати</QualityColors.Apply>
+    <QualityColors.Red>Червоний: </QualityColors.Red>
+    <QualityColors.Blue>Синій: </QualityColors.Blue>
+    <QualityColors.Green>Зелений: </QualityColors.Green>
+    <QualityColors.Preview>Попередній перегляд: </QualityColors.Preview>
+    <QualityColors.Changing>Зміна {0}</QualityColors.Changing>
+    <QualityColors.FullLabel.Label>Зафарбувати всю мітку?</QualityColors.FullLabel.Label>
+    <QualityColors.FullLabel.Tooltip>Зафарбувати всю мітку при натисканні на елемент?</QualityColors.FullLabel.Tooltip>
+</LanguageData>

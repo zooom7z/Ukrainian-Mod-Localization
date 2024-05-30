@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<HeavyReinforcedWall.label>укріплена стіна</HeavyReinforcedWall.label>
+	<HeavyReinforcedWall.description>Міцна непрохідна стіна, посилена, щоб витримати всі види пошкоджень і прямі вибухи. Здатна утримувати дах.</HeavyReinforcedWall.description>
+
+	<HeavyReinforcedEmbrasure.label>укріплена амбразура</HeavyReinforcedEmbrasure.label>
+	<HeavyReinforcedEmbrasure.description>Міцна непрохідна стіна з тактичним отвором для стрільби. Посилена, щоб витримати всі види пошкоджень і прямі вибухи. Здатна утримувати дах.</HeavyReinforcedEmbrasure.description>
+
+</LanguageData>

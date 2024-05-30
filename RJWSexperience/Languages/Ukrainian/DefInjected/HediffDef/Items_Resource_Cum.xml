@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CumTolerance.label>звикання до сперми</CumTolerance.label>
+	<CumTolerance.description>звикання до сперми.</CumTolerance.description>
+	
+	<CumTolerance.0.label>легке</CumTolerance.0.label>
+
+	<CumAddiction.label>залежність від сперми</CumAddiction.label>
+	<CumAddiction.description>залежність від сперми.</CumAddiction.description>
+  
+	<CumAddiction.stages.0.label>легка</CumAddiction.stages.0.label>
+	<CumAddiction.stages.1.label>ломка</CumAddiction.stages.1.label>
+
+
+</LanguageData>

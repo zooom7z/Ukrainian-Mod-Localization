@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Make_ComponentIndustrialx10.label>компонент x10</Make_ComponentIndustrialx10.label>
+	<Make_ComponentIndustrialx10.description>Виготовити 10 компонентів.</Make_ComponentIndustrialx10.description>
+	<Make_ComponentIndustrialx10.jobString>Виготовляєм 10 компонентів.</Make_ComponentIndustrialx10.jobString>
+	
+	<Make_ComponentIndustrialx25.label>компонент x25</Make_ComponentIndustrialx25.label>
+	<Make_ComponentIndustrialx25.description>Виготовити 25 компонентів.</Make_ComponentIndustrialx25.description>
+	<Make_ComponentIndustrialx25.jobString>Виготовляєм 25 компонентів.</Make_ComponentIndustrialx25.jobString>
+	
+	<Make_ComponentSpacerx10.label>передовий компонент x10</Make_ComponentSpacerx10.label>
+	<Make_ComponentSpacerx10.description>Виготовити 10 передових компонентів.</Make_ComponentSpacerx10.description>
+	<Make_ComponentSpacerx10.jobString>Виготовляєм 10 передових компонентів.</Make_ComponentSpacerx10.jobString>
+	
+	<Make_ComponentSpacerx25.label>передовий компонент x25</Make_ComponentSpacerx25.label>
+	<Make_ComponentSpacerx25.description>Виготовити 25 передових компонентів.</Make_ComponentSpacerx25.description>
+	<Make_ComponentSpacerx25.jobString>Виготовляєм 25 передових компонентів.</Make_ComponentSpacerx25.jobString>
+	
+</LanguageData>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LT_DoorMatCheckerLeather.label>Килимок у клітинку</LT_DoorMatCheckerLeather.label>
+
+	<LT_DoorMatLeather.label>Килимок</LT_DoorMatLeather.label>
+	<LT_DoorMatLeather.description>Килимок для витирання ніг.</LT_DoorMatLeather.description>
+	<LT_DoorMatBigLeather.label>Великий килимок</LT_DoorMatBigLeather.label>
+	<LT_DoorMatBigLeather.description>Килимок для витирання ніг.</LT_DoorMatBigLeather.description>
+
+	<LT_DoorMatRed.label>Килимок (червоний)</LT_DoorMatRed.label>
+	<LT_DoorMatRed.description>Килимок для витирання ніг.</LT_DoorMatRed.description>
+
+	<LT_DoorMatOrange.label>Килимок (помаранчевий)</LT_DoorMatOrange.label>
+	<LT_DoorMatOrange.description>Килимок для витирання ніг.</LT_DoorMatOrange.description>
+
+	<LT_DoorMatGreen.label>Килимок (зелений)</LT_DoorMatGreen.label>
+	<LT_DoorMatGreen.description>Килимок для витирання ніг.</LT_DoorMatGreen.description>
+
+	<LT_DoorMatTeal.label>Килимок (бірюзовий)</LT_DoorMatTeal.label>
+	<LT_DoorMatTeal.description>Килимок для очищення ніг.</LT_DoorMatTeal.description>
+
+	<LT_DoorMatBlue.label>Килимок (синій)</LT_DoorMatBlue.label>
+	<LT_DoorMatBlue.description>Килимок для витирання ніг.</LT_DoorMatBlue.description>
+
+  <!-- Bigs -->
+
+	<LT_DoorMatBigCheckerLeather.label>Великий килимок у клітинку</LT_DoorMatBigCheckerLeather.label>
+
+	<LT_DoorMatBigRed.label>Великий килимок (червоний)</LT_DoorMatBigRed.label>
+	<LT_DoorMatBigRed.description>Килимок для витирання ніг.</LT_DoorMatBigRed.description>
+
+	<LT_DoorMatBigOrange.label>Великий килимок (помаранчевий)</LT_DoorMatBigOrange.label>
+	<LT_DoorMatBigOrange.description>Килимок для витирання ніг.</LT_DoorMatBigOrange.description>
+
+	<LT_DoorMatBigGreen.label>Великий килимок (зелений)</LT_DoorMatBigGreen.label>
+	<LT_DoorMatBigGreen.description>Килимок для витирання ніг.</LT_DoorMatBigGreen.description>
+
+	<LT_DoorMatBigTeal.label>Великий килимок (сірий)</LT_DoorMatBigTeal.label>
+	<LT_DoorMatBigTeal.description>Килимок для витирання ніг.</LT_DoorMatBigTeal.description>
+
+	<LT_DoorMatBigBlue.label>Великий килимок (синій)</LT_DoorMatBigBlue.label>
+	<LT_DoorMatBigBlue.description>Килимок для витирання ніг.</LT_DoorMatBigBlue.description>
+
+</LanguageData>

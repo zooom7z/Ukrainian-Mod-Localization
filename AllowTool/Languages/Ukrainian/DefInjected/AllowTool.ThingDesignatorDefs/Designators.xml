@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<AllowDesignator.label>Дозволити предмети</AllowDesignator.label>
+	<AllowDesignator.description>Знімає заборону зі всіх предметів у виділеній області</AllowDesignator.description>
+
+	<ForbidDesignator.label>Заборонити предмети</ForbidDesignator.label>
+	<ForbidDesignator.description>Ставить заборону на всі предмети у виділеній області</ForbidDesignator.description>
+	
+	<AllowAllDesignator.label>Дозволити все</AllowAllDesignator.label>
+	<AllowAllDesignator.description>Знімає заборону зі всіх предметів на всій карті
+Утримуйте Ctrl, щоб зняти заборону з будівель
+Утримуйте Shift, щоб зняти заборону з скелетів і гнилих трупів</AllowAllDesignator.description>
+	
+	<SelectSimilarDesignator.label>Виділити схоже</SelectSimilarDesignator.label>
+	<SelectSimilarDesignator.description>Виділяє тільки ті предмети, які схожі з вже виділенними
+Утримуйте Shift, щоб виділити додаткові типи
+Утримуйте Alt, щоб ігнорувати обмеження кількості виділених предметів</SelectSimilarDesignator.description>
+
+	<HaulUrgentlyDesignator.label>Термінове перенесення</HaulUrgentlyDesignator.label>
+	<HaulUrgentlyDesignator.description>Виділяє предмети, які повинні бути перенесені раніше будь-яких інших робіт
+Утримуйте Shift, щоб перервати поточні  работи і негайно почати переносити</HaulUrgentlyDesignator.description>
+
+	<FinishOffDesignator.label>Добити</FinishOffDesignator.label>
+	<FinishOffDesignator.description>Швидко і безболісно добити переможених істот
+Утримуйте Shift, щоб дозволити колоністів і союзників</FinishOffDesignator.description>
+	
+	<HarvestFullyGrownDesignator.label>Зібрати дозріле</HarvestFullyGrownDesignator.label>
+	<HarvestFullyGrownDesignator.description>Відмічає для збору тільки дозрілі рослини, щоб отримати максимальний урожай
+Утримуйте Shift, щоб відмічати тільки рослини
+Утримуйте Ctrl, щоб овідмічати тільки дерева</HarvestFullyGrownDesignator.description>
+	
+	<StripMineDesignator.label>Размітка шахт</StripMineDesignator.label>
+	<StripMineDesignator.description>Виділяйте для розкопки коридори шахт в вигляді сітки, що збільшить шанси знайти рудне родовище
+Утримуйте Shift, щоб відкрити вікно налаштувань або зразу застосувати виділення</StripMineDesignator.description>
+
+</LanguageData>

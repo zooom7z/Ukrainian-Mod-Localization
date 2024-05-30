@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Arm.label>рука</Arm.label>
+  <Arm.description>Людська рука. Руки схожі на ноги, за винятком того, що ви можете носити ними з собою речі.</Arm.description>
+  
+  <Brain.label>мозок</Brain.label>
+  <Brain.description>Людський мозок. Вмістилище самосвідомості.</Brain.description>
+  
+  <Ear.label>вухо</Ear.label>
+  <Ear.description>Людське вухо. Сприймає вібрації в повітрі, даючи змогу людям чути.</Ear.description>
+  
+  <Eye.label>око</Eye.label>
+  <Eye.description>Людське око. Сприймає світло, даючи змогу людині дізнатися, що навколо неї.</Eye.description>
+
+  <Foot.label>стопа</Foot.label>
+  <Foot.description>Людська стопа. Те, на що можна надіти туфлі.</Foot.description>
+  
+  <Hand.label>кисть</Hand.label>
+  <Hand.description>Найкращий друг людини.</Hand.description>
+
+  <Jaw.label>щелепа</Jaw.label>
+  <Jaw.description>Людська щелепа. Хороший набір зубів для пережовування їжі та розмов.</Jaw.description>
+
+  <Leg.label>нога</Leg.label>
+  <Leg.description>Людська нога. Довгі м'ясисті палички, які дозволяють вам пересуватися.</Leg.description>
+  
+  <Nose.label>ніс</Nose.label>
+  <Nose.description>Людський ніс. Досить корисний орган для розпізнавання запахів, дає змогу прикрасити ваше обличчя.</Nose.description>
+
+  <Spine.label>хребет</Spine.label>
+  <Spine.description>Людський хребет. Необхідний, щоб стояти і ходити, а так само щоб вас підтримати.</Spine.description>  
+
+  <Stomach.label>шлунок</Stomach.label>
+  <Stomach.description>Людський шлунок. Перетравлює їжу і перетворює її на енергію та поживні речовини.</Stomach.description>
+
+  <!--Mod: Extended Human Body Simulation-->
+
+  <Patella.label>колінна чашечка</Patella.label>
+  <Patella.description>Людська колінна чашечка. Дає змогу швидко гнутися ніжкам.</Patella.description>  
+
+  <Fibula.label>малогомілкова кістка</Fibula.label>
+  <Fibula.description>Людська мала гомілкова кістка. Дозволяє повертати стопу вправо і вліво.</Fibula.description>  
+
+  <Ulna.label>ліктьова кістка</Ulna.label>
+  <Ulna.description>Людська ліктьова кістка. Парна трубчаста кістка передпліччя.</Ulna.description>
+  
+  <LobeLiver.label>частка печінки</LobeLiver.label>
+  <LobeLiver.description>Людська частка печінки. Печінка в людському тілі служить для очищення крові від токсинів і отрут, а також від інших шкідливих речовин.</LobeLiver.description>
+
+  <Spleen.label>селезінка</Spleen.label>
+  <Spleen.description>Людська селезінка. Найважливіший орган в імунній та кровотворній функціях організму.</Spleen.description>
+  
+  <Finger.label>палець руки</Finger.label>
+  <Finger.description>Людський палець руки.</Finger.description>  
+  
+  <Toe.label>палець ноги</Toe.label>
+  <Toe.description>Людський палець ноги.</Toe.description>    
+
+</LanguageData>

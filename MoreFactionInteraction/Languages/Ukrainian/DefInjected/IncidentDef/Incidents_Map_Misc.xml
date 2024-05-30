@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<MFI_ReverseTradeRequest.label>торговий запит</MFI_ReverseTradeRequest.label>
+   <MFI_ReverseTradeRequest.letterLabel>Запит на торгівлю</MFI_ReverseTradeRequest.letterLabel>
+
+   <MFI_PirateExtortion.label>піратське вимагання</MFI_PirateExtortion.label>
+   <MFI_PirateExtortion.letterLabel>Вимога піратської комісії</MFI_PirateExtortion.letterLabel>
+
+   <MFI_WoundedCombatants.label>поранені учасники бойових дій</MFI_WoundedCombatants.label>
+
+</LanguageData>

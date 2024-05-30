@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WeaponStats.Ground>На землі</WeaponStats.Ground>
+	<WeaponStats.Colonists>Колоністи</WeaponStats.Colonists>
+	<WeaponStats.Prisoners>В'язні</WeaponStats.Prisoners>
+	<WeaponStats.Hostiles>Вороги</WeaponStats.Hostiles>
+	<WeaponStats.Friendlies>Союзники</WeaponStats.Friendlies>
+	<WeaponStats.Corpses>Трупи</WeaponStats.Corpses>
+	<WeaponStats.Storage>Склад</WeaponStats.Storage>
+	<WeaponStats.Craftable>Виготовляється</WeaponStats.Craftable>
+	<WeaponStats.All>Всі</WeaponStats.All>
+	
+	<WeaponStats.Ranged>Зброя дальнього бою</WeaponStats.Ranged>
+	<WeaponStats.Melee>Зброя ближнього бою</WeaponStats.Melee>
+	<WeaponStats.Grenades>Гранати</WeaponStats.Grenades>
+	<WeaponStats.Apparel>Одяг</WeaponStats.Apparel>
+	<WeaponStats.Turrets>Турелі</WeaponStats.Turrets>
+	<WeaponStats.Other>Решта</WeaponStats.Other>
+
+</LanguageData>

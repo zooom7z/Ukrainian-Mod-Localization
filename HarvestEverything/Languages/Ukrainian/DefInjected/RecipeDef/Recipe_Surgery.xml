@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HarvestEverything.label>вилучити всі органи</HarvestEverything.label>
+	<HarvestEverything.description>Приведіть істоту до непритомності, ввівши загальний наркоз, перш ніж видалити всі придатні для використання органи.</HarvestEverything.description>
+	<HarvestEverything.jobString>Вирізаю частини.</HarvestEverything.jobString>
+
+  <InstallNaturalArm.label>пересадка руки</InstallNaturalArm.label>
+  <InstallNaturalArm.description>Пересадити руку.</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>Пересадка руки.</InstallNaturalArm.jobString>
+  
+  <InstallNaturalBrain.label>пересадка мозку</InstallNaturalBrain.label>
+  <InstallNaturalBrain.description>Пересадити мозок.</InstallNaturalBrain.description>
+  <InstallNaturalBrain.jobString>Пересадка мозку.</InstallNaturalBrain.jobString>
+  
+  <InstallNaturalEar.label>пересадка вуха</InstallNaturalEar.label>
+  <InstallNaturalEar.description>Пересадити вухо.</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>Пересадка вуха.</InstallNaturalEar.jobString>
+  
+  <InstallNaturalEye.label>пересадка ока</InstallNaturalEye.label>
+  <InstallNaturalEye.description>Пересадити око.</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>Пересадка ока.</InstallNaturalEye.jobString>
+  
+  <InstallNaturalFoot.label>пересадка стопи</InstallNaturalFoot.label>
+  <InstallNaturalFoot.description>Пересадити стопу.</InstallNaturalFoot.description>
+  <InstallNaturalFoot.jobString>Пересадка стопи.</InstallNaturalFoot.jobString>
+  
+  <InstallNaturalHand.label>пересадка кисті</InstallNaturalHand.label>
+  <InstallNaturalHand.description>Пересадити кисть.</InstallNaturalHand.description>
+  <InstallNaturalHand.jobString>Пересадка кисті.</InstallNaturalHand.jobString>
+  
+  <InstallNaturalJaw.label>пересадка щелепи</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>Пересадити щелепу.</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>Пересадка щелепи.</InstallNaturalJaw.jobString>
+  
+  <InstallNaturalLeg.label>пересадка ноги</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>Пересадити ногу.</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>Пересадка ноги.</InstallNaturalLeg.jobString>
+  
+  <InstallNaturalNose.label>пересадка носа</InstallNaturalNose.label>
+  <InstallNaturalNose.description>Пересадити ніс.</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>Пересадка носа.</InstallNaturalNose.jobString>
+  
+  <InstallNaturalSpine.label>пересадка хребта</InstallNaturalSpine.label>
+  <InstallNaturalSpine.description>Пересадити хребет.</InstallNaturalSpine.description>
+  <InstallNaturalSpine.jobString>Пересадка хребта.</InstallNaturalSpine.jobString>
+
+  <InstallNaturalStomach.label>пересадка шлунка</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>Пересадити шлунок.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>Пересадка шлунка.</InstallNaturalStomach.jobString>
+  
+  <!--Mod: Extended Human Body Simulation-->
+
+  <InstallNaturalPatella.label>пересадка колінної чашечки</InstallNaturalPatella.label>
+  <InstallNaturalPatella.description>Пересадити колінну чашечку.</InstallNaturalPatella.description>
+  <InstallNaturalPatella.jobString>Пересадка колінної чашечки.</InstallNaturalPatella.jobString>
+  
+  <InstallNaturalFibula.label>пересадка малогомілкової кістки</InstallNaturalFibula.label>
+  <InstallNaturalFibula.description>Пересадити малогомілкову кістку.</InstallNaturalFibula.description>
+  <InstallNaturalFibula.jobString>Пересадка малогомілкової кістки.</InstallNaturalFibula.jobString>
+
+  <InstallNaturalUlna.label>пересадка ліктьової кістки</InstallNaturalUlna.label>
+  <InstallNaturalUlna.description>пересадити ліктьову кістку.</InstallNaturalUlna.description>
+  <InstallNaturalUlna.jobString>Пересадка ліктьової кістки.</InstallNaturalUlna.jobString>
+  
+  <InstallNaturalLobeLiver.label>пересадка частки печінки</InstallNaturalLobeLiver.label>
+  <InstallNaturalLobeLiver.description>Пересадити частку печінки.</InstallNaturalLobeLiver.description>
+  <InstallNaturalLobeLiver.jobString>Пересадка частки печінки.</InstallNaturalLobeLiver.jobString>  
+  
+  <InstallNaturalLiver.label>пересадка печінки</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Пересадити печінку.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Пересадка печінки.</InstallNaturalLiver.jobString>  
+
+  <InstallNaturalSpleen.label>пересадка селезінки</InstallNaturalSpleen.label>
+  <InstallNaturalSpleen.description>Пересадити селезінку.</InstallNaturalSpleen.description>
+  <InstallNaturalSpleen.jobString>Пересадка селезінки.</InstallNaturalSpleen.jobString>
+  
+  <InstallNaturalFinger.label>пересадка пальця руки</InstallNaturalFinger.label>
+  <InstallNaturalFinger.description>Пересадити палець руки.</InstallNaturalFinger.description>
+  <InstallNaturalFinger.jobString>Пересадка пальця руки.</InstallNaturalFinger.jobString>
+
+  <InstallNaturalToe.label>пересадка пальця ноги</InstallNaturalToe.label>
+  <InstallNaturalToe.description>Пересадити палець ноги.</InstallNaturalToe.description>
+  <InstallNaturalToe.jobString>Пересадка пальця ноги.</InstallNaturalToe.jobString>    
+
+</LanguageData>

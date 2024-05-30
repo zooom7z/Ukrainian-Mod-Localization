@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Absorber_Tampon.label>тампон</Absorber_Tampon.label>
+	<Absorber_Tampon.description>Тампон для поглинання рідини з піхви.&#10;Може спричинити інфекцію, якщо носити його занадто довго.</Absorber_Tampon.description>
+
+	<Absorber_Tampon_Dirty.label>брудний тампон</Absorber_Tampon_Dirty.label>
+	<Absorber_Tampon_Dirty.description>Вологий використаний тампон.&#10;Може спричинити інфекцію, якщо залишити його всередині.</Absorber_Tampon_Dirty.description>
+
+	<Absorber_Pad.label>прокладка</Absorber_Pad.label>
+	<Absorber_Pad.description>Прокладка для вбирання рідини з піхви.</Absorber_Pad.description>
+
+	<Absorber_Pad_Dirty.label>волога прокладка</Absorber_Pad_Dirty.label>
+	<Absorber_Pad_Dirty.description>волога використана прокладка.</Absorber_Pad_Dirty.description>
+
+	<FilthMixture.label>суміш</FilthMixture.label>
+
+</LanguageData>

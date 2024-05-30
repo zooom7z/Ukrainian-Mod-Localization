@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Settings -->
+<LanguageData>
+  <LWMDSignoredDueTo>Цей параметр ігнорується через мод {0}</LWMDSignoredDueTo>
+  <!--Some basic vanilla compatibility-->
+  <LWMDSVanillaShelves>Vanilla Shelf Balance</LWMDSVanillaShelves>
+  <LWMDSVanillaShelvesDesc>Vanilla Shelves cost 20 by default. Vanilla stools cost 25 by default. This seems to me rather silly... Real world cheap shelves cost considerably more than real world cheap chairs. While a full grown pawn weighs more than 2 suits of plate mail armor, shelves are much taller than a stool...  The shelves(20) even cost less than a table(28), despite needing 3(or 4) levels! I feel 60 material is a more reasonable amount. BUT - you can go with vanilla value of 20 if you want :)</LWMDSVanillaShelvesDesc>
+  <LWMDSVanillaShelvesCost>New cost of Vanilla Shelves (vanilla is 20, LWM says 60):</LWMDSVanillaShelvesCost>
+  <LWMDSmakeAllStorageDeepStorage>Make all storage Deep Storage?</LWMDSmakeAllStorageDeepStorage>
+  <LWMDSmakeAllStorageDeepStorageDesc>Treat all storage items (for example, vanilla Shelves) as Deep Storage. Mostly, this doesn't affect much, but it does mean you get DS's fancy inventory tab, so there's that?</LWMDSmakeAllStorageDeepStorageDesc>
+  <!--Who can haul TO storage-->
+  <LWMDShaulToStorageExplanation>Хто може використовувати сховище:\nЗа замовчуванням лише люди (або людиноподібні інопланетяни) володіють розумом, необхідним для зберігання речей ДО сховища: акуратно складати, організовувати полиці, маніпулювати засувками тощо.\nКОЖЕН може брати ЗІ сховища.</LWMDShaulToStorageExplanation>
+  <LWMDSrobotsCanUse>Роботи завжди можуть перенести до Deep storage? (підтримуються деякі роботи)</LWMDSrobotsCanUse>
+  <LWMDSrobotsCanUseDesc>Дозвольте роботам переносити до Deep storage. Підтримуються роботи з "Misc. Robots"; підтримка Project RimFactory - Дрони наступають.</LWMDSrobotsCanUseDesc>
+  <LWM_DS_IntTitle>Мінімальний інтелект, необхідний для перевезення в Deep Storage</LWM_DS_IntTitle>
+  <LWM_DS_IntDesc>Ця опція може дозволити вашим тваринам/роботам/чому завгодно перевозити ДО Deep storage.\nБільшість інопланетних рас мають «Людиноподібні» або кращі. Більшість тварин є «тваринами». Vanilla Mechanoids є «користувачами інструментів». Роботи з різних модів? Ваші припущення такі ж добрі, як і мої, але спочатку спробуйте «Користувачі інструментів», а потім, можливо, тварини.\nЗауважте, що БУДЬ-ХТО може взяти З Deep storage.</LWM_DS_IntDesc>
+  <LWM_DS_Int_Animal>Тварина (Тварини та деякі мод-роботи)</LWM_DS_Int_Animal>
+  <LWM_DS_Int_ToolUser>Користувач інструментів (механоїди та деякі мод-роботи)</LWM_DS_Int_ToolUser>
+  <LWM_DS_Int_Humanlike>Людиноподібний (Люди, більшість мод-прибульців, за замовчуванням) (LWM * схвалення)</LWM_DS_Int_Humanlike>
+
+  <!--How long does storing take?-->
+  <LWMDSstoringDelaySettings>параметер затримки при складанні в сховок</LWMDSstoringDelaySettings>
+  <LWMDSstoringDelayExplanation>За замовчуванням розміщення речей у Deep Storage займає деякий час (організація). Необхідний час може бути складним для обчисленням, іноді враховуючи, скільки видів речей знаходиться на зберіганні та скільки речей поміщається на зберігання. Використання деяких модів порушує цей розрахунок.</LWMDSstoringDelayExplanation>
+  <LWMDSstoringTakesTimeLabel>Якщо ви дійсно хочете ВИМКНУТИ затримку під час складання речей, зніміть цей прапорець.</LWMDSstoringTakesTimeLabel>
+  <LWMDSstoringTakesTimeDesc>Вимкнути це не є тим, як LWM грає. Але привіт, це ваша гра! Ви робите це!</LWMDSstoringTakesTimeDesc>
+  <LWMDSstoringGlobalScale>Загальний час зберігання: {0}%\nЯкщо ви хочете налаштувати, скільки часу потрібно пішакам для складування предметів (можливо, ви думаєте, що це займає занадто багато часу), ви можете змінити це налаштування, і воно застосовуватиметься до всіх одиниць зберігання.</LWMDSstoringGlobalScale>
+  <LWMDSstoringTimeConsidersStackSize>Чи враховує час зберігання розмір стека? (Stack XXL? Ogre Stack?)</LWMDSstoringTimeConsidersStackSize>
+  <LWMDSstoringTimeConsidersStackSizeDesc>Якщо вибрано (за замовчуванням), збереження 75 чогось може тривати довше, ніж збереження 3. Це в основному впливає на пропуски. Ймовірно, ви захочете вимкнути цю функцію, якщо використовуєте мод, який робить розмір стека дуже великим.</LWMDSstoringTimeConsidersStackSizeDesc>
+
+  <LWM_DS_defaultStoragePriority>Deep Storage за замовчуванням пріоритет зберігання:</LWM_DS_defaultStoragePriority>
+
+  <LWM_DS_userInterface>Інтерфейс користувача</LWM_DS_userInterface>
+  <LWM_DS_useEjectButton>Показати кнопку "Витягти" (скинути).</LWM_DS_useEjectButton>
+  <LWM_DS_useEjectButtonDesc>Показати кнопку «Витягнути» на вкладці «Вміст». Зміна цього параметра набуває чинності негайно.</LWM_DS_useEjectButtonDesc>
+  <LWM_DS_useDSRightClick>Використовуйте Deep Storage, клацніть правою кнопкою миші</LWM_DS_useDSRightClick>
+  <LWM_DS_useDSRightClickDesc>Спеціальний інтерфейс Deep Storage, що натискається правою кнопкою миші, ПОВИНЕН працювати та має спростити використання, особливо в шафах зі зброєю з такими модами, як Dual Wielding. Вимкніть це, щоб використовувати логіку Vanilla, якщо щось зламається, але це може ускладнити деякі завдання (наприклад, завантаження караванів). Примітка: вимкнення цього може порушити деякі ігрові механізми.\n\nПотрібно перезапустити, щоб набуло чинності.</LWM_DS_useDSRightClickDesc>
+  <!-- Architect menu settings -->
+  <LWM_DS_Storage_ArchitectMenuSettings>Розташування в меню архітектора:</LWM_DS_Storage_ArchitectMenuSettings>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>Завжди показувати категорію зберігання?</LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>Місце за замовчуванням для всіх одиниць Deep Storage знаходиться в категорії «Зберіганняя» в меню архітектора. Якщо ви зміните це, за замовчуванням категорія «Зберігання» зникає, і ми намагаємося очистити будь-які інші категорії «Зберігання» з інших модів. Позначте це, якщо ви хочете, щоб він завжди був там, навіть якщо в ньому немає блоків глибокого зберігання.</LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>
+  <LWM_DS_Storage_ArchitectMenuMoveALL>Помістити тут (майже) ВСІ одиниці зберігання?</LWM_DS_Storage_ArchitectMenuMoveALL>
+  <LWM_DS_Storage_ArchitectMenuMoveALLDesc>Поставте прапорець, щоб перемістити такі речі, як ванільні полиці або блоки зберігання інших модів, у «Сховище». «Виробничі» складські будівлі (наприклад, бункери) не переміщуються. ЩОБ ПОВНІСТЮ ВИМКНУТИ ПОТРІБНО ПЕРЕЗАПУСТИТИ! Якщо ви знімете цей прапорець, елементи залишатимуться в розділі «Меблі», доки ви не перезапустите програму.</LWM_DS_Storage_ArchitectMenuMoveALLDesc>
+  <!-- more settings -->
+
+  <LWMDSoverCapacityCheck>Перевірте сховище на перевищення ємності</LWMDSoverCapacityCheck>
+  <LWMDSoverCapacityCheckDesc>Якщо кілька речей опиняються в запасі, пішаки повинні знати, як їх очистити. Вимкнення цього запобігає цьому.\n\nВимкніть це, щоб дозволити деяким іншим модам пам’яті працювати:\n RimFactory</LWMDSoverCapacityCheckDesc>
+  <!-- Per DSU Settings -->
+  <LWMDSperDSUSettings>ЕКСПЕРИМЕНТАЛЬНА ЧАСТИНА: змініть параметри зберігання для кожного типу одиниці: Увага</LWMDSperDSUSettings>
+  <LWMDSperDSUturnOn>УВІМКНУТИ НАЛАШТУВАННЯ БУДІВЛІ, ЗМІНЕНІ КОРИСТУВАЧЕМ:</LWMDSperDSUturnOn>
+
+  <LWMDSperDSUturnOnDesc>Це дозволяє редагувати властивості кожної будівлі Deep Storage! Нічого не ламай, гаразд? ВИМКНЕННЯ ВСІ НАЛАШТУВАННЯ СКИНУТЬ ДО ПОЧАТКОВИХ ЗНАЧЕНЬ .</LWMDSperDSUturnOnDesc>
+  <LWMDSperDSUWarning>Примітка. Жодні налаштування не будуть збережені, якщо ви не ввімкнете цю функцію вище!</LWMDSperDSUWarning>
+  <LWMDSpDSUlabel>Label</LWMDSpDSUlabel>
+  <LWMDSpDSUshowContents>Показати вміст для цього типу будівлі</LWMDSpDSUshowContents>
+  <LWMDSpDSUoverlay>Який тип підрахунку (маленькі білі цифри) використовувати</LWMDSpDSUoverlay>
+  <LWMDSpDSUstoragePriority>Пріоритет зберігання за умовчанням для цієї будівлі</LWMDSpDSUstoragePriority>
+  <LWMDSpDSUchangeFilterQ>Змінити, які предмети дозволено використовувати в цій будівлі?</LWMDSpDSUchangeFilterQ>
+  <LWMDSpDSUchangeFilterQDesc>Якщо ви НЕ використовуєте спеціальний список елементів тут, зніміть цей прапорець.</LWMDSpDSUchangeFilterQDesc>
+  <LWM_DS_Default>(за замовчуванням: {0})</LWM_DS_Default>
+  <LWM.ResetAllToDefault>Скинути ВСЕ до початкових значень</LWM.ResetAllToDefault>
+
+</LanguageData>

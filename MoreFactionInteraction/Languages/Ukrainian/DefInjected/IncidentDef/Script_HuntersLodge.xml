@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MFI_HuntersLodge.label>мисливський будинок</MFI_HuntersLodge.label>
+   <MFI_HuntersLodge.letterText>Вас запросили на літній відпочинок {0} {1}. {2}. На місці є аванпост з усіма необхідними зручностями для приготування їжі, і вони висловили свою гостинність. Ця пропозиція діє через {3} днів.</MFI_HuntersLodge.letterText>
+   <MFI_HuntersLodge.letterLabel>Будинок мисливця</MFI_HuntersLodge.letterLabel>
+
+</LanguageData>

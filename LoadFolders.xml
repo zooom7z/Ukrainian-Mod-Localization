@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.5>
+	<li IfModActive="unlimitedhugs.allowtool">AllowTool</li>
+	<li IfModActive="iluvsilicon.basicmedicine2">BasicMedicine</li>
+	<li IfModActive="falconne.bwm">BetterWorkbenchManagement</li>
+	<li IfModActive="devdisigdu.bulk.components">BulkComponents</li>
+	<li IfModActive="brrainz.cameraplus">CameraPlus</li>
+	<li IfModActive="avilmask.commonsense">CommonSense</li>
+	<li IfModActive="dracoix.doormat.r12a">DoorMat</li>
+	<li IfModActive="ogliss.ykara.harvesteverything">HarvestEverything</li>
+	<li IfModActive="lwm.deepstorage">LWMDeepStorage</li>
+	<li IfModActive="dd.unofficial.notfood.mendandrecycle">MendAndRecycle</li>
+	<li IfModActive="cain.mineshaft">Mines</li>
+	<li IfModActive="mlie.morefactioninteraction">MoreFactionInteraction</li>
+	<li IfModActive="niilo007.niilosqol">NiiloQoL</li>
+	<li IfModActive="scorpio.optimizationleathers">OptimizationLeathers</li>
+	<li IfModActive="hatti.qualitybuilder">QualityBuilder</li>
+
+	<li IfModActive="legodude17.qualcolor">QualityColors</li>
+	<li IfModActive="tr.qualcolor">QualityColors</li>
+
+	<li IfModActive="crewd.reinforcedwallscontinued">ReinforcedWalls</li>
+	<li IfModActive="rim.job.world">RJW</li>
+	<li IfModActive="c0ffee.rjw.events">RJWEvents</li>
+	<li IfModActive="rjw.menstruation">RJWMenstruation</li>
+	<li IfModActive="rjw.milk.humanoid">RJWMilkableColonists</li>
+	<li IfModActive="rjw.sexperience">RJWSexperience</li>
+	<li IfModActive="krkr.rocketman">RocketMan</li>
+	<li IfModActive="mlie.smartervisitors">SmarterVisitors</li>
+	<li IfModActive="uuugggg.smartmedicine">SmartMedicine</li>
+	<li IfModActive="linkolas.stabilize">Stabilize</li>
+	<li IfModActive="gt.sam.tilledsoil">TilledSoil</li>
+	<li IfModActive="Donald.VCR">VanillaCombatReloaded</li>
+	<li IfModActive="vanillaexpanded.vhe">VanillaHairExpanded</li>
+	<li IfModActive="bodlosh.weaponstats">WeaponStats</li>
+
+	<li IfModActive=""></li>
+	<li IfModActive=""></li>
+	<li IfModActive=""></li>
+	<li IfModActive=""></li>
+	<li IfModActive=""></li>
+	<li IfModActive=""></li>
+	<li IfModActive=""></li>
+	</v1.5>
+</loadFolders>

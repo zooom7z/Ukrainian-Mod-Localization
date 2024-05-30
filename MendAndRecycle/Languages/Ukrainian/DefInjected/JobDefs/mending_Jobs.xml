@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Mending TargetB. -->
+	<Mend.reportString>Лагодить TargetB.</Mend.reportString>
+	<!-- EN: Recycling TargetB. -->
+	<Recycle.reportString>Переробляє TargetB.</Recycle.reportString>
+
+</LanguageData>

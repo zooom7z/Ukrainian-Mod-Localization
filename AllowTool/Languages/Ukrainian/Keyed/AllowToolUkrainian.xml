@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Allow_area_success>Дозволено {0} предметів</Allow_area_success>
+	<Allow_area_failure>Не знайдено заборонених предметів</Allow_area_failure>
+
+	<Forbid_area_success>Заборонено {0} предметів.</Forbid_area_success>
+	<Forbid_area_failure>Не знайдено предметів для заборони.</Forbid_area_failure>
+
+	<Allow_all_success>Дозволено {0} предметів по всій карті.</Allow_all_success>
+	<Allow_all_failure>Не знайдено заборонених предметів</Allow_all_failure>
+
+	<Mass_Select_success>Виділено {0} {1} по всій карті.</Mass_Select_success>
+
+	<setting_showTool_label>Показувати: {0}</setting_showTool_label>
+	<setting_showTool_desc>Якщо ввімкнено, інструменти будуть відображатися в меню</setting_showTool_desc>
+	<setting_globalHotkeys_label>Глобальні гарячі клавіші</setting_globalHotkeys_label>
+	<setting_globalHotkeys_desc>Якщо ввімкнено, інструменти можна вибрати натисканням однієї клавіші, не відкриваючи меню. Клавіші можна назначити в налаштуваннях у відповідному меню</setting_globalHotkeys_desc>
+	<setting_selectionLimit_label>Максимальна кількість виділених предметів</setting_selectionLimit_label>
+	<setting_selectionLimit_desc>Обмежує кількість предметів, які можуть бути виділені інструментом "Виділити подібне"</setting_selectionLimit_desc>
+	<setting_contextWatermark_label>Логотип в контекстному меню</setting_contextWatermark_label>
+	<setting_contextWatermark_desc>Відображає логотип AllowTool в контекстному меню інструментів</setting_contextWatermark_desc>
+	<setting_contextOverlay_label>Іконка контекстного меню на інструментах</setting_contextOverlay_label>
+	<setting_contextOverlay_desc>Відображає іконку ПКМ на інструментах, у яких є контекстне меню</setting_contextOverlay_desc>
+	<setting_extendedContextHotkey_label>Розширена клавіша "Дія контекстного меню"</setting_extendedContextHotkey_label>
+	<setting_extendedContextHotkey_desc>Коли не вибраний ні один інструмент, клавіша "Дія контекстного меню" активує дію контекстного меню першого інструмента на виділених предметах</setting_extendedContextHotkey_desc>
+	<setting_reverseDesignatorPick_label>Вибір інструментів з виділених предметів</setting_reverseDesignatorPick_label>
+	<setting_reverseDesignatorPick_desc>Коли предмети виділені, утримуючи клавішу Shift і натиснувши на інструмент, можна вибрати цей інструмент для подальшої роботи, замість того щоб активувати його на виділених предметах</setting_reverseDesignatorPick_desc>
+	<setting_finishOffUnforbids_label>Випавше дозволено після "Добити"</setting_finishOffUnforbids_label>
+	<setting_finishOffUnforbids_desc>Якщо ввімкнено, тіла і випавші предмети при добуванні, автоматично стануть доступні для перенесення</setting_finishOffUnforbids_desc>
+	<setting_providerPrefix>Включити: {0}</setting_providerPrefix>
+	<setting_provider_desc>Додає контекстне меню цьому інструменту, яке дозволяє взаємодіяти зі всією картою зразу</setting_provider_desc>
+	<setting_showToggles_btn>▼ Відкрити налаштування ▼</setting_showToggles_btn>
+	<setting_showToolToggles_label>Ввімкнути або вимкнути інструменти</setting_showToolToggles_label>
+	<setting_showProviderToggles_label>Ввімкнути або вимкнути контекстні меню</setting_showProviderToggles_label>
+	<setting_showReverseToggles_label>Інструменти на виділених предметах</setting_showReverseToggles_label>
+	<setting_reverseDesignator_desc>Якщо ввімкнено, відображає цей інструмент на підтримуваних виділених предметах. Вступає в силу після завантаження збереженої гри</setting_reverseDesignator_desc>
+	<setting_haulUrgentlyWorktype_label>Відображати тип роботи "Носій+"</setting_haulUrgentlyWorktype_label>
+	<setting_haulUrgentlyWorktype_desc>Якщо ввімкнено, панель налаштувань робіт відображає додатковий тип робіт для інструмента термінового перенесення. Потребує перезапуск</setting_haulUrgentlyWorktype_desc>
+	<setting_finishOffWorktype_label>Відображає тип роботи "Добивання"</setting_finishOffWorktype_label>
+	<setting_finishOffWorktype_desc>Якщо ввімкнено, панель налаштувань робіт відображає додатковий тип робіт для інструмента "Добити". Потребує перезапуск</setting_finishOffWorktype_desc>
+	<setting_finishOffSkill_label>"Добити" потребує навичку ближнього бою</setting_finishOffSkill_label>
+	<setting_finishOffSkill_desc>Інструмент "Добити" буде вимагати колоніста з достатньо развиненою навичкою ближнього бою для виконання наказу</setting_finishOffSkill_desc>
+	<setting_replaceIcons_label>Заміняє іконки Дозволити/Заборонити</setting_replaceIcons_label>
+	<setting_replaceIcons_desc>Заміняє іконки інструментів Дозволити і Заборонити на більш зрозумілі. Потребує перезапуск</setting_replaceIcons_desc>
+	
+	<setting_storageSpaceAlert_label>Сповіщення місця на складі</setting_storageSpaceAlert_label>
+	<setting_storageSpaceAlert_desc>Якщо є предмети, відмічені для термінового перенесення, але немає вільного місця на складі, буде появлятися сповіщення</setting_storageSpaceAlert_desc>
+	
+	<setting_partyHunt_label>Інструмент "Командне полювання"</setting_partyHunt_label>
+	<setting_partyHunt_desc>Якщо ввімкнено, показує кнопку "Командне полювання" для викликаних колоністів</setting_partyHunt_desc>
+	<setting_partyHuntFinish_label>Добивати поранених тварин</setting_partyHuntFinish_label>
+	<setting_partyHuntDesignated_label>Тільки цілі з міткою "Полювати"</setting_partyHuntDesignated_label>
+	<setting_partyHuntUnforbid_label>Знімати заборону з здобичі</setting_partyHuntUnforbid_label>
+	
+	<SelectSimilar_cursor_needConstraint>Натисніть для виділення предмета</SelectSimilar_cursor_needConstraint>
+	<SelectSimilar_cursor_nowSelecting>Буде виділено тільки: {0}</SelectSimilar_cursor_nowSelecting>
+	<SelectSimilar_cursor_limit>Виділено максимум предметів</SelectSimilar_cursor_limit>
+	<SelectSimilar_numMoreTypes>(ще {0})</SelectSimilar_numMoreTypes>
+
+	<Haul_urgently_success>{0} предметів будуть терміново перенесені</Haul_urgently_success>
+	<Haul_urgently_failure>Не знайдено предметів, які потребують перенесення</Haul_urgently_failure>
+
+	<Harvest_fully_grown_success>{0} повністю дозрілих рослин відмічено для збору врожаю</Harvest_fully_grown_success>
+	<Harvest_fully_grown_failure>Більше не знайдено повністю дозрілих рослин або дерев</Harvest_fully_grown_failure>
+
+	<StripMine_win_horizontalSpacing>Горизонтальний крок</StripMine_win_horizontalSpacing>
+	<StripMine_win_verticalSpacing>Вертикальний крок</StripMine_win_verticalSpacing>
+	<StripMine_win_showWindow>Показувати це вікно</StripMine_win_showWindow>
+	<StripMine_win_showWindow_tip>В вимкнутому стані, автоматично використовує поточні налаштування\nВікно можна знову показати утримуючи Shift</StripMine_win_showWindow_tip>
+	<StripMine_win_variableOffset>Рухома точка відліку</StripMine_win_variableOffset>
+	<StripMine_win_variableOffset_tip>Якщо ввімкнено, сітка будується від комірки, з якої почалось виділення. Якщо ні, то сітка завжди буде лягати в одні й ті ж комірки, незалежно від початкової точки</StripMine_win_variableOffset_tip>
+	<StripMine_cursor_autoApply>Буде зразу застосоване</StripMine_cursor_autoApply>
+
+	<Alert_noStorage_label>Немає місця на складі</Alert_noStorage_label>
+	<Alert_noStorage_desc>Предмети, які потребують вільного місця на складі:\n{0}\n\nПотрібно скасувати наказ термонового перенесення або звільнити місце під них</Alert_noStorage_desc>
+	
+	<Finish_off_skillRequired>Потрібен колоніст з навичкою ближнього бою {0} або вище, щоб використати цей інструмент</Finish_off_skillRequired>
+	<Finish_off_pawnSkillRequired>потрібен навичкою ближнього бою {0}</Finish_off_pawnSkillRequired>
+	<Finish_off_success>Відмічено {0} істот для добивання</Finish_off_success>
+	<Finish_off_failure>Не знайдено істот для добивання</Finish_off_failure>
+	<Finish_off_floatMenu>Добити {0}</Finish_off_floatMenu>
+	<Finish_off_floatMenu_reason_friendly>друг, утримуйте Shift</Finish_off_floatMenu_reason_friendly>
+
+	<Designator_context_similar>Виділіть подібні предмети на карті</Designator_context_similar>
+	<Designator_context_similar_succ>Виділено {0} подібних предметів на карті</Designator_context_similar_succ>
+	<Designator_context_similar_part>Виділено {0} з доступних {1} подібних предметів на карті</Designator_context_similar_part>
+	<Designator_context_similar_fail>Будь-що повинно бути вже виділено, щоб знайти і виділити подібні предмети</Designator_context_similar_fail>
+	<Designator_context_similar_visible>Виділено подібних предметів в видимій області</Designator_context_similar_visible>
+	<Designator_context_similar_visible_succ>Виділено {0} подібних предметів в видимій області</Designator_context_similar_visible_succ>
+	<Designator_context_similar_visible_part>Виділено {0} з доступних {1} подібних предметів в видимій області</Designator_context_similar_visible_part>
+	<Designator_context_similar_home>Виділено подібних предметів в домашній області</Designator_context_similar_home>
+	<Designator_context_similar_home_succ>Виділено {0} подібних предметів в домашній області</Designator_context_similar_home_succ>
+	<Designator_context_similar_home_part>Виділено {0} з доступних {1} подібних предметів в домашній області</Designator_context_similar_home_part>
+	<Designator_context_urgent>Терміново перенести предмети</Designator_context_urgent>
+	<Designator_context_urgent_visible>Терміново перенести видимі предмети</Designator_context_urgent_visible>
+	<Designator_context_urgent_all>Терміново перенести всі предмети на карті</Designator_context_urgent_all>
+	<Designator_context_urgent_succ>{0} предметів відмічено для термінового перенесення</Designator_context_urgent_succ>
+	<Designator_context_urgent_visible_succ>{0} видимих предметів відмічено для термінового перенесення</Designator_context_urgent_visible_succ>
+	<Designator_context_urgent_fail>Не знайдено предметів, які потрібно перенести</Designator_context_urgent_fail>
+	<Designator_context_strip>Роздягнути всіх ворогів</Designator_context_strip>
+	<Designator_context_strip_succ>{0} відмічено тіл тіл для роздягання</Designator_context_strip_succ>
+	<Designator_context_strip_fail>Не знайдено тіл для роздягання</Designator_context_strip_fail>
+	<Designator_context_harvest>Зібрати врожай зі всіх рослин</Designator_context_harvest>
+	<Designator_context_harvest_home>Зібрати врожай в домашній області</Designator_context_harvest_home>
+	<Designator_context_harvest_succ>{0} рослин відмічено для збору врожаю</Designator_context_harvest_succ>
+	<Designator_context_harvest_fail>Не знайдено рослин готових до збору</Designator_context_harvest_fail>
+	<Designator_context_haul>Перенести все</Designator_context_haul>
+	<Designator_context_haul_succ>Відмічено {0} нових предметів для переносу</Designator_context_haul_succ>
+	<Designator_context_haul_fail>Не знайдено нових предметів для переносу</Designator_context_haul_fail>
+	<Designator_context_chop>Вирубить весь ліс</Designator_context_chop>
+	<Designator_context_chop_succ>Відмічено {0} нових дерев для вирубки</Designator_context_chop_succ>
+	<Designator_context_chop_fail>Не знайдено дерев, готових до вирубки</Designator_context_chop_fail>
+	<Designator_context_hunt>Полювати на всіх тварин</Designator_context_hunt>
+	<Designator_context_hunt_succ>Відмічено {0} нових тварин для полювання</Designator_context_hunt_succ>
+	<Designator_context_hunt_fail>Не знайдено нових тварин, на яких можна було б полювати</Designator_context_hunt_fail>
+	<Designator_context_mine>Копати руду поблизу</Designator_context_mine>
+	<Designator_context_mine_succ>Відмічено {0} додаткових шматків руди для копання</Designator_context_mine_succ>
+	<Designator_context_mine_fail>Потрібно відмітити один або більше шматків руди, щоб використати цю команду</Designator_context_mine_fail>
+	<Designator_context_mine_selectStripMine>Інструмент "Розмітка шахт"</Designator_context_mine_selectStripMine>
+	<Designator_context_cancel_build>Скасувати всі плани на будівлі</Designator_context_cancel_build>
+	<Designator_context_cancel_build_succ>{0} планів було скасовано</Designator_context_cancel_build_succ>
+	<Designator_context_cancel_build_fail>Не знайдено планів для скасування</Designator_context_cancel_build_fail>
+	<Designator_context_cancel_desig>Скасувати всі вказівки на карті</Designator_context_cancel_desig>
+	<Designator_context_cancel_desig_msg>Скасовано {0} вказівок на предметах і {1} на ландшафті</Designator_context_cancel_desig_msg>
+	<Designator_context_cancel_selected>Скасувати всі вказіки для цього виду</Designator_context_cancel_selected>
+	<Designator_context_cancel_selected_succ>Скасовано {0} вказівок на {1} предметах</Designator_context_cancel_selected_succ>
+	<Designator_context_cancel_selected_fail>Потрібно виділити предмет з вказівками, щоб скасувати всі вказівки цього типа</Designator_context_cancel_selected_fail>
+	<Designator_context_finish>Добити всіх переможених істот</Designator_context_finish>
+	<Designator_context_finish_succ>{0} істот будуть добиті</Designator_context_finish_succ>
+	<Designator_context_finish_allies>{0} істот, включаючи дружніх, будуть добиті</Designator_context_finish_allies>
+	<Designator_context_finish_fail>Не знайдено цілей для добування</Designator_context_finish_fail>
+	<Designator_context_cut>Зрізати всі хворі рослини</Designator_context_cut>
+	<Designator_context_cut_succ>Відмічено {0} хворих рослин для зрізання</Designator_context_cut_succ>
+	<Designator_context_cut_fail>Не знайдено нових хворих рослин для зрізання</Designator_context_cut_fail>
+	<Designator_context_harvest_fullgrown>Зібрати дозрілі рослини на карті</Designator_context_harvest_fullgrown>
+	<Designator_context_harvest_home_fullgrown>Зібрати дозрілі рослини в домашній області</Designator_context_harvest_home_fullgrown>
+	<Designator_context_harvest_fullgrown_succ>{0} дозрілих рослин відмічено для збору врожаю</Designator_context_harvest_fullgrown_succ>
+	<Designator_context_harvest_fullgrown_fail>Більше не знайдено дозрілих рослин або дерев</Designator_context_harvest_fullgrown_fail>
+	<Designator_context_allow_visible>Дозволити всі видимі предмети</Designator_context_allow_visible>
+	<Designator_context_allow_visible_succ>Дозволено {0} видимих предметів</Designator_context_allow_visible_succ>
+	<Designator_context_allow_visible_fail>Не знайдено видимих заборонених предметів для дозволу</Designator_context_allow_visible_fail>
+	<Designator_context_forbid_visible>Заборонити всі видимі предмети</Designator_context_forbid_visible>
+	<Designator_context_forbid_visible_succ>Заборонено {0} видимих предметів</Designator_context_forbid_visible_succ>
+	<Designator_context_forbid_visible_fail>Не знайдено видимих дозволених предметів для заборони</Designator_context_forbid_visible_fail>
+
+	<PartyHuntToggle_label>Командне полювання</PartyHuntToggle_label>
+	<PartyHuntToggle_desc>Дозволяє колоністам відкривати вогонь по диким тваринах. ПКМ відкриває налаштування.\nДодано модом Allow Tool</PartyHuntToggle_desc>
+	
+</LanguageData>

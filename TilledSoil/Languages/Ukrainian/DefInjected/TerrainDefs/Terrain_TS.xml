@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <Dirt.label>ґрунт</Dirt.label>
+  <Dirt.description>Звичайна земля. На смак як бруд.</Dirt.description>
+
+
+  <GT_SoilTilled.label>оброблений ґрунт</GT_SoilTilled.label>
+  <GT_SoilTilled.description>Оброблений ґрунт, для правильної посадки сільськогосподарських культур.</GT_SoilTilled.description>
+
+
+</LanguageData>

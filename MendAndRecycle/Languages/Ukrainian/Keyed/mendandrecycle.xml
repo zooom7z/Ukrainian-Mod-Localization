@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <MendRecycle>MendAndRecycle</MendRecycle>
+
+  <!-- Settings -->
+
+  <!-- EN: Removes Deadman from Apparel -->
+  <MendRecycle.RemovesDeadman>Прибирати відмітку "Знято з мертвого" з одягу</MendRecycle.RemovesDeadman>
+  <!-- EN: Does fully fixing an apparel in the mending table remove the deadman tag? -->
+  <MendRecycle.RemovesDeadmanTooltip>Чи має повний ремонт речей на верстаті знімати позначку "знято з мертвого"?</MendRecycle.RemovesDeadmanTooltip>
+  <!-- EN: Uses Mending Table -->
+  <MendRecycle.UseTableMending>Використовувати ремонтний верстат</MendRecycle.UseTableMending>
+  <!-- EN: Requires Fuel -->
+  <MendRecycle.RequiresFuel>Необхідність ремкомплектів</MendRecycle.RequiresFuel>
+  <!-- EN: Does the mending table need mending kits? (Needs restart) -->
+  <MendRecycle.RequiresFuelTooltip>Чи потрібні ремкомплекти для верстата? (Потрібен рестарт)</MendRecycle.RequiresFuelTooltip>
+  <!-- EN: Requires Power -->
+  <MendRecycle.RequiresPower>Необхідність електроенергії</MendRecycle.RequiresPower>
+  <!-- EN: Does the mending table require power? (Needs restart) -->
+  <MendRecycle.RequiresPowerTooltip>Чи потрібна електрика для роботи на ремонтному верстаті? (Потрібен рестарт)</MendRecycle.RequiresPowerTooltip>
+
+  <!-- EN: Percentage of Max Hit Points in play -->
+  <MendRecycle.MaxHPCost>Відсоток максимальної міцності речі</MendRecycle.MaxHPCost>
+  <!-- EN: Fail Chance per Tech Level -->
+  <MendRecycle.FailChances>Шанс помилки за рівень технічного розвитку</MendRecycle.FailChances>
+
+</LanguageData>

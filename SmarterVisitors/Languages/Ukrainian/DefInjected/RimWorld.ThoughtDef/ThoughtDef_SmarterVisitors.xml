@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--slight delay-->
+  <TravelDelayed.stages.slight_delay.label>коротка затримка</TravelDelayed.stages.slight_delay.label>
+  <!--I had to delay my plans for leaving this place, but it was for a good reason I think.-->
+  <TravelDelayed.stages.slight_delay.description>Мені довелося відкласти свої плани, але я думаю, що це було недаремно.</TravelDelayed.stages.slight_delay.description>
+  <!--delay-->
+  <TravelDelayed.stages.delay.label>затримка</TravelDelayed.stages.delay.label>
+  <!--I dont want to stay around here any longer, hopefully I can leave soon.-->
+  <TravelDelayed.stages.delay.description>Я не хочу тут більше залишатися, сподіваюся, що скоро зможу піти.</TravelDelayed.stages.delay.description>
+  <!--long delay-->
+  <TravelDelayed.stages.long_delay.label>довга затримка</TravelDelayed.stages.long_delay.label>
+  <!--Why cant I leave? I should have been out of here ages ago!-->
+  <TravelDelayed.stages.long_delay.description>Чому я не можу піти? Я мав би вже давно піти звідси!</TravelDelayed.stages.long_delay.description>
+  <!--stranded-->
+  <TravelDelayed.stages.stranded.label>розгніваність</TravelDelayed.stages.stranded.label>
+  <!--I cant take this anymore, this feels like a prison!-->
+  <TravelDelayed.stages.stranded.description>Я так більше не можу, це схоже на в'язницю!</TravelDelayed.stages.stranded.description>
+</LanguageData>

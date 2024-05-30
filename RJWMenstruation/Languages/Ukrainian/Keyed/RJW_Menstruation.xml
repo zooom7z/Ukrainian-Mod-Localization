@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mod_Title>RJW Menstruation Cycle</Mod_Title>
+  
+  <Menstrual_Blood>менструальна кров</Menstrual_Blood>
+  <Info_noCum>Пусто</Info_noCum>
+  <Stage_Follicular>Фолікулярна</Stage_Follicular>
+  <Stage_Ovulatory>Овуляція</Stage_Ovulatory>
+  <Stage_Luteal>Лютеїнова</Stage_Luteal>
+  <Stage_Bleeding>У періоді</Stage_Bleeding>
+  <Stage_Pregnant>Вагітна</Stage_Pregnant>
+  <Stage_Recover>Відновлення після пологів</Stage_Recover>
+  <Stage_None>Відсутнє</Stage_None>
+  <Stage_Climacteric>Клімакс</Stage_Climacteric>
+  <Stage_Menopause>Менопауза</Stage_Menopause>
+  <Stage_Anestrus>Анеструс</Stage_Anestrus>
+  <Stage_Follicular_Desc>Яєчники готуються до виходу яйцеклітини. Овуляція відбудеться наприкінці цієї фази.</Stage_Follicular_Desc>
+  <Stage_Follicular_Induced_Desc>Яєчники готуються до виходу яйцеклітини. Овуляція відбудеться, якщо сперма потрапить у матку.</Stage_Follicular_Induced_Desc>
+  <Stage_Ovulatory_Desc>Яєчники виділяють яйцеклітину в матку.</Stage_Ovulatory_Desc>
+  <Stage_Luteal_Desc>Матка готується до прийому заплідненої яйцеклітини. Вагітність настане, якщо яйцеклітина імплантується до кінця етапу.</Stage_Luteal_Desc>
+  <Stage_Bleeding_Desc>Матка позбувається своєї оболонки, а також яйцеклітин, які не змогли імплантуватися.</Stage_Bleeding_Desc>
+  <Stage_Pregnant_Desc>В утробі матері росте дитина. З часом і турботою вона стане новим жителем цього світу.</Stage_Pregnant_Desc>
+  <Stage_Recover_Desc>Матка відновлюється після недавньої вагітності.</Stage_Recover_Desc>
+  <Stage_None_Desc>Матка не плідна і не може завагітніти.</Stage_None_Desc>
+  <Stage_Climacteric_Desc>Яєчники близькі до виснаження, а менструальний цикл став нерегулярним.</Stage_Climacteric_Desc>
+  <Stage_Menopause_Desc>Яєчники виснажені, і матка більше не може виробляти яйцеклітини.</Stage_Menopause_Desc>
+  <Stage_Anestrus_Desc>Матка перебуває поза сезоном розмноження. Цикл відновиться, щойно буде дотримано необхідних умов.</Stage_Anestrus_Desc>
+  <Button_HealthTab>Статус</Button_HealthTab>
+  <Button_MilkTooltip>Самостійна лактація</Button_MilkTooltip>
+  <Dialog_WombInfo01>Стан</Dialog_WombInfo01>
+  <Dialog_WombInfo02>Плід</Dialog_WombInfo02>
+  <Dialog_WombInfo03>Батько</Dialog_WombInfo03>
+  <Dialog_WombInfo04>Список Сперми</Dialog_WombInfo04>
+  <Dialog_WombInfo05>Запліднена</Dialog_WombInfo05>
+  <Dialog_WombInfo06>Запліднення</Dialog_WombInfo06>
+  <Dialog_WombInfo07>Овульована</Dialog_WombInfo07>
+  <Dialog_WombInfo08></Dialog_WombInfo08>
+  <Dialog_WombInfo09></Dialog_WombInfo09>
+  <Dialog_FatherUnknown>Невідомо</Dialog_FatherUnknown>
+  <Description_Absorbed>Поглинуто</Description_Absorbed>
+  
+  
+  <Option1_Label_1>Увімкнути значок матки</Option1_Label_1>
+  <Option1_Label_2>Увімкнути кнопку на вкладці Здоров'я</Option1_Label_2>
+  <Option2_Label>Увімкнути цикл тварин</Option2_Label>
+  <Option2_Desc>Моделюйте цикли тварин. &#10;Не рекомендується.</Option2_Desc>
+  <Option3_Label>Шанс імплантації</Option3_Label>
+  <Option3_Desc>Базова ймовірність імплантації заплідненої яйцеклітини&#10;Це значення впливає на ймовірність запліднення.</Option3_Desc>
+  <Option4_Label>Шанс запліднення</Option4_Label>
+  <Option4_Desc>Шанс запліднення на 1 мл сперми на годину&#10;Це значення впливає на ймовірність оплодотворення.</Option4_Desc>
+  <Option5_Label>Коефіцієнт витікання сперми на годину</Option5_Label>
+  <Option5_Desc>Кількість сперми в утробі буде зменшуватися на цю кількість щогодини&#10;Це значення впливає на шанс просочення.</Option5_Desc>
+  <Option6_Label>Зниження активності сперми щогодини</Option6_Label>
+  <Option6_Desc>Сперма втрачатиме активність на це значення щогодини&#10;Це значення побічно впливає на шанс запліднення.</Option6_Desc>
+  <Option7_Label>Прискорення циклу</Option7_Label>
+  <Option7_Desc>Прискорення менструального циклу&#10;Це може призвести до ранньої менопаузи та безпліддя. &#10;Встановіть цей показник нижчим, ніж x12 рекомендується. &#10;Rimworld's timescale: x6(по умолчанию)</Option7_Desc>
+  <Option_ColonistUpdateInterval_Label>Інтервал оновлення колоніста</Option_ColonistUpdateInterval_Label>
+  <Option_ColonistUpdateInterval_Desc>Як часто оновлюється утроба кожного з ваших колоністів, ув'язнених і рабів.&#10;Зниження цього показника підвищить точність, збільшення цього показника може підвищити продуктивність.</Option_ColonistUpdateInterval_Desc>
+  <Option_NonColonistUpdateInterval_Label>Інтервал оновлення не колоністів</Option_NonColonistUpdateInterval_Label>
+  <Option_NonColonistUpdateInterval_Desc>Як часто оновлюються утроби людей, яких ви не контролюєте.&#10;Зниження цього показника підвищить точність, збільшення цього показника може підвищити продуктивність.</Option_NonColonistUpdateInterval_Desc>
+  <Option_AnimalUpdateInterval_Label>Інтервал оновлення тварин</Option_AnimalUpdateInterval_Label>
+  <Option_AnimalUpdateInterval_Desc>Як часто оновлюються утроби тварин.&#10;Зниження цього показника підвищить точність, збільшення цього показника може підвищити продуктивність.</Option_AnimalUpdateInterval_Desc>
+  <Option8_Label>Налагодження</Option8_Label>
+  <Option8_Desc>Показати інформацію налагодження.</Option8_Desc>
+  <Option9_Label>Стан матки</Option9_Label>
+  <Option9_Desc>Намалюйте іконку матки у вікні статусу.</Option9_Desc>
+  <Option10_Label>Статус Вагіни та Грудей</Option10_Label>
+  <Option10_Desc>Намалюйте значки вагіни, ануса і грудей у вікні статусу.</Option10_Desc>
+  <Option11_Label>Інформаційний рівень плоду</Option11_Label>
+  <Option11_Desc_1>Показати всю інформацію про плід.</Option11_Desc_1>
+  <Option11_Desc_2>Показати всю інформацію про плід після виявлення вагітності.</Option11_Desc_2>
+  <Option11_Desc_3>Покажіть тільки зображення зародка після виявлення вагітності.</Option11_Desc_3>
+  <Option11_Desc_4>Не показуйте жодної інформації про зародок.</Option11_Desc_4>
+  <Option12_Label>Включити менопаузу</Option12_Label>
+  <Option12_Desc>Увімкнути ефект менопаузи, який робить пішаків безплідними, коли в них закінчуються яйцеклітини.&#10;Якщо у вас є проблеми з довгоживучими расами, вимкніть цю опцію.</Option12_Desc>
+  <Option_EnablePheromones_Label>Увімкнути феромони</Option_EnablePheromones_Label>
+  <Option_EnablePheromones_Desc>Дозволяє людиноподібним самкам у видимій тічці підвищити статевий потяг прилеглих людиноподібних самців.</Option_EnablePheromones_Desc>
+  <Option_AnimalPheromoneEffect_Label>Дія феромонів на тварин</Option_AnimalPheromoneEffect_Label>
+  <Option_AnimalPheromoneEffect_Desc>Встановіть ефект, який дає змогу тваринам у видимій тічці чинити ефект на людей.</Option_AnimalPheromoneEffect_Desc>
+  <Option13_Label>Використовувати багатоплідну вагітність</Option13_Label>
+  <Option13_Desc>Використовувати багатоплідну вагітність замість вагітності за замовчуванням у RJW&#10;Вимкніть цю опцію, якщо у вас проблеми з просоченням&#10;Вагітність RJW слід увімкнути.</Option13_Desc>
+  <Option14_Label>Включити гетеро-овулярних близнюків</Option14_Label>
+  <Option14_Desc>Дозволяє завагітніти від кількох яйцеклітин одночасно.</Option14_Desc>
+  <Option15_Label>Включити ензиготні близнюки</Option15_Label>
+  <Option15_Desc>Увімкнути що з однієї яйцеклітини можна отримати кілька ідентичних нащадків.</Option15_Desc>
+  <Option16_Label>Шанс появи ензиготних близнюків</Option16_Label>
+  <Option16_Desc>Шанс появи однояйцевих близнюків.</Option16_Desc>
+  <Option17_Label>Максимум ензиготних близнюків</Option17_Label>
+  <Option17_Desc>Максимальна кількість однакових братів і сестер.</Option17_Desc>
+  <Option18_Label>Увімкнути оверлей яєць</Option18_Label>
+  <Option18_Desc>Увімкніть оверлей яйця на іконку матки.</Option18_Desc>
+  <Option19_Label_1>Обсяг кровотечі</Option19_Label_1>
+  <Option19_Label_2>Передбачувана загальна сума кровотечі</Option19_Label_2>
+  <Option19_Desc>Приблизний об'єм кровотечі.&#10;Нормальний об'єм кровотечі у людини становить близько 20-80 мл за цикл.</Option19_Desc>
+  <Option20_Label_1>Колоніст</Option20_Label_1>
+  <Option20_Label_2>В'язень</Option20_Label_2>
+  <Option20_Label_3>Союзні фракції</Option20_Label_3>
+  <Option20_Label_4>Нейтральні</Option20_Label_4>
+  <Option20_Label_5>Ворожі фракції</Option20_Label_5>
+  <Option21_Label>Цільовий пішак:</Option21_Label>
+  <Option21_Desc>Для цих пішаків з'являться ярлики та кнопка</Option21_Desc>
+  <Option22_Label>Використовувати гібридне розширення</Option22_Label>
+  <Option22_Desc>Скасовує визначення гібрида RJW і RaceSupport.&#10;Домінуюче гібридне розширення визначає, чиє визначення використовується першим. Не рекомендується змінювати це.</Option22_Desc>
+  <Option23_Label>Домінантне гібридне розширення</Option23_Label>
+  <Option23_Label_1>Мати</Option23_Label_1>
+  <Option23_Label_2>Батько</Option23_Label_2>
+  <Option_MaxBreastIncrementFactor_Label>Збільшення грудей під час вагітності</Option_MaxBreastIncrementFactor_Label>
+  <Option_MaxBreastIncrementFactor_Desc>Змініть, наскільки виростуть груди вагітного пішака під час вагітності. У деяких пішаків вони будуть рости більше, ніж у інших.</Option_MaxBreastIncrementFactor_Desc>
+  <Option_MaxNippleIncrementFactor_Label>Зміна сосків під час вагітності</Option_MaxNippleIncrementFactor_Label>
+  <Option_MaxNippleIncrementFactor_Desc>Змініть, наскільки сильно зміняться соски вагітної пішака під час вагітності.</Option_MaxNippleIncrementFactor_Desc>
+  <Option_PermanentNippleChange_Label>Постійна зміна сосків після вагітності</Option_PermanentNippleChange_Label>
+  <Option_PermanentNippleChange_Desc>Регулює, наскільки зміненими залишаться соски вагітної пішака після закінчення вагітності.</Option_PermanentNippleChange_Desc>
+  <Option28_Label>Налаштувати гібридів</Option28_Label>
+  <Option28_Tooltip>Відкрийте користувацький гібридний редактор.&#10;Це скасовує гібридні визначення XML-файлів.</Option28_Tooltip>
+  <Option29_Label>Дозволити зменшувати іконку</Option29_Label>
+  <Option29_Desc>За необхідності дайте іконі стати меншою.</Option29_Desc>
+  <Option30_Label>Множник тривалості життя яєць</Option30_Label>
+  <Option30_Desc>Тривалість життя яйця.&#10;Усі неімплантовані яйцеклітини загинуть наприкінці лютеїнової фази незалежно від цього параметра.</Option30_Desc>
+  <Option31_Label>Увімкнути морф вагіни після вагітності</Option31_Label>
+  <Option31_Desc>Увімкнути постійне розтягнення піхви після пологів. &#10;Якщо ви використовуєте інший мод, який справляється з цим завданням, вимкніть цю опцію.</Option31_Desc>
+  <Option32_Label>Сила Морфу</Option32_Label>
+  <Option32_Desc>Встановіть силу морфу.</Option32_Desc>
+  <Option_EstrusOverride_Label>Тічка скасовує налаштування підключення RJW</Option_EstrusOverride_Label>
+  <Option_EstrusOverride_Desc>Якщо цю опцію ввімкнено, пішак у видимій тічці використовуватиме ці налаштування для потенційного запліднення замість налаштувань RJW. &#10;Усі налаштування за замовчуванням відповідають аналогам RJW.</Option_EstrusOverride_Desc>
+  <Option_EstrusFuckability_Label>Мінімальна трахабельність у тічці</Option_EstrusFuckability_Label>
+  <Option_EstrusAttractability_Label>Мінімальна привабливість у тічці</Option_EstrusAttractability_Label>
+  <Option_EstrusRelationship_Label>Думка про мінімальний секс у тічці</Option_EstrusRelationship_Label>
+  <EstimatedCumLifespan>Передбачувана тривалість життя сперматозоїдів</EstimatedCumLifespan>
+  <EstimatedEggLifespan>Передбачувана тривалість життя яєць</EstimatedEggLifespan>
+  <OvulationChanceLabel>Овуляція {0}</OvulationChanceLabel>
+  <OvulationChanceDesc>Імовірність виходу кожної яйцеклітини під час овуляції.</OvulationChanceDesc>
+  <FertilityDesc>Шанс імплантації заплідненого яйця.&#10;Chance of fertilization this hour: {0}%.</FertilityDesc>
+  <Option_PregnancyFromBaseRJW_Label>Використовувати базову вагітність RJW</Option_PregnancyFromBaseRJW_Label>
+  <Option_PregnancyFromMultiplePregnancy_Label>Використовувати менструаційну багатоплідну вагітність</Option_PregnancyFromMultiplePregnancy_Label>
+  <Option_PregnancyFromBiotech_Label>Використовувати біотехнологічну вагітність</Option_PregnancyFromBiotech_Label>
+  <Option_EnableBiotechTwins_Label>(EXPERIMENTAL) Увімкнути народження кількох дітей/близнюків під час однієї біотехнологічної вагітності.</Option_EnableBiotechTwins_Label>
+  <Option_EnableBiotechTwins_Desc>Увімкнення цієї опції дасть змогу народження однояйцевих і гетерояйцевих близнюків за допомогою технології Biotech.&#10;Також дає змогу використовувати гібридну систему, але дві людиноподібні істоти не можуть створити тварину.</Option_EnableBiotechTwins_Desc>
+  <Option_EnableDraftedIcon_Label>Показувати стан матки під час розробки</Option_EnableDraftedIcon_Label>
+  <Option_EnableDraftedIcon_Desc>Відобразити піктограму матки для пішаків, що тягнуть пішака</Option_EnableDraftedIcon_Desc>
+  <Button_ResetToDefault>Скинути до стандартних значень</Button_ResetToDefault>
+
+  <FloatMenu_CleanSelf>Спустошити Вагіну</FloatMenu_CleanSelf>
+  
+  <CustomHybrid_List_Title>Користувацький редактор гібридів</CustomHybrid_List_Title>
+  <CustomHybrid_Title>Гібрид {0}</CustomHybrid_Title>
+  <CustomHybrid_Tooltip>Коли {0} розмножуватиметься з {1}, {2} з'явиться на світ {3} шанс. &#10;Якщо обидві раси мають гібридні визначення одна для одної, буде використовуватися визначення батька. </CustomHybrid_Tooltip>
+
+  <CannotNoEggs>Немає яєць</CannotNoEggs>
+  <CannotNoWomb>Повинен мати матку</CannotNoWomb>
+  <EggRestorationCompleted>{PAWN_labelShort} завершив {PAWN_possessive} цикл відновлення яйцеклітин.</EggRestorationCompleted>
+    
+</LanguageData>

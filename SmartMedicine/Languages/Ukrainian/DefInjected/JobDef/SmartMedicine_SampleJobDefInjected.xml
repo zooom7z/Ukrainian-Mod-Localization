@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<StockUp.reportString>запасається TargetA</StockUp.reportString>
+	<StockDown.reportString>кладе на місце TargetA</StockDown.reportString>
+
+	<StockUpOnMedicine.reportString>запасається TargetA</StockUpOnMedicine.reportString>
+	<StockDownOnMedicine.reportString>кладе на місце TargetA</StockDownOnMedicine.reportString>
+
+</LanguageData>

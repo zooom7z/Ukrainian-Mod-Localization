@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <LWM_Safe.label>Сейф</LWM_Safe.label>
+  <LWM_Safe.description>Надійний сейф, що замикається, для зберігання цінностей, захищений від крадіжки та/або пожежі. \n\nПримітка: протипожежний захист ще не впроваджено.</LWM_Safe.description>
+ 
+  <!-- Mostly copied from shelf -->
+
+  <LWM_DeepStorage_Blueprint.label>LWM_DeepStorage (проєкт)</LWM_DeepStorage_Blueprint.label>
+  <LWM_DeepStorage_Blueprint_Install.label>LWM_DeepStorage (проєкт)</LWM_DeepStorage_Blueprint_Install.label>
+  <LWM_DeepStorage_Frame.label>LWM_DeepStorage (будівництво)</LWM_DeepStorage_Frame.label>
+  <LWM_DeepStorage_Frame.description>LWM_DeepStorage</LWM_DeepStorage_Frame.description>
+
+
+  <!-- As a nice easy first Deep Storage Unit -->
+
+  <LWM_BigShelf.label>Великий стелаж</LWM_BigShelf.label>
+  <LWM_BigShelf.description>Великий стелаж для зберігання різних предметів, від артилерійських снарядів до творів мистецтва, від біонічних рук до цегли, від стільців до трупів. \n\nЗберігані предмети не будуть старіти, навіть якщо стелаж розташувати поза приміщенням.</LWM_BigShelf.description>
+  <LWM_BigShelf_Blueprint.label>Великий стелаж (проєкт)</LWM_BigShelf_Blueprint.label>
+  <LWM_BigShelf_Blueprint_Install.label>Великий стелаж (проєкт)</LWM_BigShelf_Blueprint_Install.label>
+  <LWM_BigShelf_Frame.label>Великий стелаж (будівництво)</LWM_BigShelf_Frame.label>
+  <LWM_BigShelf_Frame.description>Великий стелаж для зберігання різних предметів, від артилерійських снарядів до творів мистецтва, від біонічних рук до цегли, від стільців до трупів. \n\nТі, що в ньому лежать, не псуються, навіть якщо вони на вулиці.</LWM_BigShelf_Frame.description>
+
+  <LWM_VeryBigShelf.label>Дуже великий стелаж</LWM_VeryBigShelf.label>
+  <LWM_VeryBigShelf.description>Високі криті стелажі для зберігання всього: від мушель до витворів мистецтва, від біонічних рук до кам'яних цеглин, від стільців до трупів. Це не проблема, все можна зберігати./n/nПоселенцям доведеться підніматися і спускатися по сходах, щоб зберігати речі. Хоча тут можна зберігати багато речей, якщо ви покладете багато речей на багаторівневу полицю, їх діставання може зайняти деякий час. Предмети, що зберігаються тут, не зіпсуються, навіть якщо обладнання встановлено на вулиці.</LWM_VeryBigShelf.description>
+
+  <LWM_Food_Basket.label>Бочки для їжі</LWM_Food_Basket.label>
+  <LWM_Food_Basket.description>Міні-зерносховище для зберігання сирої їжі та рослинних речовин.</LWM_Food_Basket.description>
+  <LWM_Food_Basket_Blueprint.label>Бочки для їжі (проєкт)</LWM_Food_Basket_Blueprint.label>
+  <LWM_Food_Basket_Blueprint_Install.label>Бочки для їжі (проєкт)</LWM_Food_Basket_Blueprint_Install.label>
+  <LWM_Food_Basket_Frame.label>Бочки для їжі (будівництво)</LWM_Food_Basket_Frame.label>
+  <LWM_Food_Basket_Frame.description>Міні-зерносховище для зберігання сирої їжі та рослинних речовин.</LWM_Food_Basket_Frame.description>
+
+  <LWM_Hayloft.label>Ємність для сіна</LWM_Hayloft.label>
+  <LWM_Hayloft.description>Будівлю можна використовувати для зберігання сіна та інших рослинних матеріалів на вологому ґрунті.</LWM_Hayloft.description>
+
+  <LWM_FabricHamper.label>Кошик для тканини</LWM_FabricHamper.label>
+  <LWM_FabricHamper.description>Набір тканинних кошиків і залізних рамок. У великих кишенях можна легко зберігати багато різних речей. \n\nЯкщо ви дійсно хочете зберігати тканину в мішку, зверніться до налаштувань модуля!</LWM_FabricHamper.description>
+
+
+  <LWM_Medicine_Cabinet.label>Медична шафа</LWM_Medicine_Cabinet.label>
+  <LWM_Medicine_Cabinet.description>Шафа з полицями для зберігання медикаментів та ліків. Рекомендується: дивитися за дітьми.</LWM_Medicine_Cabinet.description>
+  <LWM_Medicine_Cabinet_Blueprint.label>Медична шафа (проєкт)</LWM_Medicine_Cabinet_Blueprint.label>
+  <LWM_Medicine_Cabinet_Blueprint_Install.label>Медична шафа (проєкт)</LWM_Medicine_Cabinet_Blueprint_Install.label>
+  <LWM_Medicine_Cabinet_Frame.label>Медична шафа (будівництво)</LWM_Medicine_Cabinet_Frame.label>
+  <LWM_Medicine_Cabinet_Frame.description>Шафа з полицями для зберігання медикаментів та ліків. Рекомендується: дивитися за дітьми.</LWM_Medicine_Cabinet_Frame.description>
+
+  <LWM_DeepStorage_Skip.label>Контейнер</LWM_DeepStorage_Skip.label>
+  <LWM_DeepStorage_Skip.description>Великий металевий контейнер для сміття. Контейнер не закривається повністю від негоди, речі можуть псуватися поза приміщенням. \n\nПримітка: розкидання великої кількості сталі мимоволі означає, що знадобиться деякий час, щоб знайти сталь на складі, якщо вона пізніше вам знадобиться. Автор мода створив це для компактнішого зберігання великих стеків предметів. Уявіть, що ваші колоністи повинні залазити і складати все в нього, щоб потім собачки могли легко розтягти це.</LWM_DeepStorage_Skip.description>
+  <LWM_DeepStorage_Skip_Blueprint.label>Контейнер (проєкт)</LWM_DeepStorage_Skip_Blueprint.label>
+  <LWM_DeepStorage_Skip_Blueprint_Install.label>Контейнер (проєкт)</LWM_DeepStorage_Skip_Blueprint_Install.label>
+  <LWM_DeepStorage_Skip_Frame.label>Контейнер (будівництво)</LWM_DeepStorage_Skip_Frame.label>
+  <LWM_DeepStorage_Skip_Frame.description>Великий металевий контейнер для сміття. Контейнер не закривається повністю від негоди, речі можуть псуватися поза приміщенням. \n\nПримітка: розкидання великої кількості сталі мимоволі означає, що знадобиться деякий час, щоб знайти сталь на складі, якщо вона пізніше вам знадобиться. Автор мода створив це для компактнішого зберігання великих стеків предметів. Уявіть, що ваші колоністи повинні залазити і складати все в нього, щоб потім собачки могли легко розтягти це.</LWM_DeepStorage_Skip_Frame.description>
+
+  <LWM_Pallet.label>Піддон</LWM_Pallet.label>
+  <LWM_Pallet.description>Плоский піддон для зберігання речей. Не захищає від погоди.</LWM_Pallet.description>
+  <LWM_Pallet_Blueprint.label>Піддон (проєкт)</LWM_Pallet_Blueprint.label>
+  <LWM_Pallet_Blueprint_Install.label>Піддон (проєкт)</LWM_Pallet_Blueprint_Install.label>
+  <LWM_Pallet_Frame.label>Піддон (будівництво)</LWM_Pallet_Frame.label>
+  <LWM_Pallet_Frame.description>Плоский піддон для зберігання речей. Не захищає від погоди.</LWM_Pallet_Frame.description>
+
+  <LWM_Pallet_Covered.label>Пакувальний піддон</LWM_Pallet_Covered.label>
+  <LWM_Pallet_Covered.description>Плоский піддон для зберігання речей. Обертаючи речі в товсту клейонку, ви зберігаєте їх у цілості та безпеці. Ви можете запакувати більше речей на цю палету, тому що предмети обертаються клейонкою.</LWM_Pallet_Covered.description>
+  <LWM_Pallet_Covered_Blueprint.label>Пакувальний піддон (проєкт)</LWM_Pallet_Covered_Blueprint.label>
+  <LWM_Pallet_Covered_Blueprint_Install.label>Пакувальний піддон (проєкт)</LWM_Pallet_Covered_Blueprint_Install.label>
+  <LWM_Pallet_Covered_Frame.label>Пакувальний піддон (будівництво)</LWM_Pallet_Covered_Frame.label>
+  <LWM_Pallet_Covered_Frame.description>Плоский піддон для зберігання речей. Обертаючи речі в товсту клейонку, ви зберігаєте їх у цілості та безпеці. Ви можете запакувати більше речей на цю палету, тому що предмети обертаються клейонкою.</LWM_Pallet_Covered_Frame.description>
+
+  <LWM_Clothing_Rack.label>Полиця для одягу</LWM_Clothing_Rack.label>
+  <LWM_Clothing_Rack.description>Накрита полиця для зберігання одягу, а також для легкого та швидкого доступу.</LWM_Clothing_Rack.description>
+  <LWM_Clothing_Rack_Blueprint.label>Полиця для одягу (проєкт)</LWM_Clothing_Rack_Blueprint.label>
+  <LWM_Clothing_Rack_Blueprint_Install.label>Полиця для одягу (проєкт)</LWM_Clothing_Rack_Blueprint_Install.label>
+  <LWM_Clothing_Rack_Frame.label>Полиця для одягу (будівництво)</LWM_Clothing_Rack_Frame.label>
+  <LWM_Clothing_Rack_Frame.description>Накрита полиця для зберігання одягу, а також для легкого та швидкого доступу.</LWM_Clothing_Rack_Frame.description>
+
+  <LWM_MealRack.label>Стійка для страв</LWM_MealRack.label>
+  <LWM_MealRack.description>Це висока стійка для зберігання страв.</LWM_MealRack.description>
+  <LWM_MealRack_Blueprint.label>Стійка для страв (проєкт)</LWM_MealRack_Blueprint.label>
+  <LWM_MealRack_Blueprint_Install.label>Стійка для страв (проєкт)</LWM_MealRack_Blueprint_Install.label>
+  <LWM_MealRack_Frame.label>Стійка для страв (будівництво)</LWM_MealRack_Frame.label>
+  <LWM_MealRack_Frame.description>Це висока стійка для зберігання страв.</LWM_MealRack_Frame.description>
+
+
+  <!-- purely LWM creations -->
+
+  <LWM_Meat_Hook.label>Гаки для м'яса</LWM_Meat_Hook.label>
+  <LWM_Meat_Hook.description>Високий металевий каркас з кількома гачками на ланцюгах. Проста рукоятка дозволяє піднімати кілька підвісних туш у повітря. Хороший спосіб зберігання трупів тварин, яких ви вбили, перед тим, як різати та вживати їхнє м'ясо. Ви монстр.</LWM_Meat_Hook.description>
+  <LWM_Meat_Hook_Blueprint.label>Гаки для м'яса (проєкт)</LWM_Meat_Hook_Blueprint.label>
+  <LWM_Meat_Hook_Blueprint_Install.label>Гаки для м'яса (проєкт)</LWM_Meat_Hook_Blueprint_Install.label>
+  <LWM_Meat_Hook_Frame.label>Гаки для м'яса (будівництво)</LWM_Meat_Hook_Frame.label>
+  <LWM_Meat_Hook_Frame.description>Високий металевий каркас з кількома гачками на ланцюгах. Проста рукоятка дозволяє піднімати кілька підвісних туш у повітря. Хороший спосіб зберігання трупів тварин, яких ви вбили, перед тим, як різати та вживати їхнє м'ясо. Ви монстр..</LWM_Meat_Hook_Frame.description>
+
+
+</LanguageData>

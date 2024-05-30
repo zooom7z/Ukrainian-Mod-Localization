@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic medicine -->
+  <MedicineBasic.label>базові ліки</MedicineBasic.label>
+  <!-- EN: A kit of basic medical equipment. It contains basic drugs, tools for suturing and bone setting. -->
+  <MedicineBasic.description>Набір базового медичного обладнання. Містить у собі прості ліки та інструменти для перев'язки та зашивання ран і фіксації переломів.</MedicineBasic.description>
+  
+</LanguageData>

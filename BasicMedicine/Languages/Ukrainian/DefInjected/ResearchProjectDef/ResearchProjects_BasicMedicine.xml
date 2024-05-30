@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic medicine production -->
+  <BasicMedicineProduction.label>виробництво базових медикаментів</BasicMedicineProduction.label>
+  <!-- EN: Produce basic medicine with herbal medicine, wood and cloth. -->
+  <BasicMedicineProduction.description>Навчіться створювати прості медикаменти, використовуючи лікарські рослини, дерево і тканину.</BasicMedicineProduction.description>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<!-- EN: mend -->
+	<DoBillsMending.label>лагодити</DoBillsMending.label>
+	<!-- EN: mending -->
+	<DoBillsMending.gerund>лагодить на</DoBillsMending.gerund>
+	<!-- EN: mend -->
+	<DoBillsMending.verb>лагодити на</DoBillsMending.verb>
+
+</LanguageData>
