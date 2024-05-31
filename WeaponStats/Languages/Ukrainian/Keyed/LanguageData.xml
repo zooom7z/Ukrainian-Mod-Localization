@@ -10,12 +10,46 @@
 	<WeaponStats.Storage>Склад</WeaponStats.Storage>
 	<WeaponStats.Craftable>Виготовляється</WeaponStats.Craftable>
 	<WeaponStats.All>Всі</WeaponStats.All>
-	
+
 	<WeaponStats.Ranged>Зброя дальнього бою</WeaponStats.Ranged>
 	<WeaponStats.Melee>Зброя ближнього бою</WeaponStats.Melee>
 	<WeaponStats.Grenades>Гранати</WeaponStats.Grenades>
 	<WeaponStats.Apparel>Одяг</WeaponStats.Apparel>
+	<WeaponStats.Tools>Інструменти</WeaponStats.Tools>
 	<WeaponStats.Turrets>Турелі</WeaponStats.Turrets>
-	<WeaponStats.Other>Решта</WeaponStats.Other>
+	<WeaponStats.Other>Інше</WeaponStats.Other>
+
+	<WeaponStats.ColName>Ім'я</WeaponStats.ColName>
+	<WeaponStats.ColQuality>Якість</WeaponStats.ColQuality>
+	<WeaponStats.ColHP>HP</WeaponStats.ColHP>
+	<WeaponStats.ColValue>Ринкова ціна</WeaponStats.ColValue>
+	<WeaponStats.ColRange>Дальність</WeaponStats.ColRange>
+	<WeaponStats.ColCooldwn>Перезарядка</WeaponStats.ColCooldwn>
+	<WeaponStats.ColWarmup>Warmup</WeaponStats.ColWarmup>
+	<WeaponStats.ColSights>Sights</WeaponStats.ColSights>
+	<WeaponStats.ColSpread>Spread</WeaponStats.ColSpread>
+	<WeaponStats.ColSway>Sway</WeaponStats.ColSway>
+	<WeaponStats.ColBulk>Bulk</WeaponStats.ColBulk>
+	<WeaponStats.ColMagazineCapacity>Magazine capacity</WeaponStats.ColMagazineCapacity>
+	<WeaponStats.ColDPS>DPS</WeaponStats.ColDPS>
+	<WeaponStats.ColDPSA>DPS with accuracy</WeaponStats.ColDPSA>
+	<WeaponStats.ColDamage>Пошкодження</WeaponStats.ColDamage>
+	<WeaponStats.ColAccuracy>Точність</WeaponStats.ColAccuracy>
+	<WeaponStats.ColType></WeaponStats.ColType>
+	<WeaponStats.ColRadius>Explostion radius</WeaponStats.ColRadius>
+	<WeaponStats.ColDelay>Explosion delay</WeaponStats.ColDelay>
+	<WeaponStats.ColBlunt>Blunt protection</WeaponStats.ColBlunt>
+	<WeaponStats.ColSharp>Sharp protection</WeaponStats.ColSharp>
+	<WeaponStats.ColHeat>Heat protection</WeaponStats.ColHeat>
+	<WeaponStats.ColICold>Cold insulation</WeaponStats.ColICold>
+	<WeaponStats.ColIHeat>Heat insulation</WeaponStats.ColIHeat>
+	<WeaponStats.ColArmorPenetration>Armor penetration</WeaponStats.ColArmorPenetration>
+	<WeaponStats.ColCounterParry>Counter parry</WeaponStats.ColCounterParry>
+
+	<WeaponStats.AccRbName.All>Всі</WeaponStats.AccRbName.All>
+	<WeaponStats.AccRbName.Touch>Touch</WeaponStats.AccRbName.Touch>
+	<WeaponStats.AccRbName.Short>Short</WeaponStats.AccRbName.Short>
+	<WeaponStats.AccRbName.Medium>Medium</WeaponStats.AccRbName.Medium>
+	<WeaponStats.AccRbName.Long>Long</WeaponStats.AccRbName.Long>
 
 </LanguageData>

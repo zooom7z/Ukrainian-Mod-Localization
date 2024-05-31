@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- settings -->
+	<fulfill_outdoors_head>Потреба у свіжому повітрі</fulfill_outdoors_head>
+	<fulfill_outdoors_label>Заохочувати пішаків задовольняти потребу у свіжому повітрі через пошук розваг на свіжому повітрі</fulfill_outdoors_label>
+	<fulfill_outdoors_note>ПРИМІТКА: Не розміщуйте однакові джерела дозвілля в кімнатах і поза кімнатами, щоб уникнути невизначеності.</fulfill_outdoors_note>
+
+	<clean_head>Відповідна додаткова робота</clean_head>
+	<clean_before_working_label>Заохочувати пішаків прибирати кімнату перед початком роботи</clean_before_working_label>
+	<clean_before_working_note>ПРИМІТКА: Пішаки, яким не подобається прибирати, не будуть цього робити.</clean_before_working_note>
+
+	<bill_job_pathing_label>Розраховувати точний шлях до будівництва під час виконання роботи</bill_job_pathing_label>
+	<bill_job_pathing_note>Це допоможе уникати необґрунтованих гаків, коли колоністу потрібно спочатку принести ресурси до будівництва, але це може вплинути на продуктивність CPU.</bill_job_pathing_note>
+
+	<clean_after_tending_label>Заохочувати пішаків прибирати кімнату після лікування ран пацієнта</clean_after_tending_label>
+	<clean_after_tending_note>ПРИМІТКА: Пішаки, яким не подобається прибирати, не будуть цього робити.</clean_after_tending_note>
+
+	<meal_stacking_head>Складання страв у стопку</meal_stacking_head>
+	<meal_stacking_label>Пішаки уникають змішування страв з негативними ефектами під час складання</meal_stacking_label>
+	<meal_stacking_note>Таким чином, огидні страви ніколи не перемішаються з простими.</meal_stacking_note>
+
+	<dont_count_odd_label>Вважати м'ясо (напр. комах) нормальним, дозволяючи складати його зі звичайними стравами</dont_count_odd_label>
+	<dont_count_odd_note>М'ясо комах не таке вже й погане...</dont_count_odd_note>
+
+	<gen_ingredients_head>Генерація випадкових страв</gen_ingredients_head>
+	<gen_ingredients_label>Додавати випадкові інгредієнти у випадково згенеровані страви</gen_ingredients_label>
+	<gen_ingredients_note>ПРИМІТКА: Подаровані оповідачем, продані торговцем, взяті з трупа. Використовуються лише нейтральні інгредієнти. Після включення цієї опції, принцип генерації буде змінено.</gen_ingredients_note>
+
+	<add_to_que_label>Додавати попереднє завдання до черги</add_to_que_label>
+	<add_to_que_note>Таким чином пішаки не передумають робити основне завдання після завершення додаткового, але іноді це призводить до конфузів через те, що робота вже зайнята.</add_to_que_note>
+
+	<hauling_over_bills_label>Заохочувати пішаків переносити компоненти для крафту у сховище</hauling_over_bills_label>
+	<hauling_over_bills_note>Перш ніж братися щось крафтити, пішаки воліють перетягнути всі компоненти на склад, замість того щоб брати мінімум необхідний для рецепту.</hauling_over_bills_note>
+
+	<fulfill_needs_head>Задоволення потреб</fulfill_needs_head>
+	<drugs_use_potential_mood_label>Заохочувати пішаків враховувати потенційний настрій у політиці прийому препаратів</drugs_use_potential_mood_label>
+	<drugs_use_potential_mood_note>Пішаки не будуть використовувати препарати якщо "потенційний" настрій вище відмітки, це не дасть колоністам використовувати більше наркотиків, ніж потрібно, щоб підняти настрій вище за необхідний рівень</drugs_use_potential_mood_note>
+
+	<miscellaneous_head>Різне</miscellaneous_head>
+
+	<extended_recipe_label>Рецепти показують повний перелік інгредієнтів</extended_recipe_label>
+	<extended_recipe_note>Замість розпливчастого "інгредієнти"</extended_recipe_note>
+
+	<advanced_head>Розширена поведінка</advanced_head>
+	<advanced_inbetween_cleaning_label>Пішаки прибиратимуть кімнати в перервах між перенесенням інгредієнтів і крафтингом</advanced_inbetween_cleaning_label>
+	<advanced_inbetween_cleaning_note>Базова поведінка дозволила б їм прибирати лише перед транспортуванням</advanced_inbetween_cleaning_note>
+
+	<advanced_haul_all_ings_label>Заохочувати пішаків підбирати всі інгредієнти перед тим, як віднести їх до місця крафта</advanced_haul_all_ings_label>
+	<advanced_haul_all_ings_note>Пішаки будуть брати всі необхідні інгредієнти в свій інвентар перед тим як почати переносити їх до місця крафту</advanced_haul_all_ings_note>
+
+	<prefer_spoiling_ingredients_label>Заохочувати пішаків використовувати інгредієнти та матеріали, які псуються швидше</prefer_spoiling_ingredients_label>
+	<prefer_spoiling_ingredients_note>ПОПЕРЕДЖЕННЯ: Велика кількість предметів для вибору може спричинити лаги при ввімкненні цієї опції.</prefer_spoiling_ingredients_note>
+
+	<UnloadThing>Розгрузити</UnloadThing>
+	<UnloadThingCancel>Скасувати</UnloadThingCancel>
+
+	<manual_unload_label>Увімкнути кнопку в інвентарі пішака, щоб позначити предмети для перенесення на склад</manual_unload_label>
+	<manual_unload_note>Якщо складу немає, колоніст кине предмет біля себе</manual_unload_note>
+
+	<put_back_to_inv_label>Пішаки повертатимуть предмети у свій інвентар, коли їх перервуть</put_back_to_inv_label>
+	<put_back_to_inv_note>Коли пішаки тримають в руках предмет з інвентаря, вони покладуть його назад, якщо дію було перервано</put_back_to_inv_note>
+
+	<pick_proper_amount_label>Пішаки перестануть брати більше солодощів, ніж можуть з'їсти</pick_proper_amount_label>
+	<pick_proper_amount_note>Більше ніякого шоколаду, що валяється всюди.</pick_proper_amount_note>
+
+	<Category>Категорія</Category>
+
+	<fun_police_label>Заохочувати пішаків задовольняти другорядні потреби під час режиму дня "відпочинок" або якщо вони рано прокидаються</fun_police_label>
+	<fun_police_note>Пішаки намагатимуться заповнити свою потребу в радості лише після того, як вона опуститься нижче 80%, вони вважатимуть за краще взяти запасну їжу в інвентар і виконати всі свої гігієнічні потреби (якщо присутній мод dubs).</fun_police_note>
+
+	<numbers_head>Налаштовуване число (0 = без ліміту)</numbers_head>
+
+	<op_clean_number_label>Ліміт бруду для прибирання перед завданням</op_clean_number_label>
+	<adv_clean_number_label>Ліміт бруду для прибирання перед крафтом</adv_clean_number_label>
+	<doc_clean_number_label>Ліміт бруду для прибирання після лікування</doc_clean_number_label>
+
+	<skip_snow_clean_label>Пішакам не рекомендується прибирати сніг під час снігопаду чи дощу</skip_snow_clean_label>
+	<skip_snow_clean_note>Під час дощу - на всяк випадок, якщо погода підступна</skip_snow_clean_note>
+
+	<prefer_spoiling_meals_label>Пішакам рекомендується їсти їжу, яка незабаром зіпсується</prefer_spoiling_meals_label>
+	<prefer_spoiling_meals_note>ПОПЕРЕДЖЕННЯ: Велика кількість предметів для вибору може спричинити лаги при ввімкненні цієї опції.</prefer_spoiling_meals_note>
+
+	<allow_feeding_with_plants_label>Заохочувати пішаків годувати тварин сіном</allow_feeding_with_plants_label>
+	<allow_feeding_with_plants_note>Тварин також заохочуватимуть надавати перевагу нелюдській їжі.</allow_feeding_with_plants_note>
+
+	<give_sick_joy_drugs_label>Заохочувати пішаків давати хворим пішакам дозволені препарати або солодку їжу</give_sick_joy_drugs_label>
+	<give_sick_joy_drugs_note>Навіщо говорити, якщо можна дати шоколадку?</give_sick_joy_drugs_note>
+
+	<social_relax_economy_label>Змінити спосіб вживання пішаками наркотиків під час соціального відпочинку, щоб запобігти їхньому неефективному використанню</social_relax_economy_label>
+	<social_relax_economy_note>Зазвичай пішаки сидять годину-дві перед вживанням наркотику, безглуздо втрачаючи ефект</social_relax_economy_note>
+
+	<advanced_cleaning_ingest_label>Пішакам рекомендується прибирати перед тим, як сісти за стіл або перед соціальним відпочинком</advanced_cleaning_ingest_label>
+	<advanced_cleaning_ingest_note>Пішаки прибирають навколо столу, за який планують сісти</advanced_cleaning_ingest_note>
+
+	<mood_regen_label>Настрій пішаків повільно наближається до 50%, поки вони сплять, якщо це можливо</mood_regen_label>
+	<mood_regen_note>Просто дайте пішакам «поспати», і з ними все буде гаразд</mood_regen_note>
+
+	<safe_wander_label>Пішакам рекомендується уникати поганої погоди під час безцільного блукання</safe_wander_label>
+	<safe_wander_note>Припиніть виходити на токсичні опади, ідіоти.</safe_wander_note>
+
+	<pathing_head>Прокладання шляху</pathing_head>
+
+	<polite_wander_label>Будь-яким дружнім пішакам рекомендується уникати відвідування спалень та тюремних камер</polite_wander_label>
+	<polite_wander_note>Це просто непристойно і навіть небезпечно, чи не так?</polite_wander_note>
+
+	<ingest_any_drugs_label>Дозволити приймати будь-які наркотики з інвентарю</ingest_any_drugs_label>
+	<ingest_any_drugs_note>Якщо це їстівне, його можна з'їсти, не кидаючи на землю</ingest_any_drugs_note>
+
+	<DoCleanCompToggleLabel>Прибирати навколо цього стола</DoCleanCompToggleLabel>
+	<DoCleanCompToggleDescActive>Пішаки будуть прибирати навколо цього стола</DoCleanCompToggleDescActive>
+	<DoCleanCompToggleDescInactive>Пішаки НЕ будуть прибирати навколо цього стола</DoCleanCompToggleDescInactive>
+
+	<advanced_inbetween_cleaning_gizmo_label>Показувати перемикач для прибирання на столах</advanced_inbetween_cleaning_gizmo_label>
+	<advanced_inbetween_cleaning_gizmo_note>Можна буде відключити прибирання навколо деяких столів</advanced_inbetween_cleaning_gizmo_note>
+
+	<meditation_economy_label>Пішаки будуть медитувати лише стільки, скільки їм потрібно</meditation_economy_label>
+	<meditation_economy_note>За винятком випадків, коли пішаки отримують завдання на медитацію, вони припиняють медитувати якщо їхній псі фокус переповнений і вони не бачать в медитації хорошого джерела радості (тобто переповнені або їм набридла медитація)</meditation_economy_note>
+
+	<advanced_respect_capacity_label>-- пішаки не перевищуватимуть місткість інвентарю</advanced_respect_capacity_label>
+	<advanced_respect_capacity_note>З міркувань імерсивності чи чогось іншого</advanced_respect_capacity_note>
+
+	<optimal_patching_label>Комплексне виправлення</optimal_patching_label>
+
+	<optimal_patching_note>Якщо цю опцію вимкнено, всі опції активуються одразу після перемикання, але вони завжди залишаються у коді, що може вплинути на продуктивність гри, навіть якщо вони вимкнені. Якщо опцію увімкнено, після зміни опцій вам доведеться перезапустити гру, але патчі, необхідні для цих опцій, не встановлюватимуться, що усуває додатковий вплив на продуктивність під час запуску гри з вимкненими опціями.</optimal_patching_note>
+	<optimal_patching_attention_label>УВАГА: Комплексне виправлення не застосовується належним чином без перезапуску гри!</optimal_patching_attention_label>
+
+</LanguageData>

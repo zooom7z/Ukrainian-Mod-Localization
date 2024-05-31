@@ -1,51 +1,62 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<TD.SettingDoctorInv>Використовувати ліки з інвентарю лікаря</TD.SettingDoctorInv>
+	<TD.SettingPatientInv>Використовувати ліки з інвентарю пацієнта</TD.SettingPatientInv>
 
+	<TD.SettingNearby>... Але використовувати ліки поблизу (якщо такої ж якості)</TD.SettingNearby>
+	<TD.SettingNearbyDesc>Перевіряє наявність ліків на шляху до пацієнта</TD.SettingNearbyDesc>
+	<TD.SettingNearbyDist>Наскільки далеко ходити, щоб знайти найближчі ліки</TD.SettingNearbyDist>
+	<TD.SpacesFormat>{0:0} клітинок</TD.SpacesFormat>
+	<TD.SettingNearbyDistDesc>Це лише перевизначення для ліків у інвентарі — якщо ліків немає, вони підуть на край карти, щоб забрати ліки</TD.SettingNearbyDistDesc>
 
-	<TD.SettingDoctorInv>Використовуйте ліки з інвентарю лікаря</TD.SettingDoctorInv>
-	<TD.SettingPatientInv>Використовуйте ліки з інвентарю пацієнта</TD.SettingPatientInv>
-	<TD.SettingNearby>... Але використовуйте ліки поблизу (якщо такої ж якості)</TD.SettingNearby>
-	<TD.SettingNearbyDesc>Це також перевіряє наявність ліків на шляху до пацієнта (приблизно на основі відстані, а не фактичного шляху)</TD.SettingNearbyDesc>
-	<TD.SettingNearbyDist>Відстань до ліків</TD.SettingNearbyDist>
-	<TD.SpacesFormat>{0:0} клітин</TD.SpacesFormat>
-	<TD.SettingNearbyDistDesc>Це лише перевизначення для інвентарних ліків — якщо інвентарних ліків немає, вони підуть до кінців карти, щоб забрати ліки</TD.SettingNearbyDistDesc>
-	<TD.SettingOtherInv>Дістати ліки з інвентарю сусіднього колоніста</TD.SettingOtherInv>
-	<TD.SettingAnimalInv>Дістати ліки з інвентарю тварини поблизу</TD.SettingAnimalInv>
-	<TD.SettingOtherAnyDist>... Як би далеко не було</TD.SettingOtherAnyDist>
-	<TD.SettingOtherAnyDistDesc>Використовувати кращі ліки не залежно від відстані до них.</TD.SettingOtherAnyDistDesc>
-	<TD.SettingOtherDist>Відстань до ліків</TD.SettingOtherDist>
-	<TD.SettingMinimal>Використовуйте мінімум ліків для нетермінової допомоги</TD.SettingMinimal>
-	<TD.SettingMinimalDesc>Термінова допомога - це будь-яке захворювання або травми з кровотечею, ймовірністю інфікування або постійними наслідками - зберігайте цінні ліки лише для них</TD.SettingMinimalDesc>
-	<TD.SettingNoMed>Використовуйте мінімум ліків для термінової допомоги</TD.SettingNoMed>
-	<TD.SettingNoMedDesc>Те саме, що й вище, але без ліків, кожна травма лікується по одній</TD.SettingNoMedDesc>
+	<TD.SettingOtherInv>Забрати ліки з інвентаря сусіднього колоніста</TD.SettingOtherInv>
+	<TD.SettingAnimalInv>Забрати ліки з інвентаря тварини поблизу</TD.SettingAnimalInv>
+	<TD.SettingOtherAnyDist>... Неважливо, як далеко</TD.SettingOtherAnyDist>
+	<TD.SettingOtherAnyDistDesc>Перевіряти, чи використовуються кращі ліки ніж в когось іншого, хто знаходиться далеко, але ціною часу ходьби до нього</TD.SettingOtherAnyDistDesc>
+	<TD.SettingOtherDist>Наскільки далеко йти до нього</TD.SettingOtherDist>
+
+	<TD.SettingMinimal>Використовувати мінімум ліків для нетермінової допомоги</TD.SettingMinimal>
+	<TD.SettingMinimalDesc>Невідкладна допомога - це будь-яка хвороба або травма з кровотечею, можливістю інфікування або незворотними наслідками - прибережіть цінні ліки тільки для них.</TD.SettingMinimalDesc>
+
+	<TD.SettingNoMed>Не використовувати ліки для нетермінової допомоги</TD.SettingNoMed>
+	<TD.SettingNoMedDesc>Те саме, що й вище, але без медикаментів, кожна травма лікується по черзі</TD.SettingNoMedDesc>
+
 	<TD.SettingMedicineGoodEnough>... включити достатньо хороші ліки:</TD.SettingMedicineGoodEnough>
+	<TD.SettingsMedicineGoodEnoughDesc>Наприклад, якщо лікування травами працюватиме на 90% краще за звичайні ліки, використовувати трави замість них.</TD.SettingsMedicineGoodEnoughDesc>
+
 	<TD.SettingStockUp>Запасатися ліками та препаратами</TD.SettingStockUp>
-	<TD.SettingStockUpDesc>Параметри запасу знаходяться на вкладці інвентарю колоніста</TD.SettingStockUpDesc>
-	<TD.SettingFieldTendingNoBeds>Лікар надає допомогу, якщо немає мед. ліжка</TD.SettingFieldTendingNoBeds>
-	<TD.SettingFieldTendingNoBedsDesc>Пацієнт повинен перебувати у стані спокою, лежати на землі або у режимі бою біля лікаря.</TD.SettingFieldTendingNoBedsDesc>
-	<TD.SettingFieldTendingAlways>Лікар зажди надає допомогу, не зваючи на наявність мед. ліжка</TD.SettingFieldTendingAlways>
-	<TD.SettingFieldTendingAlwaysDesc>Пацієнт повинен перебувати у стані спокою, лежати на землі або у режимі бою біля лікаря.</TD.SettingFieldTendingAlwaysDesc>
+	<TD.SettingStockUpDesc>Налаштування запасів знаходяться у вкладці інвентаря колоніста</TD.SettingStockUpDesc>
+
+	<TD.SettingFieldTendingNoBeds>Лікар лікуватиме пацієнта, навіть якщо немає вільних ліжок</TD.SettingFieldTendingNoBeds>
+	<TD.SettingFieldTendingNoBedsDesc>Пацієнт повинен відпочивати в ліжку, лежати на землі або бути у режимі бою.</TD.SettingFieldTendingNoBedsDesc>
+
+	<TD.SettingFieldTendingAlways>Лікар завжди надає допомогу, не зважаючи на наявність ліжка</TD.SettingFieldTendingAlways>
+	<TD.SettingFieldTendingAlwaysDesc>Пацієнт повинен відпочивати в ліжку, лежати на землі або бути у режимі бою.</TD.SettingFieldTendingAlwaysDesc>
+
 	<TD.SmartMedicine>Smart Medicine</TD.SmartMedicine>
 	<TD.StockUpSettings>Налаштування запасів</TD.StockUpSettings>
-	<TD.StockUpSettingsForPawn>Налаштування запасів для {0}</TD.StockUpSettingsForPawn>
-	<TD.ClearStockUp>Скинути налаштування запасів</TD.ClearStockUp>
-	<TD.CancelCopyStockUp>Скинути копіювання з {0}</TD.CancelCopyStockUp>
-	<TD.CopyStockUpFrom>Копіювати налаштування запасів з {0}</TD.CopyStockUpFrom>
-	<TD.SettingsMedicineGoodEnoughDesc>Наприклад, if Herbal Medicine does 90% as good a job as Normal, use Herbal instead</TD.SettingsMedicineGoodEnoughDesc>
-	<TD.SettingStockUpEnough>Запасатися лише якщо препаратів достатньо:</TD.SettingStockUpEnough>
-	<TD.SettingStockUpEnoughDesc>Наприклад, 150% означатиме, що на складі має бути достаньо препаратів щоб запасатися (100%) + недоторканий запас (50%)</TD.SettingStockUpEnoughDesc>
-	<TD.SettingStockUpReturn>Повертати на місце предмети якщо їх недостатньо</TD.SettingStockUpReturn>
-	<TD.Paused>Пауза</TD.Paused>
-	<TD.NotEnoughStockUp>Недостатньо для створення запасів</TD.NotEnoughStockUp>
-	<TD.SettingGlobalSurgeryUnlimited>У медичних налаштуваннях за замовчуванням для нової гри встановлено прапорець «Хірургія використовує найкращі».</TD.SettingGlobalSurgeryUnlimited>
-	<TD.SettingGlobalSurgeryUnlimitedDesc>Під час гри це налаштування не використовується — стандартне значення для нових колоністів поряд із іншими медичними параметрами, доступними на вкладці «Здоров’я»</TD.SettingGlobalSurgeryUnlimitedDesc>
-	<TD.DefaultSurgeryUnlimited>Найкращі ліки для хірургії</TD.DefaultSurgeryUnlimited>
-	<TD.PawnSettingSurgeryUnlimited>Найкращі ліки для хірургії</TD.PawnSettingSurgeryUnlimited>
-	<TD.DefaultCare>Базова допомога</TD.DefaultCare>
-	<TD.RemoveTempTendDesc>Видаліть це (якщо воно залишиться без використання)</TD.RemoveTempTendDesc>
+	<TD.StockUpSettingsForPawn>Налаштувати запаси для {0}</TD.StockUpSettingsForPawn>
+	<TD.ClearStockUp>Скинути всі налаштування запасів</TD.ClearStockUp>
+	<TD.CancelCopyStockUp>Відмінити копіювання налаштувань від {0}</TD.CancelCopyStockUp>
+	<TD.CopyStockUpFrom>Копіювати налаштування у {0}</TD.CopyStockUpFrom>
 
-	<!-- З використанням Mod Medicine Patch -->
-	<MedicalCareCategory_X>{0} або гірші</MedicalCareCategory_X>
+	<TD.SettingStockUpEnough>Запасатися лише тоді, коли є достатньо:</TD.SettingStockUpEnough>
+	<TD.SettingStockUpEnoughDesc>Наприклад, 150% означатиме, що на складі має бути достатньо препаратів щоб забезпечити кожного на 100% + 50% додатково.</TD.SettingStockUpEnoughDesc>
+	<TD.SettingStockUpReturn>Повертати препарати на склад якщо їх недостатньо</TD.SettingStockUpReturn>
+	
+	<TD.Paused>Призупинено</TD.Paused>
+
+	<TD.NotEnoughStockUp>Недостатня кількість для створення запасів</TD.NotEnoughStockUp>
+
+	<TD.SettingGlobalSurgeryUnlimited>Для нової гри у медичних налаштуваннях за замовчуванням встановлюється прапорець «Хірургія використовує найкращі».</TD.SettingGlobalSurgeryUnlimited>
+	<TD.SettingGlobalSurgeryUnlimitedDesc>Під час гри це налаштування не використовується — для нових колоністів він встановлюється за замовчуванням разом з іншими медичними параметрами за замовчуванням, доступними на вкладці «Здоров’я»</TD.SettingGlobalSurgeryUnlimitedDesc>
+
+	<TD.DefaultSurgeryUnlimited>Хірургія використовує найкращі доступні ліки</TD.DefaultSurgeryUnlimited>
+	<TD.PawnSettingSurgeryUnlimited>Найкращі для хірургії</TD.PawnSettingSurgeryUnlimited>
+
+	<TD.DefaultCare>Догляд за замовчуванням</TD.DefaultCare>
+
+	<TD.RemoveTempTendDesc>Видалити це (якщо воно залишиться без використання)</TD.RemoveTempTendDesc>
 
 </LanguageData>

@@ -1,61 +1,63 @@
 AllowTool - запозичений переклад.
 
-BasicMedicine - власний переклад.
+BasicMedicine - власний переклад. ✔
 
-BetterWorkbenchManagement - запозичений переклад.
+BetterWorkbenchManagement - запозичений і доповнений переклад.
 
-BulkComponents - власний переклад.
+BulkComponents - власний переклад. ✔
 
 CameraPlus - запозичений переклад.
 
-CommonSense - запозичений переклад.
+CommonSense - власний переклад. ✔
 
-DoorMat - власний переклад.
+DoorMat - власний переклад. ✔
 
-HarvestEverything - власний переклад.
+HarvestEverything - власний переклад. ✔
 
 LWMDeepStorage - запозичений і доповнений переклад.
 
-MendAndRecycle - власний переклад.
+MendAndRecycle - власний переклад. ✔
 
-Mines - власний переклад.
+Mines - власний (не повний) переклад.
+
+ModMedicinePatch - власний переклад. ✔
 
 MoreFactionInteraction - запозичений переклад.
 
-NiiloQoL - власний переклад.
+NiiloQoL - власний (не повний) переклад.
 
-OptimizationLeathers - власний переклад.
+OptimizationLeathers - власний переклад. ✔
 
-QualityBuilder - запозичений і доповнений переклад.
+QualityBuilder - запозичений у oleksandr2749 і доповнений переклад. ✔
 
-QualityColors - запозичений і доповнений переклад.
+QualityColors - запозичений у oleksandr2749 і доповнений переклад. ✔
 
-ReinforcedWalls - власний переклад.
+ReinforcedWalls - власний переклад. ✔
 
 RJW - запозичений і доповнений переклад.
 
-RJWAnimations - власний переклад.
+RJWAnimations - власний переклад. ✔
 
 RJWEvents - власний переклад.
 
 RJWMenstruation - власний переклад.
 
-RJWMilkableColonists - власний переклад.
+RJWMilkableColonists - власний (не повний) переклад.
 
 RJWSexperience - власний переклад.
 
 RocketMan - запозичений і доповнений переклад.
 
-SmarterVisitors - запозичений і доповнений переклад.
+SmarterVisitors - запозичений у oleksandr2749 і доповнений переклад. ✔
 
-SmartMedicine - запозичений переклад.
+SmartMedicine - власний переклад. ✔
 
-Stabilize - власний переклад.
+Stabilize - власний переклад. ✔
 
-TilledSoil - власний переклад.
+TilledSoil - власний переклад. ✔
 
-VanillaCombatReloaded - власний переклад.
+VanillaCombatReloaded - власний (не повний) переклад.
 
-VanillaHairExpanded - запозичений переклад.
+VanillaHairExpanded - власний переклад. ✔
 
-WeaponStats - власний переклад.
+WeaponStats - власний (не повний) переклад.

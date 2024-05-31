@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <LanguageData>
-  <VHE_ChangeHairstyle.reportString>зміна зачіски за: TargetA.</VHE_ChangeHairstyle.reportString>
+
+	<VHE_ChangeHairstyle.reportString>TargetA змінює зачіску.</VHE_ChangeHairstyle.reportString>
+
 </LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TempSleepSpot.label>тимчасове місце догляду за хворими</TempSleepSpot.label>
+	<TempSleepSpot.description>Автоматично створюється Smart Medicine для догляду в польових умовах. Видаляється, коли не використовується.</TempSleepSpot.description>
+
+</LanguageData>

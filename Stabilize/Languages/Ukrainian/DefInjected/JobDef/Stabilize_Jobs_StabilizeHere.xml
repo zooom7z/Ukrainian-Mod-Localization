@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <StabilizeHere.reportString>Стабілізувати TargetA.</StabilizeHere.reportString>
+
+	<StabilizeHere.reportString>Перев'язує TargetA.</StabilizeHere.reportString>
+
 </LanguageData>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <IW.ClickToDropTip>Наразі продукцію відносять на склад. Натисніть, щоб кидать на підлогу.</IW.ClickToDropTip>
+  <IW.ClickToDropTip>Наразі продукцію відносять на склад. Натисніть, щоб кидати на підлогу.</IW.ClickToDropTip>
   <IW.ClickToTakeToStockpileTip>Наразі кидається на підлогу. Натисніть, щоб відносити на склад.</IW.ClickToTakeToStockpileTip>
   <IW.CopyJustBillsTip>Скопіюйте лише цей рецепт</IW.CopyJustBillsTip>
   <IW.BreakLinkToOtherBillsTip>Розірвати зв'язок з іншими рецептами</IW.BreakLinkToOtherBillsTip>
@@ -37,7 +37,7 @@
 
   <IW.MatchInputIngredientsText>Зіставте вхідні інгредієнти</IW.MatchInputIngredientsText>
 
-  <IW.IngredientsTip>Лише предмети, виготовлені з інгредієнтів у фільтрі вхідних інгредієнтів (у крайньому правому стовпці), врахуватимуться до цілі</IW.IngredientsTip>
+  <IW.IngredientsTip>Лише предмети, виготовлені з інгредієнтів у фільтрі вхідних інгредієнтів (у крайньому правому стовпці), враховуватимуться до цілі</IW.IngredientsTip>
 
   <IW.CountCorpseClothesLabel>Врахувати одяг з трупа</IW.CountCorpseClothesLabel>
   <IW.CountCorpseClothesDesc>Включіть одяг,з трупів, у кількість предметів</IW.CountCorpseClothesDesc>
@@ -69,7 +69,7 @@
   <IW.Paste>Вставити</IW.Paste>
   <IW.PasteAllTip>Вставте скопійовані рецепти як нові рецепти сюди.</IW.PasteAllTip>
 
-  <IW.PasteLinkLabel>Встоновити зв'язок</IW.PasteLinkLabel>
+  <IW.PasteLinkLabel>Встановити зв'язок</IW.PasteLinkLabel>
   <IW.PasteLinkTip>Вставте скопійовані рецепти та зв’яжіть їх з оригіналами. Зміни буде відображено на всіх підключених рецептах.</IW.PasteLinkTip>
 
   <IW.FoundOldBillText>Знайти старий рецепт</IW.FoundOldBillText>

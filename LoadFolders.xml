@@ -12,6 +12,7 @@
 	<li IfModActive="lwm.deepstorage">LWMDeepStorage</li>
 	<li IfModActive="dd.unofficial.notfood.mendandrecycle">MendAndRecycle</li>
 	<li IfModActive="cain.mineshaft">Mines</li>
+	<li IfModActive="antaioz.modmedicinepatch">ModMedicinePatch</li>
 	<li IfModActive="mlie.morefactioninteraction">MoreFactionInteraction</li>
 	<li IfModActive="niilo007.niilosqol">NiiloQoL</li>
 	<li IfModActive="scorpio.optimizationleathers">OptimizationLeathers</li>
@@ -36,7 +37,6 @@
 	<li IfModActive="vanillaexpanded.vhe">VanillaHairExpanded</li>
 	<li IfModActive="bodlosh.weaponstats">WeaponStats</li>
 
-	<li IfModActive=""></li>
 	<li IfModActive=""></li>
 	<li IfModActive=""></li>
 	<li IfModActive=""></li>
