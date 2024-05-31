@@ -1,4 +1,4 @@
-AllowTool - запозичений переклад.
+AllowTool - запозичений і доповнений переклад. ✔
 
 BasicMedicine - власний переклад. ✔
 
@@ -14,7 +14,7 @@ DoorMat - власний переклад. ✔
 
 HarvestEverything - власний переклад. ✔
 
-LWMDeepStorage - запозичений і доповнений переклад.
+LWMDeepStorage - запозичений і доповнений переклад. ✔
 
 MendAndRecycle - власний переклад. ✔
 

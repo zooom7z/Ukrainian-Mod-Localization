@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- also available for lazy colonists -->
+	<!-- also available for lazy colonists -->
 
-  <LWM_WeaponsCabinet.label>Збройова шафа</LWM_WeaponsCabinet.label>
-  <LWM_WeaponsCabinet.description>Шафа для зберігання кількох видів зброї. \n\nЗброя, що міститься в ній, не псуватиметься, навіть якщо шафу розташувати поза приміщенням.</LWM_WeaponsCabinet.description>
-  <LWM_WeaponsCabinet_Blueprint.label>Збройова шафа (проєкт)</LWM_WeaponsCabinet_Blueprint.label>
-  <LWM_WeaponsCabinet_Blueprint_Install.label>Збройова шафа (проєкт)</LWM_WeaponsCabinet_Blueprint_Install.label>
-  <LWM_WeaponsCabinet_Frame.label>Збройова шафа (будівництво)</LWM_WeaponsCabinet_Frame.label>
-  <LWM_WeaponsCabinet_Frame.description>Шафа для зберігання кількох видів зброї. \n\nЗброя, що міститься в ній, не псуватиметься, навіть якщо шафу розташувати поза приміщенням.</LWM_WeaponsCabinet_Frame.description>
+	<LWM_WeaponsCabinet.label>Збройова шафа</LWM_WeaponsCabinet.label>
+	<LWM_WeaponsCabinet.description>Шафа для зберігання кількох видів зброї.\n\nЗброя, що міститься в ній, не псуватиметься, навіть якщо шафу розташувати поза приміщенням.</LWM_WeaponsCabinet.description>
+	<LWM_WeaponsCabinet_Blueprint.label>Збройова шафа (проєкт)</LWM_WeaponsCabinet_Blueprint.label>
+	<LWM_WeaponsCabinet_Blueprint_Install.label>Збройова шафа (проєкт)</LWM_WeaponsCabinet_Blueprint_Install.label>
+	<LWM_WeaponsCabinet_Frame.label>Збройова шафа (будівництво)</LWM_WeaponsCabinet_Frame.label>
+	<LWM_WeaponsCabinet_Frame.description>Шафа для зберігання кількох видів зброї.\n\nЗброя, що міститься в ній, не псуватиметься, навіть якщо шафу розташувати поза приміщенням.</LWM_WeaponsCabinet_Frame.description>
 
 
-  <!-- or for anyone who builds some good careful metal-working tools -->
+	<!-- or for anyone who builds some good careful metal-working tools -->
 
-  <LWM_WeaponsLocker.label>Міцна збройова шафа</LWM_WeaponsLocker.label>
-  <LWM_WeaponsLocker.description>Міцна металева шафка для надійного зберігання зброї. \n\nЗброя, що міститься в ній, не псуватиметься, навіть якщо шафу розташувати поза приміщенням.</LWM_WeaponsLocker.description>
-  <LWM_WeaponsLocker_Blueprint.label>Міцна збройова шафа (проєкт)</LWM_WeaponsLocker_Blueprint.label>
-  <LWM_WeaponsLocker_Blueprint_Install.label>Міцна збройова шафа (проєкт)</LWM_WeaponsLocker_Blueprint_Install.label>
-  <LWM_WeaponsLocker_Frame.label>Міцна збройова шафа (будівництво)</LWM_WeaponsLocker_Frame.label>
-  <LWM_WeaponsLocker_Frame.description>Міцна металева шафка для надійного зберігання зброї. \n\nЗброя, що міститься в ній, не псуватиметься, навіть якщо шафу розташувати поза приміщенням.</LWM_WeaponsLocker_Frame.description>
-
+	<LWM_WeaponsLocker.label>Міцна збройова шафа</LWM_WeaponsLocker.label>
+	<LWM_WeaponsLocker.description>Міцна металева шафка для надійного зберігання зброї.\n\nЗброя, що міститься в ній, не псуватиметься, навіть якщо шафу розташувати поза приміщенням.</LWM_WeaponsLocker.description>
+	<LWM_WeaponsLocker_Blueprint.label>Міцна збройова шафа (проєкт)</LWM_WeaponsLocker_Blueprint.label>
+	<LWM_WeaponsLocker_Blueprint_Install.label>Міцна збройова шафа (проєкт)</LWM_WeaponsLocker_Blueprint_Install.label>
+	<LWM_WeaponsLocker_Frame.label>Міцна збройова шафа (будівництво)</LWM_WeaponsLocker_Frame.label>
+	<LWM_WeaponsLocker_Frame.description>Міцна металева шафка для надійного зберігання зброї.\n\nЗброя, що міститься в ній, не псуватиметься, навіть якщо шафу розташувати поза приміщенням.</LWM_WeaponsLocker_Frame.description>
 
 </LanguageData>

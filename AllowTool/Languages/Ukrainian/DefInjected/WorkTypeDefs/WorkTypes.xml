@@ -4,7 +4,7 @@
 	<HaulingUrgent.label>Носій+</HaulingUrgent.label>
 	<HaulingUrgent.description>Перенесення високого пріоритету. Застосовується до предметів відмічених інструментом "Термінове перенесення".\nДодано модом Allow Tool</HaulingUrgent.description>
 	<HaulingUrgent.labelShort>Носій+</HaulingUrgent.labelShort>
-	<HaulingUrgent.pawnLabel>терміновий перенощик</HaulingUrgent.pawnLabel>
+	<HaulingUrgent.pawnLabel>терміновий переносчик</HaulingUrgent.pawnLabel>
 	<HaulingUrgent.gerundLabel>Термінове перенесення</HaulingUrgent.gerundLabel>
 	<HaulingUrgent.verb>терміново перенести</HaulingUrgent.verb>
 	
