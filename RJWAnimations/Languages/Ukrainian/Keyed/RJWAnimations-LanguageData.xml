@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Mod menu -->
+	<RimAnim_ModSettings>RJW Налаштування анімації</RimAnim_ModSettings>
+	<RimAnim_SoundOverride>Увімкнути заміщення звуку</RimAnim_SoundOverride>
+	<RimAnim_GenitalRotation>Контролювати обертання геніталій</RimAnim_GenitalRotation>
+	<RimAnim_OrgasmQuiver>Включити тремтіння від оргазму</RimAnim_OrgasmQuiver>
+	<RimAnim_RapeShiver>Увімкнути тремтіння від зґвалтування</RimAnim_RapeShiver>
+	<RimAnim_HeartsDuringLovin>Увімкніть сердечка під час сексу</RimAnim_HeartsDuringLovin>
+	<RimAnim_PlayNonsexual>Відтворювати анімацію для несексуальних дій (тримання за руки, поцілунки)</RimAnim_PlayNonsexual>
+	<RimAnim_AnimManagerTab>Увімкнути вкладку "Менеджер анімації"</RimAnim_AnimManagerTab>
+	<RimAnim_ShiverIntensity>Тремтіння/Інтенсивність тремтіння (default 2): </RimAnim_ShiverIntensity>
+	<RimAnim_Voices>Відтворення голосів під час анімації</RimAnim_Voices>
+	<RimAnim_HumanlikeVoicesDefault>Відтворювати людські голоси за замовчуванням, якщо не знайдено жодного для інопланетної раси</RimAnim_HumanlikeVoicesDefault>
+	<RimAnim_DebugMode>Режим налагодження</RimAnim_DebugMode>
+	<RimAnim_FloatRangeRenderTree>Діапазон зміщення для меню налагоджувального рендерингу дерев: </RimAnim_FloatRangeRenderTree>
+
+	<!-- Main Tab Window -->
+	<RimAnims_AnimManager>Менеджер анімації</RimAnims_AnimManager>
+	<RimAnims_Warning>Попередження - як правило, ви не хочете змінювати людські компенсації, тільки компенсації інопланетних рас або тварини</RimAnims_Warning>
+	<RimAnims_CopyToClipboard>Копіювати зміщення до буфера обміну</RimAnims_CopyToClipboard>
+	<RimAnims_ShareSettings>Вставити значення зміщення в OffsetDef або надати доступ у Discord</RimAnims_ShareSettings>
+
+</LanguageData>

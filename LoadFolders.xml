@@ -22,6 +22,7 @@
 
 	<li IfModActive="crewd.reinforcedwallscontinued">ReinforcedWalls</li>
 	<li IfModActive="rim.job.world">RJW</li>
+	<li IfModActive="c0ffee.rimworld.animations">RJWAnimations</li>
 	<li IfModActive="c0ffee.rjw.events">RJWEvents</li>
 	<li IfModActive="rjw.menstruation">RJWMenstruation</li>
 	<li IfModActive="rjw.milk.humanoid">RJWMilkableColonists</li>
@@ -35,7 +36,6 @@
 	<li IfModActive="vanillaexpanded.vhe">VanillaHairExpanded</li>
 	<li IfModActive="bodlosh.weaponstats">WeaponStats</li>
 
-	<li IfModActive=""></li>
 	<li IfModActive=""></li>
 	<li IfModActive=""></li>
 	<li IfModActive=""></li>
