@@ -6,6 +6,9 @@
 <RJW_AbortionBeast.label>зробити аборт</RJW_AbortionBeast.label>
 <RJW_AbortionBeast.description>Перериває небажану вагітність.</RJW_AbortionBeast.description>
 <RJW_AbortionBeast.jobString>Виконує аборт.</RJW_AbortionBeast.jobString>
+  <RJW_AbortionMechHidden.label>зробити аборт</RJW_AbortionMechHidden.label>
+  <RJW_AbortionMechHidden.description>Перериває небажану вагітність.</RJW_AbortionMechHidden.description>
+  <RJW_AbortionMechHidden.jobString>Виконує аборт.</RJW_AbortionMechHidden.jobString>
 <RJW_AbortionMech.label>нейтралізація мезаноїдів</RJW_AbortionMech.label>
 <RJW_AbortionMech.description>Безпечне виведення механоїдів з організму.</RJW_AbortionMech.description>
 <RJW_AbortionMech.jobString>Нейтралізує механоїдів.</RJW_AbortionMech.jobString>

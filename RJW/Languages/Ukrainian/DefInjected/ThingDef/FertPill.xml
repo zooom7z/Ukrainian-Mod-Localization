@@ -5,6 +5,7 @@
 	
 	<RJW_FertPill.label>таблетка гіперфертильності</RJW_FertPill.label>
 	<RJW_FertPill.description>Підвищує фертильність на 48 годин. Також працює як легкий афродизіак.</RJW_FertPill.description>
-	<RJW_FertPill.stages.0.label>діє</RJW_FertPill.stages.0.label>
+	<RJW_FertPill.ingestible.ingestCommandString>Прийняти {0}</RJW_FertPill.ingestible.ingestCommandString>
+	<RJW_FertPill.ingestible.ingestReportString>Приймає {0}.</RJW_FertPill.ingestible.ingestReportString>
 
 </LanguageData>

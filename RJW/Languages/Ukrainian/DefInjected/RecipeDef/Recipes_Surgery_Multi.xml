@@ -16,6 +16,9 @@
 <AddMultiDragonVagina.label>Додати драконячу вагіну</AddMultiDragonVagina.label>
 <AddMultiDragonVagina.description>Додає додаткову вагіну.</AddMultiDragonVagina.description>
 <AddMultiDragonVagina.jobString>Додає вагіну.</AddMultiDragonVagina.jobString>
+  <AddMultiOvipositorF.label>додати жіночий яйцеклад</AddMultiOvipositorF.label>
+  <AddMultiOvipositorF.description>Додає додатковий жіночий яйцеклад.</AddMultiOvipositorF.description>
+  <AddMultiOvipositorF.jobString>Додавання жіночого яйцеклада.</AddMultiOvipositorF.jobString>
 <!-- natural penises -->
 <AddMultiPenis.label>Додати пеніс</AddMultiPenis.label>
 <AddMultiPenis.description>Добавляє додатковий пеніс.</AddMultiPenis.description>
@@ -41,11 +44,20 @@
 <AddMultiCrocodilianPenis.label>Додати крокодилячий пеніс</AddMultiCrocodilianPenis.label>
 <AddMultiCrocodilianPenis.description>Добавляє додатковий пеніс.</AddMultiCrocodilianPenis.description>
 <AddMultiCrocodilianPenis.jobString>Добавляє пеніс.</AddMultiCrocodilianPenis.jobString>
+  <AddMultiOvipositorM.label>додати чоловічого яйцеклада</AddMultiOvipositorM.label>
+  <AddMultiOvipositorM.description>Додає додаткового чоловічого яйцеклада.</AddMultiOvipositorM.description>
+  <AddMultiOvipositorM.jobString>Додавання чоловічого яйцеклада.</AddMultiOvipositorM.jobString>
 <!-- Breasts -->
 <AddMultiBreasts.label>Додати груди</AddMultiBreasts.label>
 <AddMultiBreasts.description>Додає додатковий ряд грудей</AddMultiBreasts.description>
 <AddMultiBreasts.jobString>Додає груди.</AddMultiBreasts.jobString>
+  <AddMultiUdder.label>додати вим'я</AddMultiUdder.label>
+  <AddMultiUdder.description>Додає додаткове вим'я.</AddMultiUdder.description>
+  <AddMultiUdder.jobString>Додаю вим'я.</AddMultiUdder.jobString>
 <AddMultiAnus.label>Додати анус</AddMultiAnus.label>
 <AddMultiAnus.description>Добавляє додатковий анус.</AddMultiAnus.description>
 <AddMultiAnus.jobString>Добавляє анус.</AddMultiAnus.jobString>
+  <AddMultiInsectAnus.label>додати анус комахи</AddMultiInsectAnus.label>
+  <AddMultiInsectAnus.description>Додає додатковий анус.</AddMultiInsectAnus.description>
+  <AddMultiInsectAnus.jobString>Додаю анус.</AddMultiInsectAnus.jobString>
 </LanguageData>

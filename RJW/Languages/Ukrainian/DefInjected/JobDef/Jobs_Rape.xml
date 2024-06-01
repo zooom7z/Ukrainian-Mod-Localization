@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<GettinRaped.reportString>Піддається зґвалтуванню</GettinRaped.reportString>
-<RapeComfortPawn.reportString>Ґвалтує</RapeComfortPawn.reportString>
-<RandomRape.reportString>Ґвалтує</RandomRape.reportString>
-<RapeEnemy.reportString>Ґвалтує ворога</RapeEnemy.reportString>
-<RapeEnemyByInsect.reportString>Ґвалтує ворога</RapeEnemyByInsect.reportString>
-<RapeEnemyByAnimal.reportString>Ґвалтує ворога</RapeEnemyByAnimal.reportString>
-<RapeEnemyByMech.reportString>Ґвалтує ворога</RapeEnemyByMech.reportString>
-<RapeEnemyToParasite.reportString>Ґвалтує ворога</RapeEnemyToParasite.reportString>
+<GettinRaped.reportString>піддається зґвалтуванню.</GettinRaped.reportString>
+<RapeComfortPawn.reportString>ґвалтує CP</RapeComfortPawn.reportString>
+<RandomRape.reportString>ґвалтує.</RandomRape.reportString>
+<RapeEnemy.reportString>ґвалтує ворога</RapeEnemy.reportString>
+<RapeEnemyByInsect.reportString>ґвалтує ворога</RapeEnemyByInsect.reportString>
+<RapeEnemyByAnimal.reportString>ґвалтує ворога</RapeEnemyByAnimal.reportString>
+<RapeEnemyByMech.reportString>ґвалтує ворога</RapeEnemyByMech.reportString>
+<RapeEnemyToParasite.reportString>ґвалтує ворога</RapeEnemyToParasite.reportString>
 </LanguageData>

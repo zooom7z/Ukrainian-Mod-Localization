@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 <!--Settings-->
-	<RJWSettingsOne>RimJobWorld - Основні налаштування</RJWSettingsOne>
+	<RJWSettingsOne>RimJobWorld - Basic Settings</RJWSettingsOne>
 		<NymphTamed>Дозволити приєднання німфоманок до колонії</NymphTamed>
 		<NymphTamed_desc>Створює пішака з ('Німфоманією') і приєднює до колонії.</NymphTamed_desc>
 		<NymphWild>Дика німфоманка</NymphWild>
@@ -14,8 +14,8 @@
 		<NymphRaidRP_desc>Перемикає рейди німф на використання очок рейду для тих, хто занадто слабкий для передбачуваної складності рейду німф.</NymphRaidRP_desc>
 		<NymphPermanentManhunter>Жага крові у німфоманок</NymphPermanentManhunter>
 		<NymphPermanentManhunter_desc>Рейд німфоманок із жагою до крові.</NymphPermanentManhunter_desc>
-	<NymphSappers>Сапери німф</NymphSappers>
-		<NymphSappers_desc>Тук-тук! Хорні відчуває твій запах за цими дверима! Ти можеш тікати, але тобі не сховатися.</NymphSappers_desc>
+		<NymphSappers>Німфи підривники</NymphSappers>
+		<NymphSappers_desc>Тук-тук! Хтиві німфи відчувають твій запах за цими дверима! Ти можеш тікати, але тобі не сховатися.</NymphSappers_desc>
 		<NymphFrustratedRape>Німфоманки ґвалтують, коли розчаровуються.</NymphFrustratedRape>
 		<NymphFrustratedRape_desc>Коли Німфоманки розчаровані і не мають партнерів, вони можуть випадково зґвалтувати когось/щось</NymphFrustratedRape_desc>
 
@@ -32,19 +32,17 @@
 		<futa_spacers_chance>Фута/Трап шанс спавна серед прибулих із космосу</futa_spacers_chance>
 		<futa_spacers_chance_desc>Фута/трап шанс спавна серед прибулих із космосу \n\n 0 - 100\nСтандарт: 5</futa_spacers_chance_desc>
 
+		<sexneed_decay_rate_name>Коефіцієнт зниження сексуальної потреби (%)</sexneed_decay_rate_name>
+		<sexneed_decay_rate_desc>0% для відсутності.\n1000000% перетворити планету на бордель. Рекомендовано: 50% до 200%.</sexneed_decay_rate_desc>
 		<sexneed_fix_name>Секс потребує виправлення</sexneed_fix_name>
 		<sexneed_fix_desc>Виправляє неправильні порогові значення потреби в сексі, ймовірно, значно змінює тригери для сексу і зґвалтування.</sexneed_fix_desc>
-		<sexneed_decay_rate_name>Потреба у сексі (%)</sexneed_decay_rate_name>
-		<sexneed_decay_rate_desc>0% для відсутності.\n1000000% перетворити планету на бордель. Рекомендовано: 50% до 200%.</sexneed_decay_rate_desc>
-
-	<Animal_mating_cooldown>Охолодження спарювання тварин</Animal_mating_cooldown>
-	<Animal_mating_cooldown_desc>Скільки годин тварина чекає перед спарюванням/розмноженням.\n0 - на основі статевого потягу</Animal_mating_cooldown_desc>
+		<Animal_mating_cooldown>Кулдаун спарювання тварин</Animal_mating_cooldown>
+		<Animal_mating_cooldown_desc>Скільки годин тварина чекає перед спарюванням/розмноженням.\n0 - на основі статевого потягу</Animal_mating_cooldown_desc>
 		<AllowYouthSex>Дозволити секс для молоді</AllowYouthSex>
 		<AllowYouthSex_desc>Дозволити секс між людськими видами, які перебувають у репродуктивному віці, але їхній ріст не досягнув 100%.</AllowYouthSex_desc>
 		<!-- obsolete -->
 		<sex_age_legacymode>Застарілі статеві вікові обмеження</sex_age_legacymode>
 		<sex_age_legacymode_desc>Застарілі вікові обмеження для людиноподібних пішаків, майже зламані для рас з нелюдською тривалістю життя, але люди хочуть це повернути, тож неважливо.\n При інвалідності використовується репродуктивна стадія життя раси як підлітка, а ріст пішака (100%) як дорослого.</sex_age_legacymode_desc>
-
 		<SexMinimumAge>Мінімальний вік для сексу</SexMinimumAge>
 		<SexMinimumAge_desc>Вік згоди</SexMinimumAge_desc>
 		<SexFreeForAllAge>Вік згоди</SexFreeForAllAge>
@@ -107,7 +105,7 @@
 		<Rapee_MinVulnerability_animals_desc>Тварини з уразливістю вище цієї будуть об'єктами зґвалтування для зоофілів. \nЩоб перевірити статус 'вразливості', перейдіть до 'переглянути інформацію про цей об'єкт' > stats.\n\nДопустимий діапазон: 0 - 300%</Rapee_MinVulnerability_animals_desc>
 
 
-	<RJWSettingsFour>RimJobWorld - Налаштування сексу</RJWSettingsFour>
+	<RJWSettingsFour>RimJobWorld - Casual Sex Settings</RJWSettingsFour>
 		<SettingHookupsEnabled>Увімкнути Пікап (у світі)</SettingHookupsEnabled>
 		<SettingHookupsEnabled_desc>Чи можуть самотні пішаки займатися сексом один з одним без стосунків</SettingHookupsEnabled_desc>
 		<SettingQuickHookupsEnabled>Увімкнути «швидкий» секс.</SettingQuickHookupsEnabled>
@@ -146,7 +144,7 @@
 		<SettingMinimumRelationshipToHookup_desc>Окуляри відносин потрібні для пік-апу.\n Стандарт 20.\n Для Німфоманок &gt; 0.</SettingMinimumRelationshipToHookup_desc>
 
 
-	<RJWDebugSettings>RimJobWorld - Налагодження</RJWDebugSettings>
+	<RJWDebugSettings>RimJobWorld - Debug</RJWDebugSettings>
 		<!-- debug stuff-->
 		<submit_button_enabled>Увімкнути кнопку «здатися»</submit_button_enabled>
 		<submit_button_enabled_desc>Кнопка дає змогу пропустити небезпечну частину бою і перейти одразу до принизливої. \Вимкни, якщо честь тобі важливіша за життя. \nЯкщо передумаєш, то ця кнопка завжди тут.</submit_button_enabled_desc>
@@ -154,12 +152,12 @@
 		<RJW_designation_box_desc>Вмикає мітки на інтерфейсі.</RJW_designation_box_desc>
 		<StackRjwParts_name>Видимість частин</StackRjwParts_name>
 		<StackRjwParts_desc>Показує RJW частини тіла у вкладці здоров'я </StackRjwParts_desc>
-	<maxDistanceCellsCasual_name>Максимальна відстань для сексу</maxDistanceCellsCasual_name>
-	<maxDistanceCellsCasual_desc>Встановлює дистанцію, в якій пішак буде шукати партнера (PawnPath).\n Стандарт 250 ~20 клітинок.\n\nЯкщо нижче за 100, використовується дистанція без урахування перешкод(DistanceToSquared), але може призвести до того, що пішак вирішить обійти всю гору заради сексу.</maxDistanceCellsCasual_desc>
+		<maxDistanceCellsCasual_name>Максимальна відстань для сексу(клітинки)</maxDistanceCellsCasual_name>
+		<maxDistanceCellsCasual_desc>Максимальна відстань у клітинках, яку пішак готовий пройти, щоб досягти місця призначення/цілі.\n\nШвидка перевірка відстані - ігнорує перешкоди, наприклад, стіни, гори.\nЗа замовчуванням 100 клітинок.</maxDistanceCellsCasual_desc>
 		<maxDistanceCellsRape_name>Максимальна відстань для зґвалтування</maxDistanceCellsRape_name>
 		<maxDistanceCellsRape_desc>Максимальна відстань у клітинках, яку пішак готовий пройти, щоб досягти місця призначення/цілі.\n\nШвидка перевірка відстані - ігнорує перешкоди (наприклад, стіни, гори).\nЗа замовчуванням 100 клітин.</maxDistanceCellsRape_desc>
-	<maxDistancePathCost_name>Максимальна відстань(PawnPath)</maxDistancePathCost_name>
-	<maxDistancePathCost_desc>Максимальна відстань, яку ШІ розглядає, щоб досягти місця призначення/цілі статевого акту. Повільне комплексне обчислення, на яке впливають перешкоди, швидкість пішака та модифікатори ґрунту.\nЗа замовчуванням 1000.\n0 - вимкнути перевірку.</maxDistancePathCost_desc>
+		<maxDistancePathCost_name>Максимальна відстань для сексу(PawnPath)</maxDistancePathCost_name>
+		<maxDistancePathCost_desc>Максимальна відстань, яку ШІ розглядає, щоб досягти місця призначення/цілі статевого акту. Повільне комплексне обчислення, на яке впливають перешкоди, швидкість пішака та модифікатори ґрунту.\nЗа замовчуванням 1000.\n0 - вимкнути перевірку.</maxDistancePathCost_desc>
 
 		<!-- cheat stuff-->
 		<override_RJW_designation_checks_name>Зняти обмеження міток</override_RJW_designation_checks_name>
@@ -167,33 +165,33 @@
 		<override_control>Прямий контроль</override_control>
 		<override_control_desc>Гравець вручну контролює секс-дії пішаків.\n ЧІТЕР!</override_control_desc>
 		<AddTrait_Rapist>Отримання риси "Ґвалтівник"</AddTrait_Rapist>
-	<AddTrait_Rapist_desc>Шанс отримати рису "Ґвалтівник" після 10 статевих актів, >12% з яких є зґвалтуваннями\n ВИ ШАХРАЙ</AddTrait_Rapist_desc>
+		<AddTrait_Rapist_desc>Шанс отримати рису "Ґвалтівник" після 10 статевих актів, >12% з яких є зґвалтуваннями\n ВИ ШАХРАЙ</AddTrait_Rapist_desc>
 		<AddTrait_Masocist>Отримання риси "Мазохіст"</AddTrait_Masocist>
-	<AddTrait_Masocist_desc>Шанс отримати рису "Мазохіст" після зґвалтування, 5% після стадії відчуття розбитості\n ВИ ШАХРАЙ</AddTrait_Masocist_desc>
+		<AddTrait_Masocist_desc>Шанс отримати рису "Мазохіст" після зґвалтування, 5% після стадії відчуття розбитості\n ВИ ШАХРАЙ</AddTrait_Masocist_desc>
 		<AddTrait_Nymphomaniac>Отримання риси "Німфоманія"</AddTrait_Nymphomaniac>
-	<AddTrait_Nymphomaniac_desc>Шанс отримати рису "Німфоманка" після 10 статевих актів, якщо ви перебуваєте під залежністю від HumpShroom\n YOU CHEATER</AddTrait_Nymphomaniac_desc>
+		<AddTrait_Nymphomaniac_desc>Шанс отримати рису "Німфоманка" після 10 статевих актів, якщо ви перебуваєте під залежністю від HumpShroom\n YOU CHEATER</AddTrait_Nymphomaniac_desc>
 		<AddTrait_Necrophiliac>Отримання риси "Некрофіл"</AddTrait_Necrophiliac>
-	<AddTrait_Necrophiliac_desc>Шанс отримати рису "Некрофіл" після 10 статевих актів, >50% з яких з трупами\n ВИ ШАХРАЙ</AddTrait_Necrophiliac_desc>
+		<AddTrait_Necrophiliac_desc>Шанс отримати рису "Некрофіл" після 10 статевих актів, >50% з яких з трупами\n ВИ ШАХРАЙ</AddTrait_Necrophiliac_desc>
 		<AddTrait_Nerves>Отримання риси "Нервовий"</AddTrait_Nerves>
-	<AddTrait_Nerves_desc>Набути властивості "Нервовий" після зґвалтування\n ТИ ШАХРАЙ</AddTrait_Nerves_desc>
+		<AddTrait_Nerves_desc>Набути властивості "Нервовий" після зґвалтування\n ТИ ШАХРАЙ</AddTrait_Nerves_desc>
 		<AddTrait_Zoophiliac>Отримання риси "Зоофіл"</AddTrait_Zoophiliac>
-	<AddTrait_Zoophiliac_desc>Шанс отримати рису "Зоофіл" після 10 статевих актів, &gt;50% з яких з тваринами\n ВИ ШАХРАЙ</AddTrait_Zoophiliac_desc>
-		<AddTrait_FootSlut>Отримання риси "Любитель ніжок"</AddTrait_FootSlut>
-	<AddTrait_FootSlut_desc>Шанс отримати рису "Любитель ніжок" після 10 статевих актів, при отриманні Задоволення від ніг\n YOU CHEATER</AddTrait_FootSlut_desc>
-		<AddTrait_CumSlut>Отримання риси "Шльондра"</AddTrait_CumSlut>
-	<AddTrait_CumSlut_desc>Шанс отримати рису Повії після 10 статевих актів при виконанні Fellatio\n YOU CHEATER</AddTrait_CumSlut_desc>
-		<AddTrait_ButtSlut>Отримання риси "Жополиз"</AddTrait_ButtSlut>
-	<AddTrait_ButtSlut_desc>Шанс отримати ознаку шльондри після 10 статевих актів, при отриманні Anal\n YOU CHEATER</AddTrait_ButtSlut_desc>
-	<Allow_RMB_DeepTalk>Глибока розмова</Allow_RMB_DeepTalk>
-	<Allow_RMB_DeepTalk_desc>Дозволяє взаємодію RMB-Social-DeepTalk (+12 зв'язків)\n YOU CHEATER</Allow_RMB_DeepTalk_desc>
-	<Disable_bestiality_pregnancy_relations>Вимкнути зв'язки зоофілії з вагітністю</Disable_bestiality_pregnancy_relations>
-	<Disable_bestiality_pregnancy_relations_desc>Вимкнути зв'язки (мати/батько/брати/сестри) від зоофілії вагітності.\n YOU CHEATER</Disable_bestiality_pregnancy_relations_desc>
-	<Disable_egg_pregnancy_relations>Вимкнути стосунки через вагітність від яєць</Disable_egg_pregnancy_relations>
-	<Disable_egg_pregnancy_relations_desc>Відключає стосунки(мама/тато/братів і сестер) від вагітності через яйця.\n YOU CHEATER</Disable_egg_pregnancy_relations_desc>
-	<Disable_MeditationFocusDrain>Вимкнути злив фокусу медитації</Disable_MeditationFocusDrain>
-	<Disable_MeditationFocusDrain_desc>Коли пішаки розчаровані, вони не втрачають фокус.\n ВИ ШАХРАЙ</Disable_MeditationFocusDrain_desc>
-	<Disable_RecreationDrain>Вимкнути злив відпочинку</Disable_RecreationDrain>
-	<Disable_RecreationDrain_desc>Коли пішаки мають нудний/поганий секс через риси/запити, вони не втрачають потреби у відпочинку.\n ВИ ШАХРАЙ</Disable_RecreationDrain_desc>
+		<AddTrait_Zoophiliac_desc>Шанс отримати рису "Зоофіл" після 10 статевих актів, &gt;50% з яких з тваринами\n ВИ ШАХРАЙ</AddTrait_Zoophiliac_desc>
+		<AddTrait_FootSlut>Отримання риси "Фетиш ніг"</AddTrait_FootSlut>
+		<AddTrait_FootSlut_desc>Шанс отримати рису "Фетиш ніг" після 10 статевих актів, при отриманні Задоволення від ніг\n YOU CHEATER</AddTrait_FootSlut_desc>
+		<AddTrait_CumSlut>Отримання риси "Фетиш на сперму"</AddTrait_CumSlut>
+		<AddTrait_CumSlut_desc>Шанс отримати рису "Фетиш на сперму" після 10 статевих актів при виконанні Fellatio\n YOU CHEATER</AddTrait_CumSlut_desc>
+		<AddTrait_ButtSlut>Отримання риси "Анальний фетиш"</AddTrait_ButtSlut>
+		<AddTrait_ButtSlut_desc>Шанс отримати рису "Анальний фетиш" після 10 статевих актів, при отриманні анального сексу\n YOU CHEATER</AddTrait_ButtSlut_desc>
+		<Allow_RMB_DeepTalk>RBM Глибока розмова</Allow_RMB_DeepTalk>
+		<Allow_RMB_DeepTalk_desc>Дозволяє взаємодію RMB-Social-DeepTalk (+12 зв'язків)\n YOU CHEATER</Allow_RMB_DeepTalk_desc>
+		<Disable_bestiality_pregnancy_relations>Вимкнути зв'язки зоофілії з вагітністю</Disable_bestiality_pregnancy_relations>
+		<Disable_bestiality_pregnancy_relations_desc>Вимкнути зв'язки (мати/батько/брати/сестри) від зоофілії вагітності.\n YOU CHEATER</Disable_bestiality_pregnancy_relations_desc>
+		<Disable_egg_pregnancy_relations>Вимкнути стосунки через вагітність від яєць</Disable_egg_pregnancy_relations>
+		<Disable_egg_pregnancy_relations_desc>Відключає стосунки(мама/тато/братів і сестер) від вагітності через яйця.\n YOU CHEATER</Disable_egg_pregnancy_relations_desc>
+		<Disable_MeditationFocusDrain>Вимкнути втрату фокусу медитації</Disable_MeditationFocusDrain>
+		<Disable_MeditationFocusDrain_desc>Коли пішаки розчаровані, вони не втрачають фокус.\n ВИ ШАХРАЙ</Disable_MeditationFocusDrain_desc>
+		<Disable_RecreationDrain>Вимкнути втрату відпочинку</Disable_RecreationDrain>
+		<Disable_RecreationDrain_desc>Коли пішаки мають нудний/поганий секс через риси/запити, вони не втрачають потреби у відпочинку.\n ВИ ШАХРАЙ</Disable_RecreationDrain_desc>
 
 		<!-- debug stuff-->
 		<ForbidKidnap>Заборонити викрадення</ForbidKidnap>
@@ -218,12 +216,12 @@
 		<DebugRape_desc>Вмикає деякі дуже спамливі журнали налагодження, щоб допомогти знайти вади у операціях зґвалтування.\nТільки розробники (або хтось, хто допомагає їм знайти ваду) повинні вмикати цей параметр.</DebugRape_desc>
 		<DebugInteraction>Дебаг взаємодій</DebugInteraction>
 		<DebugInteraction_desc>Довідковий режим для модуля взаємодії.</DebugInteraction_desc>
-	<DebugNymph>Інформація про німфу журналу налагодження</DebugNymph>
-	<DebugNymph_desc>Режим розширеного опису для модуля nymph.</DebugNymph_desc>
+		<DebugNymph>Журнал налагодження про німф</DebugNymph>
+		<DebugNymph_desc>Режим розширеного опису для модуля німф.</DebugNymph_desc>
 
 
 	<!-- Pregnancy stuff-->
-	<RJWSettingsTwo>RimJobWorld - налаштування вагітності</RJWSettingsTwo>
+	<RJWSettingsTwo>RimJobWorld - Pregnancy Settings</RJWSettingsTwo>
 		<UseVanillaPregnancy>Використовувати вагітність з Biotech DLC</UseVanillaPregnancy>
 		<UseVanillaPregnancy_desc>Використання вагітності з Biotech DLC для вагітності за участю самки людини.</UseVanillaPregnancy_desc>
 		<RJWH_pregnancy>Включити вагітність для людей</RJWH_pregnancy>
@@ -235,15 +233,15 @@
 		<PregnantCoeffecientForAnimals>Шанси вагітності для тварин (%)</PregnantCoeffecientForAnimals>
 		<PregnantCoeffecientForAnimals_desc>Шанс вагітності після вагінального сексу.\n\n 0 - 100%.</PregnantCoeffecientForAnimals_desc>
 		<InterspeciesImpregnantionModifier>Міжвидова вагітність (%)</InterspeciesImpregnantionModifier>
-	<InterspeciesImpregnantionModifier_desc>Міжвидовий модифікатор просочення у відсотках. При 20% це зменшує нормальний шанс до п'ятої частини для одного виду і т.д.\n\nДопустимий діапазон: 0 - 100%</InterspeciesImpregnantionModifier_desc>
+		<InterspeciesImpregnantionModifier_desc>Міжвидовий модифікатор вагітності у відсотках. При 20% це зменшує нормальний шанс до п'ятої частини для одного виду і т.д.\n\nДопустимий діапазон: 0 - 100%</InterspeciesImpregnantionModifier_desc>
 		<UseParentMethod>Успадкування ДНК</UseParentMethod>
-	<UseParentMethod_desc>Увімкнено:Діти мають випадкову батьківську ДНК.\nВимкнено:Діти схожі на матерів.</UseParentMethod_desc>
+		<UseParentMethod_desc>Увімкнено:Діти мають випадкову батьківську ДНК.\nВимкнено:Діти схожі на матерів.</UseParentMethod_desc>
 		<OffspringLookLikeTheirMother>Успадкування ДНК людиноподібними</OffspringLookLikeTheirMother>
-	<OffspringLookLikeTheirMother_desc>Керує людиноподібними вагітностями. \n100% означає, що народжені діти будуть мати материнську расу. \0% означає, що народжені діти будуть батьківської раси.\n\nДопустимий діапазон: 0 - 100%</OffspringLookLikeTheirMother_desc>
+		<OffspringLookLikeTheirMother_desc>Керує людиноподібними вагітностями. \n100% означає, що народжені діти будуть мати материнську расу. \0% означає, що народжені діти будуть батьківської раси.\n\nДопустимий діапазон: 0 - 100%</OffspringLookLikeTheirMother_desc>
 		<OffspringIsHuman>Спадкування ДНК зоофілами</OffspringIsHuman>
-	<OffspringIsHuman_desc>Керує вагітностями людина-тварина та тварина-тварина.\n100% означає, що народжені діти будуть "материнської" раси. \0% означає, що народжені діти будуть "батьківської" раси.\n\nДопустимий діапазон: 0 - 100%</OffspringIsHuman_desc>
+		<OffspringIsHuman_desc>Керує вагітностями людина-тварина та тварина-тварина.\n100% означає, що народжені діти будуть "материнської" раси. \0% означає, що народжені діти будуть "батьківської" раси.\n\nДопустимий діапазон: 0 - 100%</OffspringIsHuman_desc>
 		<OffspringIsHuman2>Спадкування ДНК зоофілами</OffspringIsHuman2>
-	<OffspringIsHuman2_desc>Керує вагітністю між людиною і твариною.\n\n ліворуч - народжені діти будуть належати до раси звірів. \n\n праворуч - народжені діти будуть належати до людиноподібної раси. \n\n будь-що інше - використовуйте логіку Мати/Батько</OffspringIsHuman2_desc>
+		<OffspringIsHuman2_desc>Керує вагітністю між людиною і твариною.\n\n ліворуч - народжені діти будуть належати до раси звірів. \n\n праворуч - народжені діти будуть належати до людиноподібної раси. \n\n будь-що інше - використовуйте логіку Мати/Батько</OffspringIsHuman2_desc>
 		<RJWA_pregnancy>Увімкнути вагітність для тварин</RJWA_pregnancy>
 		<RJWA_pregnancy_desc>Використовувати RJW вагітність для вагітності типу тварина-тварина.</RJWA_pregnancy_desc>
 		<RJWA_pregnancy_notifications>Увімкнути сповіщення про вагітність тварин</RJWA_pregnancy_notifications>
@@ -257,10 +255,10 @@
 		<egg_pregnancy_genes>Яєчні вагітності несуть гени</egg_pregnancy_genes>
 		<egg_pregnancy_genes_desc>Дозволяє яйцям людини-яйцеклада використовувати нормальне успадкування генів.</egg_pregnancy_genes_desc>
 
-	<RJWI_analPregnancy>Увімкнути анальну яйцеклітинну вагітність</RJWI_analPregnancy>
-	<RJWI_analPregnancy_desc>Дозволити комахам запліднювати пішаків анально.</RJWI_analPregnancy_desc>
-	<RJWI_oralPregnancy>Увімкнути вагітність оральних яєць</RJWI_oralPregnancy>
-	<RJWI_oralPregnancy_desc>Дозволити комахам запліднювати пішаків орально.</RJWI_oralPregnancy_desc>
+		<RJWI_analPregnancy>Увімкнути анальну яйцеклітинну вагітність</RJWI_analPregnancy>
+		<RJWI_analPregnancy_desc>Дозволити комахам запліднювати пішаків анально.</RJWI_analPregnancy_desc>
+		<RJWI_oralPregnancy>Увімкнути вагітність оральних яєць</RJWI_oralPregnancy>
+		<RJWI_oralPregnancy_desc>Дозволити комахам запліднювати пішаків орально.</RJWI_oralPregnancy_desc>
 		<RJWI_FertilizationCheck>Фільтр для запліднення яєчного отвору</RJWI_FertilizationCheck>
 		<RJWI_FertilizationCheck_desc>Запліднює яйцями тільки в "статевий" отвір.</RJWI_FertilizationCheck_desc>
 
@@ -271,15 +269,15 @@
 
 		<MechanoidImplanting>Увімкнути імпланти механоїдів</MechanoidImplanting>
 		<MechanoidImplanting_desc>Дозволити механоїдам проводити «зондування».</MechanoidImplanting_desc>
-	<SaferMechanoidImplanting>Безпечніші механоїдні імплантати(')</SaferMechanoidImplanting>
-	<SaferMechanoidImplanting_desc>Механоїдні імплантати не вбиватимуть пішаків(''якщо було перевірено вагітність), натомість наносять по 5 пошкоджень кожній частині тіла, що міститься в тулубі. Механоїди все одно будуть ворожими</SaferMechanoidImplanting_desc>
+		<SaferMechanoidImplanting>Безпечніші механоїдні імплантати(')</SaferMechanoidImplanting>
+		<SaferMechanoidImplanting_desc>Механоїдні імплантати не вбиватимуть пішаків(''якщо було перевірено вагітність), натомість наносять по 5 пошкоджень кожній частині тіла, що міститься в тулубі. Механоїди все одно будуть ворожими</SaferMechanoidImplanting_desc>
 
-	<CP_pregnancy>Використовувати вагітність RimWorldChildren для вагітності між humanlike</CP_pregnancy>
-	<CP_pregnancy_desc>Керує, чи має RJW використовувати власну вагітність або RimWorldChildren для вагітностей людина-людина.</CP_pregnancy_desc>
+		<CP_pregnancy>Використовувати вагітність RimWorldChildren для вагітності між людиноподібними</CP_pregnancy>
+		<CP_pregnancy_desc>Керує, чи має RJW використовувати власну вагітність або RimWorldChildren для вагітностей людина-людина.</CP_pregnancy_desc>
 		<genetic_trait_filter>Фільтр рис</genetic_trait_filter>
 		<genetic_trait_filter_desc>Якщо увімкнено, буде використано rjw/Defs/NonInheritedTraits.xml для фільтрації ознак, які не слід передавати наступним поколінням. Якщо вимкнено, все буде чесно.</genetic_trait_filter_desc>
-	<max_num_momtraits_inherited>Максимальна кількість успадкованих ознак від матері</max_num_momtraits_inherited>
-	<max_num_poptraits_inherited>Максимальна кількість успадкованих ознак від батька</max_num_poptraits_inherited>
+		<max_num_momtraits_inherited>Максимальна кількість успадкованих рис від матері</max_num_momtraits_inherited>
+		<max_num_poptraits_inherited>Максимальна кількість успадкованих рис від батька</max_num_poptraits_inherited>
 
 		<RJW_fertility_endAge_male>Чоловічий вік втрати фертильності </RJW_fertility_endAge_male>
 		<RJW_fertility_endAge_male_desc>Скориговано на тривалість життя для інопланетних рас. Та сама шкала використовується для тварин і людей.</RJW_fertility_endAge_male_desc>
@@ -318,7 +316,7 @@
 		<egg_pregnancy_duration_desc>Більше -> Довше.</egg_pregnancy_duration_desc>
 
 	<!-- sex types -->
-	<RJWSettingsThree>RimJobWorld - Налаштування секс-активностей</RJWSettingsThree>
+	<RJWSettingsThree>RimJobWorld - Sex Settings</RJWSettingsThree>
 		<SexTypeFrequency>Частота типу сексу:\n[Вище = Більш частий]</SexTypeFrequency>
 		<vaginal>Вагінальний</vaginal>
 		<vaginal_desc>Частота вагінального сексу. Зверніть увагу, що ця частота додатково коригується такими факторами, як доступні отвори і т.д.\n\nДопустимий діапазон: 1 - 200\n\nЗа замовчуванням: 120</vaginal_desc>
@@ -410,4 +408,5 @@
 
 		<SendTraitGainLetters>Сповіщення про статеві ознаки</SendTraitGainLetters>
 		<SendTraitGainLetters_desc>Увімкнути отримання листів, коли пішак отримує ознаку статі. Неважливі пішаки, такі як торговці, ніколи не будуть отримувати сповіщення незалежно від цього налаштування.</SendTraitGainLetters_desc>
+
 </LanguageData>

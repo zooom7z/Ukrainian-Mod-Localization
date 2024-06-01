@@ -36,11 +36,7 @@
 <CountOfBeenRapedByOthers.description>Кільк разів коли я був зґвалтований дивними штуками.</CountOfBeenRapedByOthers.description>
 <GetRapedAsComfortPrisoner.label>Зґвалтований за згодою</GetRapedAsComfortPrisoner.label>
 <GetRapedAsComfortPrisoner.description>Кількох разів коли я був зґвалтований з відміткою.</GetRapedAsComfortPrisoner.description>
-<!-- Counts whoring stuff -->
-<CountOfWhore.label>К-сть занять проституцією</CountOfWhore.label>
-<CountOfWhore.description>Кількість разів коли я займався проституцією.</CountOfWhore.description>
-<EarnedMoneyByWhore.label>Срібла зароблено проституцією</EarnedMoneyByWhore.label>
-<EarnedMoneyByWhore.description>Кол-во срібла, яке мені вдалося виручити за секс.</EarnedMoneyByWhore.description>
+
 <!-- Counts birthing -->
 <CountOfBirthHuman.label>Народжено дітей</CountOfBirthHuman.label>
 <CountOfBirthHuman.description>Як багато людиноподібних я народила.</CountOfBirthHuman.description>

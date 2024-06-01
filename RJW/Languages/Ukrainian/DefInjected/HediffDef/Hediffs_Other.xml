@@ -1,19 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- Severity will be set to equal (1.0 - blood_filtration) in xxx.update_std_effects -->
-	
-	<Immunodeficiency.label>Імунодефіцит</Immunodeficiency.label>
-	<Immunodeficiency.description>Висока сприйнятливість до захворювань.</Immunodeficiency.description>
-	<Immunodeficiency.stages.0.label>високий</Immunodeficiency.stages.0.label>
-	<Immunodeficiency.stages.1.label>середній</Immunodeficiency.stages.1.label>
-	<Immunodeficiency.stages.2.label>критичний</Immunodeficiency.stages.2.label>
-	
-	<VirusPerma.label>Вірусне пошкодження</VirusPerma.label>
-	<VirusPerma.description>Вірусне пошкодження.</VirusPerma.description>
-	<VirusPerma.injuryProps.destroyedLabel>знищено хворобою</VirusPerma.injuryProps.destroyedLabel>
-	<VirusPerma.injuryProps.destroyedOutLabel>знищено хворобою</VirusPerma.injuryProps.destroyedOutLabel>
-	
 	<PegArm.label>рука-палиця</PegArm.label>
 	<PegArm.description>Обрубок на місці руки, що колись існувала.</PegArm.description>
 	<PegArm.labelNoun>рука-палиця</PegArm.labelNoun>

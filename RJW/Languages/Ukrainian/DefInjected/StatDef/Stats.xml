@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<SexAbility.label>можливості в сексі</SexAbility.label>
-	<SexAbility.description>Показує, чи може пішак займатися сексом і наскільки в цьому досягає успіху</SexAbility.description>
 
 	<SexSatisfaction.label>сексуальне задоволення</SexSatisfaction.label>
 	<SexSatisfaction.description>Визначає, наскільки пішак отримує задоволення від сексу.</SexSatisfaction.description>

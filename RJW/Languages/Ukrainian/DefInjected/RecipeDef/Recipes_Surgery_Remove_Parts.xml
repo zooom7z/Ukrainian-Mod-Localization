@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 <!-- Remove privates -->
-<RemoveGenitals.label>Видалити геніталії</RemoveGenitals.label>
+<RemoveGenitals.label>видалити геніталії</RemoveGenitals.label>
 <RemoveGenitals.description>Видаляє статеві органи.</RemoveGenitals.description>
 <RemoveGenitals.jobString>Видаляє геніталії.</RemoveGenitals.jobString>
 <!--<RecipeDef ParentName="SexReassignmentP">
@@ -56,10 +56,14 @@
 </categories>
 </fixedIngredientFilter>
 </RecipeDef>-->
-<RemoveBreasts.label>Видалити груди</RemoveBreasts.label>
+<RemoveBreasts.label>видалити груди</RemoveBreasts.label>
 <RemoveBreasts.description>Видаляє груди.</RemoveBreasts.description>
 <RemoveBreasts.jobString>Видаляє груди.</RemoveBreasts.jobString>
-<RemoveAnus.label>Видалити анус</RemoveAnus.label>
+<RemoveAnus.label>видалити анус</RemoveAnus.label>
 <RemoveAnus.description>Видаляє анус.</RemoveAnus.description>
 <RemoveAnus.jobString>Видаляє анус.</RemoveAnus.jobString>
+
+  <RemoveUdder.label>видалити вим'я</RemoveUdder.label>
+  <RemoveUdder.description>Видаляє вим'я.</RemoveUdder.description>
+  <RemoveUdder.jobString>Видалення вимені.</RemoveUdder.jobString>
 </LanguageData>

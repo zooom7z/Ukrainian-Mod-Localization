@@ -33,16 +33,6 @@
 	<HydraulicVagina.stages.4.label>печера</HydraulicVagina.stages.4.label>
 	<HydraulicVagina.stages.5.label>безодня</HydraulicVagina.stages.5.label>
 	
-	<HydraulicAnus.label>Гідравлічний анус</HydraulicAnus.label>
-	<HydraulicAnus.labelNoun>гідравлічний анус</HydraulicAnus.labelNoun>
-	<HydraulicAnus.description>Анус, що використовує гідравліку для симуляції здібностей сьогодення.</HydraulicAnus.description>
-	<HydraulicAnus.stages.0.label>мікро</HydraulicAnus.stages.0.label>
-	<HydraulicAnus.stages.1.label>вузький</HydraulicAnus.stages.1.label>
-	<HydraulicAnus.stages.2.label>звичайний</HydraulicAnus.stages.2.label>
-	<HydraulicAnus.stages.3.label>місткий</HydraulicAnus.stages.3.label>
-	<HydraulicAnus.stages.4.label>печера</HydraulicAnus.stages.4.label>
-	<HydraulicAnus.stages.5.label>безодня</HydraulicAnus.stages.5.label>
-	
 	<HydraulicBreasts.label>Гідравлічні груди</HydraulicBreasts.label>
 	<HydraulicBreasts.labelNoun>гідравлічні груди</HydraulicBreasts.labelNoun>
 	<HydraulicBreasts.description>Очевидно несправжні імпланти.</HydraulicBreasts.description>
@@ -56,6 +46,18 @@
 	<HydraulicBreasts.stages.7.label>масивні</HydraulicBreasts.stages.7.label>
 	<HydraulicBreasts.stages.8.label>гігантські</HydraulicBreasts.stages.8.label>
 	<HydraulicBreasts.stages.9.label>колосальні</HydraulicBreasts.stages.9.label>
+	<HydraulicBreasts.stages.10.label>титанічні</HydraulicBreasts.stages.10.label>
+	<HydraulicAnus.label>Гідравлічний анус</HydraulicAnus.label>
+	<HydraulicAnus.labelNoun>гідравлічний анус</HydraulicAnus.labelNoun>
+	<HydraulicAnus.description>Анус, що використовує гідравліку для симуляції здібностей сьогодення.</HydraulicAnus.description>
+	<HydraulicAnus.stages.0.label>мікро</HydraulicAnus.stages.0.label>
+	<HydraulicAnus.stages.1.label>вузький</HydraulicAnus.stages.1.label>
+	<HydraulicAnus.stages.2.label>звичайний</HydraulicAnus.stages.2.label>
+	<HydraulicAnus.stages.3.label>місткий</HydraulicAnus.stages.3.label>
+	<HydraulicAnus.stages.4.label>печера</HydraulicAnus.stages.4.label>
+	<HydraulicAnus.stages.5.label>безодня</HydraulicAnus.stages.5.label>
+	
+
 
 	<!-- Bionic privates -->
 
@@ -78,17 +80,7 @@
 	<BionicVagina.stages.3.label>містка</BionicVagina.stages.3.label>
 	<BionicVagina.stages.4.label>печера</BionicVagina.stages.4.label>
 	<BionicVagina.stages.5.label>безодня</BionicVagina.stages.5.label>
-	
-	<BionicAnus.label>Біонічний анус</BionicAnus.label>
-	<BionicAnus.labelNoun>біонічний анус</BionicAnus.labelNoun>
-	<BionicAnus.description>Продвинутий штучний анус. Він використовує внутрішні сенсори тиску для того щоб підлаштуватися під розміри та швидкість партнера. Автоматично виділяє змазку бажаної консистенції</BionicAnus.description>
-	<BionicAnus.stages.0.label>мікро</BionicAnus.stages.0.label>
-	<BionicAnus.stages.1.label>вузький</BionicAnus.stages.1.label>
-	<BionicAnus.stages.2.label>звичайний</BionicAnus.stages.2.label>
-	<BionicAnus.stages.3.label>місткий</BionicAnus.stages.3.label>
-	<BionicAnus.stages.4.label>печера</BionicAnus.stages.4.label>
-	<BionicAnus.stages.5.label>безодня</BionicAnus.stages.5.label>
-	
+
 	<BionicBreasts.label>Біонічні груди</BionicBreasts.label>
 	<BionicBreasts.labelNoun>біонічні груди</BionicBreasts.labelNoun>
 	<BionicBreasts.description>Продвинуті штучні груди. Вони здатні змінювати розміри за бажанням користувача, а також симулювати лактацію</BionicBreasts.description>
@@ -102,6 +94,18 @@
 	<BionicBreasts.stages.7.label>масивні</BionicBreasts.stages.7.label>
 	<BionicBreasts.stages.8.label>гігантські</BionicBreasts.stages.8.label>
 	<BionicBreasts.stages.9.label>колосальні</BionicBreasts.stages.9.label>
+	<BionicBreasts.stages.10.label>титанічні</BionicBreasts.stages.10.label>
+	<BionicAnus.label>Біонічний анус</BionicAnus.label>
+	<BionicAnus.labelNoun>біонічний анус</BionicAnus.labelNoun>
+	<BionicAnus.description>Продвинутий штучний анус. Він використовує внутрішні сенсори тиску для того щоб підлаштуватися під розміри та швидкість партнера. Автоматично виділяє змазку бажаної консистенції</BionicAnus.description>
+	<BionicAnus.stages.0.label>мікро</BionicAnus.stages.0.label>
+	<BionicAnus.stages.1.label>вузький</BionicAnus.stages.1.label>
+	<BionicAnus.stages.2.label>звичайний</BionicAnus.stages.2.label>
+	<BionicAnus.stages.3.label>місткий</BionicAnus.stages.3.label>
+	<BionicAnus.stages.4.label>печера</BionicAnus.stages.4.label>
+	<BionicAnus.stages.5.label>безодня</BionicAnus.stages.5.label>
+	
+
 
 	<!-- Archotech -->
 
@@ -122,16 +126,7 @@
 	<ArchotechVagina.stages.3.label>містка</ArchotechVagina.stages.3.label>
 	<ArchotechVagina.stages.4.label>печера</ArchotechVagina.stages.4.label>
 	<ArchotechVagina.stages.5.label>безодня</ArchotechVagina.stages.5.label>
-	
-	<ArchotechAnus.label>Архотек анус</ArchotechAnus.label>
-	<ArchotechAnus.description>Штучний анус, створений за новітніми технологіями і здатний принести максимальне задоволення обом партнерам.</ArchotechAnus.description>
-	<ArchotechAnus.stages.0.label>мікро</ArchotechAnus.stages.0.label>
-	<ArchotechAnus.stages.1.label>вузький</ArchotechAnus.stages.1.label>
-	<ArchotechAnus.stages.2.label>звичаний</ArchotechAnus.stages.2.label>
-	<ArchotechAnus.stages.3.label>аккомодаційний</ArchotechAnus.stages.3.label>
-	<ArchotechAnus.stages.4.label>печера</ArchotechAnus.stages.4.label>
-	<ArchotechAnus.stages.5.label>безодня</ArchotechAnus.stages.5.label>
-	
+
 	<ArchotechBreasts.label>Архотек груди</ArchotechBreasts.label>
 	<ArchotechBreasts.description>Штучні груди, створені за новітніми технологіями і здатні набувати будь-яких бажаних форм.</ArchotechBreasts.description>
 	<ArchotechBreasts.stages.0.label>соски</ArchotechBreasts.stages.0.label>
@@ -144,5 +139,15 @@
 	<ArchotechBreasts.stages.7.label>масивні</ArchotechBreasts.stages.7.label>
 	<ArchotechBreasts.stages.8.label>гігантські</ArchotechBreasts.stages.8.label>
 	<ArchotechBreasts.stages.9.label>колосальні</ArchotechBreasts.stages.9.label>
+	<ArchotechBreasts.stages.10.label>титанічні</ArchotechBreasts.stages.10.label>
+	<ArchotechAnus.label>Архотек анус</ArchotechAnus.label>
+	<ArchotechAnus.description>Штучний анус, створений за новітніми технологіями і здатний принести максимальне задоволення обом партнерам.</ArchotechAnus.description>
+	<ArchotechAnus.stages.0.label>мікро</ArchotechAnus.stages.0.label>
+	<ArchotechAnus.stages.1.label>вузький</ArchotechAnus.stages.1.label>
+	<ArchotechAnus.stages.2.label>звичаний</ArchotechAnus.stages.2.label>
+	<ArchotechAnus.stages.3.label>аккомодаційний</ArchotechAnus.stages.3.label>
+	<ArchotechAnus.stages.4.label>печера</ArchotechAnus.stages.4.label>
+	<ArchotechAnus.stages.5.label>безодня</ArchotechAnus.stages.5.label>
+	
 
 </LanguageData>

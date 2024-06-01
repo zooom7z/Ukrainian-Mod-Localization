@@ -2,10 +2,8 @@
 <LanguageData>
 <!--Sexuality card-->
 	<SexcardTooltip>Показати сексуальність</SexcardTooltip>
-  <!--Sexuality key required-->
 	<Quirks>Особливості: </Quirks>
 	<NoQuirks>Немає особливостей.</NoQuirks>
-  <WhorePrice>Діапазон цін на проституцію: </WhorePrice>
 	<MessyQuirk><![CDATA[
 {pawn} не тільки виробляє велику кількість рідини під час сексу, але й {pawn_pronoun} рідко турбується про те, щоб почистити {pawn_possessive} після себе.
 ]]></MessyQuirk>
