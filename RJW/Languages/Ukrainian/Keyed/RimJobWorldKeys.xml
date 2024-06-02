@@ -13,17 +13,17 @@
 	<CommandSubmitDesc>Лягти і сподіватися на милість ворогів.</CommandSubmitDesc>
 
 <!--Pregnancy messages-->
-	<RJW_PregnantTitle>{0} вагітна.</RJW_PregnantTitle>
+	<RJW_PregnantTitle>{0} вагітна</RJW_PregnantTitle>
 	<RJW_PregnantText>{0} вагітна і незабаром стане матір'ю! Пам'ятайте, що голод і травми можуть призвести до втрати дитини.</RJW_PregnantText>
 	<RJW_Contractions>У {0} почалися перейми! Скоро вона народить!</RJW_Contractions>
-	<RJW_GaveBirthTitle>Перейми скінчилися.</RJW_GaveBirthTitle>
+	<RJW_GaveBirthTitle>Перейми скінчилися</RJW_GaveBirthTitle>
 	<RJW_GaveBirthText>{0} успішно народила </RJW_GaveBirthText>
 	<RJW_ABaby>дитину.</RJW_ABaby>
 	<RJW_NBabies>її {0} діти.</RJW_NBabies>
 	<RJW_PregnantNormal>У неї здоровий малюк...</RJW_PregnantNormal>
 	<RJW_PregnantStrange>З дитиною щось не так...</RJW_PregnantStrange>
 	<RJW_PregnantMechStrange>Щось ДУЖЕ не так із дитиною...</RJW_PregnantMechStrange>
-	<RJW_GaveBirthEggTitle>Відклала яйце.</RJW_GaveBirthEggTitle>
+	<RJW_GaveBirthEggTitle>Відклала яйце</RJW_GaveBirthEggTitle>
 	<RJW_GaveBirthEggText>{0} відклала яйця </RJW_GaveBirthEggText>
 	<RJW_EggContractions>У {0} почалися перейми! Яйця вже виходять!</RJW_EggContractions>
 
@@ -101,7 +101,7 @@
 
 	<!-- Trait gain -->
 	<!-- Tip: You can easily add trait-specific versions of these two by appending the trait's defname and optionally its degree -->
-	<LetterLabelGainedTraitFromSex>Набута риса : {PAWN}</LetterLabelGainedTraitFromSex>
+	<LetterLabelGainedTraitFromSex>Набута риса: {PAWN}</LetterLabelGainedTraitFromSex>
 	<GainedTraitFromSex>Сексуальний досвід призвів до того, що {PAWN} набуває риси {TRAIT}.</GainedTraitFromSex>
 	<GainedTraitFromSexNymphomaniac>Надмірна стимуляція за допомогою афродизіаку назавжди перепрограмувала мозок {PAWN}. {PAWN_pronoun} набуває риси {TRAIT}.</GainedTraitFromSexNymphomaniac>
 	<GainedTraitFromSexFootSlut>Увага до ступнів живить фетиш у {PAWN}. {PAWN} набуває риси {TRAIT}.</GainedTraitFromSexFootSlut>

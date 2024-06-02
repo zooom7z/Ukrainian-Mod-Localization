@@ -10,43 +10,43 @@
   <LWM_DSU_GainsName>{0} тепер називається {1}.</LWM_DSU_GainsName><!-- rename building -->
   <LWM_DSU_DefaultName>Тепер це знову називається {0}.</LWM_DSU_DefaultName><!-- return name to default -->
   <LWM.StorageUnitSettings>налаштування сховища</LWM.StorageUnitSettings><!-- command button for storage settings for a single building -->
-  <LWM.StorageUnitSettingsDesc>Ви можете змінити налаштування цього сховища. Наприклад, ви можете перейменувати його або змінити максимальну кількість елементів, що зберігаються в ньому.\n\nПРИМІТКА: Зміни торкнуться лише цього конкретного {0} (і його групи сховищ)</LWM.StorageUnitSettingsDesc>
+  <LWM.StorageUnitSettingsDesc>Ви можете змінити налаштування цього сховища. Наприклад, ви можете перейменувати його або змінити максимальну кількість елементів, що зберігаються в ньому. ПРИМІТКА: Зміни торкнуться лише цього конкретного {0} (і його групи сховищ)</LWM.StorageUnitSettingsDesc>
   <LWM.SettingsDiabledNotInGroup>Для редагування налаштувань усі сховища мають бути в одній групі сховищ</LWM.SettingsDiabledNotInGroup>
   <!-- Content tab -->
   <!--     3 / 10 stacks with total mass of 4.5 / 10 kg -->
   <!--   or if using CE: -->
   <!--     0 / 10 items with total bulk of 0 / 10 kg -->
-  <LWM.ContentsHeaderMaxMass>{0} / {1} із загальним {2} {3} / {4} кг</LWM.ContentsHeaderMaxMass>
-  <LWM.ContentsHeaderMax>{0} / {1} із загальним {2} {3} кг</LWM.ContentsHeaderMax>
+  <LWM.ContentsHeaderMaxMass>{0} / {1} із загальною {2} {3} / {4} кг</LWM.ContentsHeaderMaxMass>
+  <LWM.ContentsHeaderMax>{0} / {1} із загальною {2} {3} кг</LWM.ContentsHeaderMax>
   <LWM.ContentsHeaderMinMax>{0} / {1}, макс. {2} із загальною {3} {4} кг</LWM.ContentsHeaderMinMax>
-  <LWM.ContentsHeaderStacksMax>{0} стаків, макс. {1}, обмежено загальним {2} {3} кг</LWM.ContentsHeaderStacksMax>
+  <LWM.ContentsHeaderStacksMax>{0} стаків, макс. {1}, обмежено загальною {2} {3} кг</LWM.ContentsHeaderStacksMax>
   <LWM.ContentsHeaderItemsMax>{0} предметів, макс. {1} (обмежено {2}), із загальною {2} {3} кг</LWM.ContentsHeaderItemsMax>
-  <LWM.ContentsDropDesc>Киньте цей предмет на підлогу, щоб колоністам було легше з ним взаємодіяти.\n\nЯкщо ви виявите, що ця кнопка створює безлад і не є корисною, ви можете вимкнути її в налаштуваннях мода.</LWM.ContentsDropDesc>
+  <LWM.ContentsDropDesc>Киньте цей предмет на підлогу, щоб колоністам було легше з ним взаємодіяти. Якщо ви виявите, що ця кнопка створює безлад і не є корисною, ви можете вимкнути її в налаштуваннях мода.</LWM.ContentsDropDesc>
   <LWM.AlreadyRottenShort>фу</LWM.AlreadyRottenShort><!-- Something very short to express that the item (corpse) is already rotten. "Ew" denotes disgust-->
   <LWM.AlreadyRottenDesc>Це вже прогнило</LWM.AlreadyRottenDesc>
   <LWM.DaysUntilRotFrozenAndTwentyOneDesc>Цей товар заморожено, але він би згнив за {0} днів, якби знаходився у {1}.</LWM.DaysUntilRotFrozenAndTwentyOneDesc>
   <LWM.DaysUntilWillNotRotSoonDesc>Навіть при {0} цей предмет не згнив би ще довго!</LWM.DaysUntilWillNotRotSoonDesc>
   <LWM.DaysUntilRotColdAndTwentyOneDesc>Цей предмет згнив би за {0} днів, якби він знаходився у {1}.</LWM.DaysUntilRotColdAndTwentyOneDesc>
-  <LWM.XStacks>{0} стака(-ів)</LWM.XStacks><!-- Will be used above as 3 / 4 stacks with...-->
-  <LWM.XItems>{0} предмета(-ів)</LWM.XItems><!-- 3 / 4 items ...-->
+  <LWM.XStacks>{0} стаків</LWM.XStacks><!-- Will be used above as 3 / 4 stacks with...-->
+  <LWM.XItems>{0} предметів</LWM.XItems><!-- 3 / 4 items ...-->
   <LWM.ContentsHeaderMaxSize>    (Не можна зберігати предмети понад {1} кг)</LWM.ContentsHeaderMaxSize><!--mass of 3 kg, bulk of 2kg-->
   <LWM.ContentsHeaderPawnUsing>  {0} використовує це.</LWM.ContentsHeaderPawnUsing>
   <LWM.ContentsHeaderPawnsUsing>  Цим користується: {0}.</LWM.ContentsHeaderPawnsUsing><!-- "Red, John, Abigail" etc -->
   <LWM_DS_Empty>порожньо</LWM_DS_Empty>
   <!-- Stat text (information window)-->
   <LWM_DS_maxNumStacks>максимальна кількість стаків на слот</LWM_DS_maxNumStacks>
-  <LWM_DS_maxNumStacksDesc>Максимальна кількість стаків, які можуть міститися в одному місці. Будівлі з двома камерами матимуть вдвічі більшу ємність.\n\nЗверніть увагу, що інші фактори можуть зменшити ємність пам’яті.</LWM_DS_maxNumStacksDesc>
+  <LWM_DS_maxNumStacksDesc>Максимальна кількість стаків, які можуть міститися в одному місці. Будівлі з двома камерами матимуть вдвічі більшу ємність. Зверніть увагу, що інші фактори можуть зменшити ємність пам’яті.</LWM_DS_maxNumStacksDesc>
   <LWM_DS_minNumStacks>мінімальна кількість стаків на слот</LWM_DS_minNumStacks>
-  <LWM_DS_minNumStacksDesc>Мінімальна кількість предметів, які можна зберігати в одному місці.\n\nНезважаючи ні на що, ця одиниця зберігання може зберігати щонайменше {0} предметів.</LWM_DS_minNumStacksDesc>
+  <LWM_DS_minNumStacksDesc>Мінімальна кількість предметів, які можна зберігати в одному місці. Незважаючи ні на що, ця одиниця зберігання може зберігати щонайменше {0} предметів.</LWM_DS_minNumStacksDesc>
   <LWM_DS_maxTotalMass>максимальна загальна маса</LWM_DS_maxTotalMass>
   <LWM_DS_maxTotalMassDesc>Максимальна маса, яку може вмістити блок зберігання. Коли одиниця заповнена, більше не можна додавати предмети (хоча більшість одиниць завжди можуть зберігати принаймні два предмети.) Зауважте, що якщо будівля має більше одного відділення, цей ліміт рівномірно розподіляється між усіма відділеннями.</LWM_DS_maxTotalMassDesc>
   <LWM_DS_maxMassOfStoredItem>максимальна маса будь-якого предмета, що зберігається</LWM_DS_maxMassOfStoredItem>
-  <LWM_DS_maxMassOfStoredItemDesc>Максимальна маса будь-якого предмета, який можна зберігати в цьому пристрої. Vanilla RimWorld не має статистики для «розміру», тому використовується маса. Якщо ви використовуєте мод Combat Extended, вони мають статистику «Bulk», яка використовується замість цього.\n\nОсновна ідея та сама: деякі предмети занадто великі, щоб їх легко помістити сюди.</LWM_DS_maxMassOfStoredItemDesc>
+  <LWM_DS_maxMassOfStoredItemDesc>Максимальна маса будь-якого предмета, який можна зберігати в цьому пристрої. Vanilla RimWorld не має статистики для «розміру», тому використовується маса. Якщо ви використовуєте мод Combat Extended, вони мають статистику «Bulk», яка використовується замість цього. Основна ідея та сама: деякі предмети занадто великі, щоб їх легко помістити сюди.</LWM_DS_maxMassOfStoredItemDesc>
   <LWM_DS_allowedCategories>Категорії, що зберігаються</LWM_DS_allowedCategories>
-  <LWM_DS_allowedCategoriesDesc>Це категорії, для зберігання яких призначено цей пристрій.\n\nЯкщо ви використовуєте модифікацію, окрім LWM Deep Storage, це може бути не зовсім точним. Також зауважте: певні елементи можуть підходити або не підходити з інших причин.</LWM_DS_allowedCategoriesDesc>
+  <LWM_DS_allowedCategoriesDesc>Це категорії, для зберігання яких призначено цей пристрій. Якщо ви використовуєте модифікацію, окрім LWM Deep Storage, це може бути не зовсім точним. Також зауважте: певні елементи можуть підходити або не підходити з інших причин.</LWM_DS_allowedCategoriesDesc>
   <LWM_DS_allowedDefs>Предмети, які зберігаються</LWM_DS_allowedDefs>
-  <LWM_DS_allowedDefsDesc>Це елементи, для зберігання яких призначено цей пристрій.\n\nЯкщо ви використовуєте модифікацію, окрім LWM Deep Storage, це може бути не зовсім точним. Також зауважте: певні елементи можуть підходити або не підходити з інших причин.</LWM_DS_allowedDefsDesc>
+  <LWM_DS_allowedDefsDesc>Це елементи, для зберігання яких призначено цей пристрій. Якщо ви використовуєте модифікацію, окрім LWM Deep Storage, це може бути не зовсім точним. Також зауважте: певні елементи можуть підходити або не підходити з інших причин.</LWM_DS_allowedDefsDesc>
   <LWM_DS_disallowedStuff>  але ні</LWM_DS_disallowedStuff><!--    (not storable), Not Storable, etc. -->
-  <LWM_DS_disallowedStuffDesc>Ви можете подумати, що ці предмети можна зберігати в такому типі одиниці, але ви помиляєтеся. Їх не можна зберігати тут.\n\nЯкщо ви використовуєте мод, окрім Deep storege LWM, це може бути не зовсім точним. Також зауважте: певні елементи можуть підходити або не підходити з інших причин.</LWM_DS_disallowedStuffDesc>
+  <LWM_DS_disallowedStuffDesc>Ви можете подумати, що ці предмети можна зберігати в такому типі одиниці, але ви помиляєтеся. Їх не можна зберігати тут. Якщо ви використовуєте мод, окрім Deep storege LWM, це може бути не зовсім точним. Також зауважте: певні елементи можуть підходити або не підходити з інших причин.</LWM_DS_disallowedStuffDesc>
 
 </LanguageData>
