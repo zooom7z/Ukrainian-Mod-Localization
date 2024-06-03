@@ -2,11 +2,11 @@ AllowTool - запозичений і доповнений переклад. ✔
 
 BasicMedicine - власний переклад. ✔
 
-BetterWorkbenchManagement - запозичений і доповнений переклад.
+BetterWorkbenchManagement - запозичений і доповнений переклад. ✔
 
 BulkComponents - власний переклад. ✔
 
-CameraPlus - запозичений переклад.
+CameraPlus - запозичений і доповнений переклад. ✔
 
 CommonSense - власний переклад. ✔
 
@@ -22,7 +22,7 @@ Mines - власний (не повний) переклад.
 
 ModMedicinePatch - власний переклад. ✔
 
-MoreFactionInteraction - запозичений переклад.
+MoreFactionInteraction - запозичений переклад. ✔
 
 NiiloQoL - власний (не повний) переклад.
 
@@ -34,19 +34,19 @@ QualityColors - запозичений у oleksandr2749 і доповнений 
 
 ReinforcedWalls - власний переклад. ✔
 
-RJW - запозичений і повністю перероблений переклад.
+RJW - запозичений і повністю перероблений під 1.5 переклад. 97% готово.
 
 RJWAnimations - власний переклад. ✔
 
-RJWEvents - власний переклад.
+RJWEvents - власний переклад. ✔
 
-RJWMenstruation - власний переклад.
+RJWMenstruation - власний переклад. ✔
 
 RJWMilkableColonists - власний (не повний) переклад.
 
-RJWSexperience - власний переклад.
+RJWSexperience - власний переклад. ✔
 
-RocketMan - запозичений і доповнений переклад.
+RocketMan - запозичений і доповнений переклад. ✔
 
 SmarterVisitors - запозичений у oleksandr2749 і доповнений переклад. ✔
 

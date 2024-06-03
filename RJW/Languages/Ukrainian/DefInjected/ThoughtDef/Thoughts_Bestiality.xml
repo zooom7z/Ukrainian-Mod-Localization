@@ -27,9 +27,9 @@
   <!-- Generic type for weirder animal stuff, these normally only happen if the player messes with the defaults too much -->
 <GotGropedByAnimal.stages.0.label>Домагалася тварина</GotGropedByAnimal.stages.0.label>
 <GotGropedByAnimal.stages.0.description>Меня спокусила тварина. Я почуваюся брудно.</GotGropedByAnimal.stages.0.description>
-<MasochistGotGropedByAnimal.stages.0.label>Домагалася тварина (Мазохіст)</MasochistGotGropedByAnimal.stages.0.label>
+<MasochistGotGropedByAnimal.stages.0.label>Домагалася тварина (мазохіст)</MasochistGotGropedByAnimal.stages.0.label>
 <MasochistGotGropedByAnimal.stages.0.description>До мене приставала тварина. Мені це навіть сподобалося...</MasochistGotGropedByAnimal.stages.0.description>
-<ZoophileGotGropedByAnimal.stages.0.label>Домагалася тварина (Зоофіл)</ZoophileGotGropedByAnimal.stages.0.label>
+<ZoophileGotGropedByAnimal.stages.0.label>Домагалася тварина (зоофіл)</ZoophileGotGropedByAnimal.stages.0.label>
 <ZoophileGotGropedByAnimal.stages.0.description>Тварина розбестила мене.</ZoophileGotGropedByAnimal.stages.0.description>
 <AllowedAnimalToGrope.stages.0.label>Обмацана твариною</AllowedAnimalToGrope.stages.0.label>
 <AllowedAnimalToGrope.stages.0.description> Я був настільки збуджений, що дозволив тварині мене лапати. Мені соромно...</AllowedAnimalToGrope.stages.0.description>

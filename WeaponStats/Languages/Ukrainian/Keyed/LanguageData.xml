@@ -7,9 +7,9 @@
 	<WeaponStats.Hostiles>Вороги</WeaponStats.Hostiles>
 	<WeaponStats.Friendlies>Союзники</WeaponStats.Friendlies>
 	<WeaponStats.Corpses>Трупи</WeaponStats.Corpses>
-	<WeaponStats.Storage>Склад</WeaponStats.Storage>
-	<WeaponStats.Craftable>Виготовляється</WeaponStats.Craftable>
 	<WeaponStats.All>Всі</WeaponStats.All>
+	<WeaponStats.Craftable>Виготовляється</WeaponStats.Craftable>
+	<WeaponStats.Storage>Склад</WeaponStats.Storage>
 
 	<WeaponStats.Ranged>Зброя дальнього бою</WeaponStats.Ranged>
 	<WeaponStats.Melee>Зброя ближнього бою</WeaponStats.Melee>

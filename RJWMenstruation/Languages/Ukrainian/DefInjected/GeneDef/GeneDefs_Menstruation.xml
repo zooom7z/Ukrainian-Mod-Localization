@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Menstruation_ShortEggLifetime.label>короткий термін життя яйцеклітин</Menstruation_ShortEggLifetime.label>
+  <Menstruation_ShortEggLifetime.description>Незапліднені яйцеклітини з цим геном зберігаються на три чверті довше.</Menstruation_ShortEggLifetime.description>
+
+  <Menstruation_DoubleEggLifetime.label>подвійна тривалість життя яйцеклітин</Menstruation_DoubleEggLifetime.label>
+  <Menstruation_DoubleEggLifetime.description>Незапліднені яйцеклітини з цим геном зберігаються вдвічі довше.</Menstruation_DoubleEggLifetime.description>
+
+  <Menstruation_QuadEggLifetime.label>чотирикратна тривалість життя яйцеклітин</Menstruation_QuadEggLifetime.label>
+  <Menstruation_QuadEggLifetime.description>Яйцеклітини з цим геном зберігаються в чотири рази довше.</Menstruation_QuadEggLifetime.description>
+
+  <Menstruation_NeverEstrus.label>ніколи не буває тічки</Menstruation_NeverEstrus.label>
+  <Menstruation_NeverEstrus.description>Носії цього гена ніколи не впадають в тічку.</Menstruation_NeverEstrus.description>
+
+  <Menstruation_FullEstrus.label>постійна тічка</Menstruation_FullEstrus.label>
+  <Menstruation_FullEstrus.description>Носії цього гена будуть входити в повну тічку кожного менструального циклу, незалежно від типу піхви.</Menstruation_FullEstrus.description>
+
+  <Menstruation_DoubleOvulation.label>подвійна овуляція</Menstruation_DoubleOvulation.label>
+  <Menstruation_DoubleOvulation.description>Носії цього гена овулюють вдвічі більше яйцеклітин.</Menstruation_DoubleOvulation.description>
+
+  <Menstruation_QuadOvulation.label>чотирикратна овуляція</Menstruation_QuadOvulation.label>
+  <Menstruation_QuadOvulation.description>Носії цього гена овулюють в чотири рази більше яйцеклітин.</Menstruation_QuadOvulation.description>
+
+  <Menstruation_NoBleeding.label>немає кровотечі</Menstruation_NoBleeding.label>
+  <Menstruation_NoBleeding.description>У носіїв цього гена не буде кровотечі в кінці циклу.</Menstruation_NoBleeding.description>
+
+
+</LanguageData>

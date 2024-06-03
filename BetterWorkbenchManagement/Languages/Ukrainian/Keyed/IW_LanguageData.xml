@@ -84,18 +84,18 @@
   <IW.EnableDragToReorder>Перетягніть, щоб змінити порядок рецептів</IW.EnableDragToReorder>
   <IW.EnableDragToReorderDesc>Якщо ви виявите, що він суперечить іншим модам, ви можете вимкнути функцію «перетягнути, щоб змінити порядок рецептів» у огляді верстака</IW.EnableDragToReorderDesc>
 
-  <IW.PasteBillSettings>Вставте всі налаштування (крім виведеного продукту) зі скопійованого рахунку в цей</IW.PasteBillSettings>
+  <IW.PasteBillSettings>Вставити всі налаштування (крім виведеного продукту) зі скопійованого рецепта в цей</IW.PasteBillSettings>
 
   <IW.MirrorSuspendedStatus>Дзеркальний статус призупинено</IW.MirrorSuspendedStatus>
   <IW.MirrorSuspendedStatusDesc>Якщо ввімкнено, коли зв’язаний рахунок призупинено або розблоковано, усі пов’язані рецепти матимуть однаковий статус. (Примітка: перемикання цього параметра на True активує синхронізацію всіх зв’язаних завдань)</IW.MirrorSuspendedStatusDesc>
 
-  <IW.DropOnFloorByDefault>Кидання на підлогу за замовчуванням</IW.DropOnFloorByDefault>
+  <IW.DropOnFloorByDefault>Кидати на підлогу за замовчуванням</IW.DropOnFloorByDefault>
   <IW.DropOnFloorByDefaultDesc>Нові рецепти за замовчуванням матимуть значення «Кинкти на підлогу» замість «Віднести до найкращого складу».".</IW.DropOnFloorByDefaultDesc>
 
   <IW.ShowExtraUIButtons>Показати додаткові кнопки інтерфейсу</IW.ShowExtraUIButtons>
   <IW.ShowExtraUIButtonsDesc>Показувати кнопки, які дозволяють за допомогою клавіатури встановлювати значення «цільової кількості» та «рівня відновлення» в деталях рецепту. Вимкніть, якщо у вас є мод або мова, які спричиняють неправильне розташування цих кнопок.</IW.ShowExtraUIButtonsDesc>
 
-  <IW.CountOutsideStockpiles>Врахуйте ресурси поза складами</IW.CountOutsideStockpiles>
+  <IW.CountOutsideStockpiles>Рахувати ресурси поза складами</IW.CountOutsideStockpiles>
   <IW.CountOutsideStockpilesDesc>Помилка у ванільній грі не дозволяє врахувати «предмети ресурсів» (наприклад, їжу та ліки), якщо їх немає в запасах. Увімкніть цей параметр, щоб виправити це, або вимкніть, якщо ви використовуєте для цього інший мод.</IW.CountOutsideStockpilesDesc>
 
 </LanguageData>

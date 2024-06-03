@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Surgery_ExpandAreola.label>збільшити ареоли</Surgery_ExpandAreola.label>
+  <Surgery_ExpandAreola.description>Збільшити ареоли.</Surgery_ExpandAreola.description>
+  <Surgery_ExpandAreola.jobString>збільшуєм ареоли</Surgery_ExpandAreola.jobString>
+
+  <Surgery_ContractAreola.label>зменшити ареоли</Surgery_ContractAreola.label>
+  <Surgery_ContractAreola.description>Зменшити ареоли.</Surgery_ContractAreola.description>
+  <Surgery_ContractAreola.jobString>зменшуєм ареоли</Surgery_ContractAreola.jobString>
+
+  <Surgery_ExpandNipple.label>збільшити соски</Surgery_ExpandNipple.label>
+  <Surgery_ExpandNipple.description>Збільшити соски.</Surgery_ExpandNipple.description>
+  <Surgery_ExpandNipple.jobString>збільшуєм соски</Surgery_ExpandNipple.jobString>
+
+  <Surgery_ContractNipple.label>зменшити соски</Surgery_ContractNipple.label>
+  <Surgery_ContractNipple.description>Зменшити соски.</Surgery_ContractNipple.description>
+  <Surgery_ContractNipple.jobString>зменшуєм соски</Surgery_ContractNipple.jobString>
+
+  <Surgery_DarkenNipple.label>затемнити соски</Surgery_DarkenNipple.label>
+  <Surgery_DarkenNipple.description>Затемнити соски.</Surgery_DarkenNipple.description>
+  <Surgery_DarkenNipple.jobString>робимо соски темнішими</Surgery_DarkenNipple.jobString>
+
+  <Surgery_LightenNipple.label>відбілити соски</Surgery_LightenNipple.label>
+  <Surgery_LightenNipple.description>Відбілити соски.</Surgery_LightenNipple.description>
+  <Surgery_LightenNipple.jobString>відбілюєм соски</Surgery_LightenNipple.jobString>
+
+</LanguageData>

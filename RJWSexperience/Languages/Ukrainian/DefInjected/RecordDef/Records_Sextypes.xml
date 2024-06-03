@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VaginalSexCount.label>вагінальні акти</VaginalSexCount.label>
+  <VaginalSexCount.label>вагінальні статеві акти</VaginalSexCount.label>
   <VaginalSexCount.description>Скільки разів був вагінальний секс.</VaginalSexCount.description>
 
-  <AnalSexCount.label>анальні акти</AnalSexCount.label>
+  <AnalSexCount.label>анальні статеві акти</AnalSexCount.label>
   <AnalSexCount.description>Скільки разів був анальний секс.</AnalSexCount.description>
 
-  <OralSexCount.label>оральні акти</OralSexCount.label>
+  <OralSexCount.label>оральні статеві акти</OralSexCount.label>
   <OralSexCount.description>Скільки разів був оральний секс.</OralSexCount.description>
 
   <BlowjobCount.label>мінети</BlowjobCount.label>
@@ -28,14 +28,14 @@
   <FootjobCount.label>стимуляції ступнями</FootjobCount.label>
   <FootjobCount.description>Скільки разів була стимуляція ступнями.</FootjobCount.description>
 
-  <MiscSexualBehaviorCount.label>різні зносини</MiscSexualBehaviorCount.label>
+  <MiscSexualBehaviorCount.label>різні статеві акти</MiscSexualBehaviorCount.label>
   <MiscSexualBehaviorCount.description>Скільки всього разів сталося щось сексуальне.</MiscSexualBehaviorCount.description>
 
   <OrgasmCount.label>оргазми</OrgasmCount.label>
   <OrgasmCount.description>Скільки разів досягнуто оргазму.</OrgasmCount.description>
 
-  <SexPartnerCount.label>партнери</SexPartnerCount.label>
-  <SexPartnerCount.description>Кількість партнерів.</SexPartnerCount.description>
+  <SexPartnerCount.label>статеві партнери</SexPartnerCount.label>
+  <SexPartnerCount.description>Кількість статевих партнерів.</SexPartnerCount.description>
 
 
 </LanguageData>

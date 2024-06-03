@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+	<CameraPlus3>Ласкаво просимо до нової версії Camera+! Вивчіть розширені можливості створення власних силуетів у меню налаштувань, щоб покращити свої враження від зйомки.</CameraPlus3>
 	<Zoom>Приближення</Zoom>
 	<ZoomedInPercent>Максимальнй коефіцієнт приближення</ZoomedInPercent>
 	<ZoomedOutPercent>Мінімальний коефіцієнт віддалення</ZoomedOutPercent>
@@ -7,7 +8,8 @@
 	<ForZoomedOutPercent>Для мінімального приближення</ForZoomedOutPercent>
 	<Exponentiality>Експоненціальне масштабування:</Exponentiality>
 	<SoundNearness>Зробити місцеві звуки ближче</SoundNearness>
-	<HotKeys>Гарячі клавіші:</HotKeys>
+	<HotKeys>Гарячі клавіші</HotKeys>
+	<Colors>Кольори</Colors>
 	<SettingsKey>Налаштування Camera+</SettingsKey>
 	<LoadModifier>Завантажити вигляд</LoadModifier>
 	<SaveModifier>Зберегти вигляд</SaveModifier>
@@ -17,14 +19,21 @@
 	<Pixel>Пікселів</Pixel>
 	<HidePawnLabelBelow>Приховати мітки колоністів нижче: </HidePawnLabelBelow>
 	<HideThingLabelBelow>Приховати мітки стека нижче: </HideThingLabelBelow>
+  <HideDeadPawnsBelow>Приховати мертвих пішаків внизу: </HideDeadPawnsBelow>
 	<ShowMarkerBelow>Показати як маркер вище: </ShowMarkerBelow>
+  <DotStyle>Точковий стиль</DotStyle>
+  <VanillaDefault>Ванільний за замовчуванням</VanillaDefault>
+  <ClassicDots>Камера+ точки</ClassicDots>
+  <BetterSilhouettes>Камера+ силуети</BetterSilhouettes>
+  <Animals>Тварини</Animals>
 	<IncludeAnimals>Тварини мають одинакову мітку</IncludeAnimals>
 	<AnimalsDifferent>Тварини мають різні мітки</AnimalsDifferent>
 	<HideAnimals>Тварин не мають міток</HideAnimals>
 	<IncludeNotTamedAnimals>Включити диких тварин</IncludeNotTamedAnimals>
-	<ZoomToMouse>Приближення до курсору</ZoomToMouse>
+  <!--[Core] <ZoomToMouse>Zoom to mouse</ZoomToMouse>-->
 	<DisableCameraShake>Вимкнути трясіння камери</DisableCameraShake>
 	<MouseRevealsLabels>Миша показує ярлики</MouseRevealsLabels>
+	<EdgeIndicators>Індикатори країв</EdgeIndicators>
 	<KeyLeftShift>Лівий Shift</KeyLeftShift>
 	<KeyLeftAlt>Лівий Alt</KeyLeftAlt>
 	<KeyLeftControl>Лівий Ctrl</KeyLeftControl>
@@ -35,4 +44,11 @@
 	<KeyRightControl>Правий Ctrl</KeyRightControl>
 	<KeyRightCommand>Правий Cmd</KeyRightCommand>
 	<KeyRightWindows>Правий Win</KeyRightWindows>
+  <DotSilhouetteSize>Розмір точки/силуету</DotSilhouetteSize>
+  <EdgeDotSize>Розмір точки по краях</EdgeDotSize>
+  <EdgeDistanceFactor>Відстань по краях</EdgeDistanceFactor>
+  <OutlineSize>Ширина контуру</OutlineSize>
+  <Line>Лінія</Line>
+  <Fill>Заповнити</Fill>
+  <Player>Гравець</Player>
 </LanguageData>

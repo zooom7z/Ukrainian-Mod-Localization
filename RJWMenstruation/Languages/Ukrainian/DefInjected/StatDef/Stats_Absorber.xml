@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MaxAbsorbable.label>Поглинання</MaxAbsorbable.label>
+  <MaxAbsorbable.description>Максимальна кількість рідини, яку може поглинути цей засіб.</MaxAbsorbable.description>
+  <MaxAbsorbable.formatString>{0} мл</MaxAbsorbable.formatString>
+
+
+</LanguageData>

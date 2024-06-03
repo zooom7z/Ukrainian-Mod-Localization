@@ -2,14 +2,14 @@
 <LanguageData>
 
 	<CumTolerance.label>звикання до сперми</CumTolerance.label>
-	<CumTolerance.description>звикання до сперми.</CumTolerance.description>
+	<CumTolerance.description>Більша ймовірність отримати залежність від сперми.</CumTolerance.description>
 	
-	<CumTolerance.0.label>легке</CumTolerance.0.label>
-
+	<CumTolerance.stages.0.label>слабке</CumTolerance.stages.0.label>
+	<CumTolerance.stages.1.label>середнє</CumTolerance.stages.1.label>
+	<CumTolerance.stages.2.label>сильне</CumTolerance.stages.2.label>
 	<CumAddiction.label>залежність від сперми</CumAddiction.label>
-	<CumAddiction.description>залежність від сперми.</CumAddiction.description>
-  
-	<CumAddiction.stages.0.label>легка</CumAddiction.stages.0.label>
+	<CumAddiction.description>Залежність від сперми.</CumAddiction.description>
+
 	<CumAddiction.stages.1.label>ломка</CumAddiction.stages.1.label>
 
 

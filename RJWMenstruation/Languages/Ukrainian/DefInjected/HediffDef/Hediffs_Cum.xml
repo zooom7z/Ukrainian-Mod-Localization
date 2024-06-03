@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_ASA.label>Антиспермальні антитіла</Hediff_ASA.label>
+  <Hediff_ASA.description>Антиспермальні антитіла.
+Підвищують смертність сперматозоїдів.</Hediff_ASA.description>
+  <Hediff_ASA.labelNoun>антиспермальні антитіла</Hediff_ASA.labelNoun>
+
+  <Hediff_ForceFertile.label>Фертильна</Hediff_ForceFertile.label>
+  <Hediff_ForceFertile.description>фертильна</Hediff_ForceFertile.description>
+  <Hediff_ForceFertile.labelNoun>фертильна</Hediff_ForceFertile.labelNoun>
+
+
+</LanguageData>

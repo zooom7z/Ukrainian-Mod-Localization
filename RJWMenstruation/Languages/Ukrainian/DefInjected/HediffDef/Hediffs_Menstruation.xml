@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Hediff_MenstrualCramp.label>Менструація</Hediff_MenstrualCramp.label>
-	<Hediff_MenstrualCramp.labelNoun>менструація</Hediff_MenstrualCramp.labelNoun>
-	<Hediff_MenstrualCramp.description>Кровотеча з вагині в кінці менструального циклу.&#10;Часто болюча.</Hediff_MenstrualCramp.description>
+	<Hediff_MenstrualCramp.label>менструація</Hediff_MenstrualCramp.label>
+	<Hediff_MenstrualCramp.description>Кровотеча з вагині в кінці менструального циклу.
+Часто болюча.</Hediff_MenstrualCramp.description>
 
 	<Hediff_MenstrualCramp.stages.0.label>неприємна</Hediff_MenstrualCramp.stages.0.label>
 	<Hediff_MenstrualCramp.stages.1.label>дратівлива</Hediff_MenstrualCramp.stages.1.label>
 	<Hediff_MenstrualCramp.stages.2.label>ниюча</Hediff_MenstrualCramp.stages.2.label>
 	<Hediff_MenstrualCramp.stages.3.label>болюча</Hediff_MenstrualCramp.stages.3.label>
-
+	<Hediff_MenstrualCramp.labelNoun>менструація</Hediff_MenstrualCramp.labelNoun>
 
 	<Hediff_Estrus.label>Тічка</Hediff_Estrus.label>
+	<Hediff_Estrus.description>Стан, спричинений найбільш фертильною фазою менструального циклу в матці. Сексуальне збудження і бажання різко зростають, оскільки організм прагне завагітніти.
+Підвищується ймовірність вагінального сексу і потенційно знижуються стандарти у виборі партнера.</Hediff_Estrus.description>
 	<Hediff_Estrus.labelNoun>тічка</Hediff_Estrus.labelNoun>
-	<Hediff_Estrus.description>Стан, спричинений найбільш фертильною фазою менструального циклу в матці. Сексуальне збудження і бажання різко зростають, оскільки організм прагне завагітніти. Підвищується ймовірність вагінального сексу і потенційно знижуються стандарти у виборі партнера.</Hediff_Estrus.description>
-	
-	<Hediff_Estrus.stages.0.label></Hediff_Estrus.stages.0.label>
-
 
 	<Hediff_Estrus_Concealed.label>Тічка (прихована)</Hediff_Estrus_Concealed.label>
+	<Hediff_Estrus_Concealed.description>Стан, спричинений найбільш фертильною фазою менструального циклу в матці. Сексуальне збудження і бажання дещо підвищуються.
+Дещо підвищується ймовірність вагінального сексу.</Hediff_Estrus_Concealed.description>
 	<Hediff_Estrus_Concealed.labelNoun>тічка</Hediff_Estrus_Concealed.labelNoun>
-	<Hediff_Estrus_Concealed.description>Стан, спричинений найбільш фертильною фазою менструального циклу в матці. Сексуальне збудження і бажання дещо підвищуються. Дещо підвищується ймовірність вагінального сексу.</Hediff_Estrus_Concealed.description>
-	
-	<Hediff_Estrus_Concealed.stages.0.label></Hediff_Estrus_Concealed.stages.0.label>
-
 
 	<Hediff_AffectedByPheromones.label>Під впливом феромонів</Hediff_AffectedByPheromones.label>
 	<Hediff_AffectedByPheromones.description>Стан, спричинений перебуванням поруч із жінкою з тічкою. Сексуальний потяг і задоволення посилюються під впливом запаху тепла.</Hediff_AffectedByPheromones.description>
@@ -32,16 +28,10 @@
 	<Hediff_AffectedByPheromones.stages.1.label>помірний</Hediff_AffectedByPheromones.stages.1.label>
 	<Hediff_AffectedByPheromones.stages.2.label>сильний</Hediff_AffectedByPheromones.stages.2.label>
 
-
 	<Hediff_PainReliever.label>Знеболююче</Hediff_PainReliever.label>
 	<Hediff_PainReliever.description>М'який перепочинок від менструального (та інших) джерел болю.</Hediff_PainReliever.description>
-	
-	<Hediff_PainReliever.stages.0.label></Hediff_PainReliever.stages.0.label>
-
 
 	<Hediff_Cyclosporine.label>Циклоспорин</Hediff_Cyclosporine.label>
 	<Hediff_Cyclosporine.description>Під дією імунодепресантів, що перешкоджають здатності організму боротися з інфекціями та хворобами.</Hediff_Cyclosporine.description>
-	
-	<Hediff_Cyclosporine.stages.0.label></Hediff_Cyclosporine.stages.0.label>
 
 </LanguageData>

@@ -4,15 +4,15 @@
   <!-- Teaching from Vanilla Social Interactions Expanded selects a random skill and doesn't checks if a rule pack for selected skill exists -->
 
   <VSIE_Teaching_Sex.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef] і [RECIPIENT_nameDef] [talkedabout] [SexTopic].</VSIE_Teaching_Sex.rulePack.rulesStrings.0>
-  <VSIE_Teaching_Sex.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [SexTopic].</VSIE_Teaching_Sex.rulePack.rulesStrings.1>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [talkedabout] [SexTopic] з [RECIPIENT_nameDef].</VSIE_Teaching_Sex.rulePack.rulesStrings.1>
   <VSIE_Teaching_Sex.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SexTopic] до [RECIPIENT_nameDef].</VSIE_Teaching_Sex.rulePack.rulesStrings.2>
   <VSIE_Teaching_Sex.rulePack.rulesStrings.3>talkedabout(p=4)->розмовляють про</VSIE_Teaching_Sex.rulePack.rulesStrings.3>
-  <VSIE_Teaching_Sex.rulePack.rulesStrings.4>talkedabout->делится мыслями с [RECIPIENT_nameDef] про</VSIE_Teaching_Sex.rulePack.rulesStrings.4>
-  <VSIE_Teaching_Sex.rulePack.rulesStrings.5>talkedabout->говорить з [RECIPIENT_nameDef] про</VSIE_Teaching_Sex.rulePack.rulesStrings.5>
-  <VSIE_Teaching_Sex.rulePack.rulesStrings.6>talkedabout->балакає з [RECIPIENT_nameDef] про</VSIE_Teaching_Sex.rulePack.rulesStrings.6>
-  <VSIE_Teaching_Sex.rulePack.rulesStrings.7>talkedabout->розмовляє з [RECIPIENT_nameDef] про</VSIE_Teaching_Sex.rulePack.rulesStrings.7>
-  <VSIE_Teaching_Sex.rulePack.rulesStrings.8>talkedabout->відпускає жарт для [RECIPIENT_nameDef] про</VSIE_Teaching_Sex.rulePack.rulesStrings.8>
-  <VSIE_Teaching_Sex.rulePack.rulesStrings.9>talkedabout->розмірковує з [RECIPIENT_nameDef] про</VSIE_Teaching_Sex.rulePack.rulesStrings.9>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.4>talkedabout->ділиться думками про</VSIE_Teaching_Sex.rulePack.rulesStrings.4>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.5>talkedabout->говорить про</VSIE_Teaching_Sex.rulePack.rulesStrings.5>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.6>talkedabout->балакає про</VSIE_Teaching_Sex.rulePack.rulesStrings.6>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.7>talkedabout->розмовляє про</VSIE_Teaching_Sex.rulePack.rulesStrings.7>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.8>talkedabout->відпускає жарт про</VSIE_Teaching_Sex.rulePack.rulesStrings.8>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.9>talkedabout->розмірковує про</VSIE_Teaching_Sex.rulePack.rulesStrings.9>
   <VSIE_Teaching_Sex.rulePack.rulesStrings.10>commentedabout->говорить щось про</VSIE_Teaching_Sex.rulePack.rulesStrings.10>
   <VSIE_Teaching_Sex.rulePack.rulesStrings.11>commentedabout->озвучує думки про</VSIE_Teaching_Sex.rulePack.rulesStrings.11>
   <VSIE_Teaching_Sex.rulePack.rulesStrings.12>commentedabout->говорить щось про</VSIE_Teaching_Sex.rulePack.rulesStrings.12>

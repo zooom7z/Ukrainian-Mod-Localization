@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RS_Mod_Title>RJW - Сексуальний досвід</RS_Mod_Title>
+  <RS_Mod_Title>RJW Sexperience</RS_Mod_Title>
 
   <!-- Sex status screen -->
-  <RSTotalGatheredCum>Усього зібрано сперми: </RSTotalGatheredCum>
+  <RSTotalGatheredCum>Всього зібраної сперми: </RSTotalGatheredCum>
   <RS_LostVirgin>{1} позбавляє {0} цноти.</RS_LostVirgin>
-  <RS_Best_Sextype>Улюблений вид</RS_Best_Sextype>
-  <RS_Recent_Sextype>Недавній вид</RS_Recent_Sextype>
-  <RS_Sex_Partners>Сексуальні партнери</RS_Sex_Partners>
-  <RS_Cum_Swallowed>Проковтнута сперма</RS_Cum_Swallowed>
-  <RS_Selected_Partner>Інформація про партнера</RS_Selected_Partner>
-  <RS_Sex_Info>{0}: {1} раз</RS_Sex_Info>
-  <RS_SAT_AVG>Срдн: {0}</RS_SAT_AVG>
-  <RS_Sex_Count>Злягань: </RS_Sex_Count>
+  <RS_Best_Sextype>Улюблений тип</RS_Best_Sextype>
+  <RS_Recent_Sextype>Останній тип</RS_Recent_Sextype>
+  <RS_Sex_Partners>Статеві партнери</RS_Sex_Partners>
+  <RS_Cum_Swallowed>Сперми проковтнуто</RS_Cum_Swallowed>
+  <RS_Selected_Partner>Інформація про вибраного партнера</RS_Selected_Partner>
+  <RS_Sex_Info>{0}: {1} разів</RS_Sex_Info>
+  <RS_SAT_AVG>Срд.: {0}</RS_SAT_AVG>
+  <RS_Sex_Count>Кількість сексу: </RS_Sex_Count>
   <RS_Orgasms>Оргазмів: </RS_Orgasms>
-  <RS_Recent_Sex_Partner>Нещодавній партнер</RS_Recent_Sex_Partner>
+  <RS_Recent_Sex_Partner>Недавній статевий партнер</RS_Recent_Sex_Partner>
   <RS_Recent_Sex_Partner_ToolTip>З ким нещодавно був секс.</RS_Recent_Sex_Partner_ToolTip>
-  <RS_First_Sex_Partner>Перший партнер</RS_First_Sex_Partner>
+  <RS_First_Sex_Partner>Перший статевий партнер</RS_First_Sex_Partner>
   <RS_First_Sex_Partner_ToolTip>З ким був перший секс.</RS_First_Sex_Partner_ToolTip>
-  <RS_Most_Sex_Partner>Частий партнер</RS_Most_Sex_Partner>
+  <RS_Most_Sex_Partner>Частіший статевий партнер</RS_Most_Sex_Partner>
   <RS_Most_Sex_Partner_ToolTip>З ким був секс найбільше разів.</RS_Most_Sex_Partner_ToolTip>
-  <RS_Best_Sex_Partner>Найкращий партнер</RS_Best_Sex_Partner>
+  <RS_Best_Sex_Partner>Найкращий сексуальний партнер</RS_Best_Sex_Partner>
   <RS_Best_Sex_Partner_ToolTip>З ким отримано найбільше задоволення.</RS_Best_Sex_Partner_ToolTip>
   <RS_VirginsTaken>Віднято цноту</RS_VirginsTaken>
-  <RS_TotalSexHad>Злягань</RS_TotalSexHad>
-  <RS_TotalSexHad_ToolTip>Загальна кількість злягань.</RS_TotalSexHad_ToolTip>
-  <RS_Raped>Зґвал-в(-ла) його/її: </RS_Raped>
-  <RS_RapedMe>Зґвал-в(-ла) мене: </RS_RapedMe>
-  <RS_Sex_History>Секс-історія</RS_Sex_History>
-  <RS_Statistics>Секс-статистика</RS_Statistics>
+  <RS_TotalSexHad>Всього сексу було</RS_TotalSexHad>
+  <RS_TotalSexHad_ToolTip>Загальна кількість сексу.</RS_TotalSexHad_ToolTip>
+  <RS_Raped>Зґвалтовано: </RS_Raped>
+  <RS_RapedMe>Зґвалтували мене: </RS_RapedMe>
+  <RS_Sex_History>Історія статевого життя</RS_Sex_History>
+  <RS_Statistics>Статистика сексу</RS_Statistics>
   <RS_PartnerList>Список партнерів</RS_PartnerList>
   <RS_Sexuality>Сексуальність</RS_Sexuality>
   <RS_BeenRaped>Зґвалтували раз</RS_BeenRaped>
@@ -38,15 +38,16 @@
   <RS_Interspecies>Міжвидовий</RS_Interspecies>
   <RS_Normal>Нормальний</RS_Normal>
   <RS_Necrophile>Некрофілія</RS_Necrophile>
-  <RS_SexSkill>Навичка</RS_SexSkill>
-  <RS_NumofTimes>раз</RS_NumofTimes>
+  <RS_SexSkill>Секс майстерність</RS_SexSkill>
+  <RS_NumofTimes>разів</RS_NumofTimes>
   <RS_Ago>назад</RS_Ago>
   <RS_LastSex>останній секс</RS_LastSex>
   <RS_HadBestSexDaysAgo>Був найкращий секс {0}.</RS_HadBestSexDaysAgo>
+  <RS_PawnLockDesc>Заблокувати відображуваного пішака.\n\nПри розблокуванні вікно автоматично переключиться на поточно вибраного пішака.</RS_PawnLockDesc>
 
   <!-- Settings tab labels -->
-  <RSTabLabelMain>Головна</RSTabLabelMain>
-  <RSTabLabelHistory>Секс-записи</RSTabLabelHistory>
+  <RSTabLabelMain>Основне</RSTabLabelMain>
+  <RSTabLabelHistory>Записи про секс</RSTabLabelHistory>
   <RSTabLabelDebug>Налагодження</RSTabLabelDebug>
 
   <!-- Mod settings: Main -->
@@ -63,7 +64,8 @@
   <RSOption_1_Label>Увімкнути випадкові записи</RSOption_1_Label>
   <RSOption_1_Desc>Зробити записи про секс персонажів випадковими.</RSOption_1_Desc>
   <RSOption_3_Label>Максимальний розкид хтивості</RSOption_3_Label>
-  <RSOption_3_Desc>Максимальне відхилення жадання.&#10;Значення хтивості може бути негативним залежно від його середнього значення.</RSOption_3_Desc>
+  <RSOption_3_Desc>Максимальне відхилення жадання.
+Значення хтивості може бути негативним залежно від його середнього значення.</RSOption_3_Desc>
   <RSOption_4_Label>Середнє значення хтивості</RSOption_4_Label>
   <RSOption_4_Desc>Встановити середнє значення хтивості.</RSOption_4_Desc>
   <RSOption_5_Label>Максимальне відхилення кількості злягань</RSOption_5_Label>
@@ -73,7 +75,8 @@
   <RSOption_7_Label>Увімкнути досвід від зґвалтування для рабів</RSOption_7_Label>
   <RSOption_7_Desc>Раби отримуватимуть досвід від зґвалтування.</RSOption_7_Desc>
   <RSOption_9_Label>Мінімальний вік статевого життя</RSOption_9_Label>
-  <RSOption_9_Desc>Встановити мінімальний вік статевого життя.&#10;Це значення не пов'язане з мінімальним статевим віком RJW. Використовується тільки для генерації записів.</RSOption_9_Desc>
+  <RSOption_9_Desc>Встановити мінімальний вік статевого життя.
+Це значення не пов'язане з мінімальним статевим віком RJW. Використовується тільки для генерації записів.</RSOption_9_Desc>
   <RSOption_10_Label>Коефіцієнт цноти</RSOption_10_Label>
   <RSOption_10_Desc>Встановити ймовірність цноти незалежно від віку.</RSOption_10_Desc>
   <RSOption_MinSexableFromLifestage_Label>Мінімальний вік для сексу виходячи з життєвих етапів</RSOption_MinSexableFromLifestage_Label>
@@ -84,8 +87,10 @@
   <RSOption_EnableSexHistory_Desc>* Потрібен перезапуск гри\n\n\nУвімкнути вікно секс-історії, збір інформації для зазначеного вікна і збереження/завантаження цієї інформації.</RSOption_EnableSexHistory_Desc>
   <RSOption_HideGizmoWhenDrafted_Label>Приховувати кнопку секс-історії в бойовому режимі</RSOption_HideGizmoWhenDrafted_Label>
   <RSOption_HideGizmoWhenDrafted_Desc>Приховувати секс-історію для поселенців, які перебувають у бойовому режимі.</RSOption_HideGizmoWhenDrafted_Desc>
-  <RSOption_HideGizmoWithRJW_Label>Приховувати секс-історію разом із кнопками RJW</RSOption_HideGizmoWithRJW_Label>
-  <RSOption_HideGizmoWithRJW_Desc>Приховувати секс-історію, якщо приховані кнопки RJW</RSOption_HideGizmoWithRJW_Desc>
+  <RSOption_VirginityCheck_M2M_Label>Позбавлення цноти через анальний секс (для чоловіків/сексу між чоловіками)</RSOption_VirginityCheck_M2M_Label>
+  <RSOption_VirginityCheck_M2M_Desc>Позбавлення цноти через анальний секс (для чоловіків/сексу між чоловіками)</RSOption_VirginityCheck_M2M_Desc>
+  <RSOption_VirginityCheck_F2F_Label>Позбавлення цноти через позу ножниць в сексі (для жіночого/сексу між жінками)</RSOption_VirginityCheck_F2F_Label>
+  <RSOption_VirginityCheck_F2F_Desc>Позбавлення цноти через позу ножниць в сексі (для жіночого/сексу між жінками)</RSOption_VirginityCheck_F2F_Desc>
 
   <!-- Mod settings: Debug -->
   <RSOption_Debug_Label>Налагодження</RSOption_Debug_Label>
@@ -94,7 +99,7 @@
   <Button_ResetToDefault>Скинути до налаштувань за замовчуванням</Button_ResetToDefault>
 
   <!-- Sex types -->
-  <Vaginal>Вагинальний</Vaginal>
+  <Vaginal>Вагінальний</Vaginal>
   <Anal>Анальний</Anal>
   <Oral>Оральний</Oral>
   <Masturbation>Мастурбація</Masturbation>
@@ -102,8 +107,8 @@
   <Boobjob>Мастурбація грудьми</Boobjob>
   <Handjob>Мастурбація руками</Handjob>
   <Footjob>Мастурбація ступнями</Footjob>
-  <Fingering>Вагінальний фінгерінг</Fingering>
-  <Scissoring>Ножиці</Scissoring>
+  <Fingering>Мастурбація пальцями</Fingering>
+  <Scissoring>Поза ножиці</Scissoring>
   <MutualMasturbation>Взаємна мастурбація</MutualMasturbation>
   <Fisting>Фістинг</Fisting>
   <MechImplant>Мех-імплантація</MechImplant>
@@ -113,7 +118,7 @@
   <Sixtynine>Поза 69</Sixtynine>
 
   <!-- Sexuality -->
-  <None>Нема</None>
+  <!--[Core] <None>None</None>-->
   <Asexual>Асексуальність</Asexual>
   <Pansexual>Пансексуальність</Pansexual>
   <Heterosexual>Гетеросексуальність</Heterosexual>
@@ -126,12 +131,12 @@
 
   <!-- Misc -->
   <Lust>хтивість</Lust>
-  <Unknown>невідомо</Unknown>
+  <!--[Core] <Unknown>unknown</Unknown>-->
   <Incest>інцест</Incest>
 
   <!-- Order mode -->
   <RS_PONormal>Випадкові</RS_PONormal>
-  <RS_PoRecent>Недавні</RS_PoRecent>
+  <RS_PoRecent>Нещодавні</RS_PoRecent>
   <RS_PoMost>Найкращі</RS_PoMost>
   <RS_PoName>За ім'ям</RS_PoName>
 </LanguageData>

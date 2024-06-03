@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OvaryRegenerationPill.label>таблетки для відновлення яєчників</OvaryRegenerationPill.label>
+  <OvaryRegenerationPill.description>Відновлює здоров'я яєчників, відновлюючи певну кількість яйцеклітин.
+Менш ефективний для яєчників, в яких залишилося мало яйцеклітин.
+Не може відновити менопаузу.</OvaryRegenerationPill.description>
+  <OvaryRegenerationPill.ingestible.ingestCommandString>Прийняти {0}</OvaryRegenerationPill.ingestible.ingestCommandString>
+  <OvaryRegenerationPill.ingestible.ingestReportString>Приймає {0}.</OvaryRegenerationPill.ingestible.ingestReportString>
+
+  <SuperovulationInducingAgent.label>індуктор суперовуляції</SuperovulationInducingAgent.label>
+  <SuperovulationInducingAgent.description>Викликає суперовуляцію, внаслідок чого під час наступної овуляції виробляється 1-4 додаткові яйцеклітини.
+Може прискорити настання менопаузи.</SuperovulationInducingAgent.description>
+  <SuperovulationInducingAgent.ingestible.ingestCommandString>Прийняти {0}</SuperovulationInducingAgent.ingestible.ingestCommandString>
+  <SuperovulationInducingAgent.ingestible.ingestReportString>Приймає {0}.</SuperovulationInducingAgent.ingestible.ingestReportString>
+
+  <PainReliever.label>знеболююче</PainReliever.label>
+  <PainReliever.description>Знімає менструальний біль протягом 24 годин.
+Також ефективний при інших джерелах болю.</PainReliever.description>
+  <PainReliever.ingestible.ingestCommandString>Прийняти {0}</PainReliever.ingestible.ingestCommandString>
+  <PainReliever.ingestible.ingestReportString>Приймає {0}.</PainReliever.ingestible.ingestReportString>
+
+  <Cyclosporine.label>циклоспорин</Cyclosporine.label>
+  <Cyclosporine.description>Імунодепресант.
+Може вилікувати антиспермальне антитіло, але знижує здатність організму боротися з інфекціями та хворобами протягом 24 годин.</Cyclosporine.description>
+  <Cyclosporine.ingestible.ingestCommandString>Прийняти {0}</Cyclosporine.ingestible.ingestCommandString>
+  <Cyclosporine.ingestible.ingestReportString>Приймає {0}.</Cyclosporine.ingestible.ingestReportString>
+
+
+</LanguageData>

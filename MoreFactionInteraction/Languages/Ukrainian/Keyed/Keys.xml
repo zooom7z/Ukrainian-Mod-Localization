@@ -54,11 +54,11 @@
    <MFI_FactionWarLeaderDecidedLabel>Результат мирних переговорів</MFI_FactionWarLeaderDecidedLabel>
    <MFI_FactionWarLeaderDecidedOnWar>Мирні переговори закінчилися провалом, і між {0} і {1} спалахнула війна. Час від часу вони нападають на бази один одного. Якщо ви віддаєте перевагу одній фракції над іншою, вони можуть звернутися до вас по допомогу.\n\nВи можете стежити за війною фракцій на вкладці «Фракції».</MFI_FactionWarLeaderDecidedOnWar>
    <MFI_FactionWarLeaderDecidedAgainstWar>Мирні переговори завершено. Напруженість зменшилася, і фракції {0} і {1} досягли початкової згоди.</MFI_FactionWarLeaderDecidedAgainstWar>
-   <!-- еквівалент NeedSilverLaunchable, тільки зі сталлю. (наразі не використовується) -->
+  <!-- equivalent to NeedSilverLaunchable, just with steel. (currently unused) -->
    <MFI_SellingWarBondsNeedSteelLaunchable>потрібна {0} сталь біля торгових маяків</MFI_SellingWarBondsNeedSteelLaunchable>
-   <!-- Початок щорічної виставки -->
+  <!-- Annual Expo start -->
   <MFI_AnnualExpoLetterLabel>{0} annual expo</MFI_AnnualExpoLetterLabel>
- <!-- настав час для {ORDINALNUMBER} щорічного {WORLDNAME}. Цього року організатор – {FACTIONLABEL}, а тема – {MFI_gameOfUrComp / MFI_shootingComp / MFI_culturalSwap / etc} {MFI_gameOfUrCompExpl / MFI_shootingCompExpl / etc} -->
+  <!-- it is time for the {ORDINALNUMBER} annual {WORLDNAME}. This year's host is {FACTIONLABEL} and the theme is {MFI_gameOfUrComp / MFI_shootingComp / MFI_culturalSwap / etc} {MFI_gameOfUrCompExpl / MFI_shootingCompExpl / etc} -->
    <MFI_AnnualExpoLetterText>Настав час щорічної виставки {0} {1}, і ваша фракція була запрошена. Цього року організатор – {2}, а тема – {3}. {4}\n\nЩорічна експозиція - це високоповажне мирне зібрання. Історично він використовувався майже всіма фракціями як можливість обмінятися культурою, досвідом і показати себе.</MFI_AnnualExpoLetterText>
    <MFI_AnnualExpoDialogueIntroduction>Ваш караван прибув на щорічну виставку. Оскільки цьогорічна тема {0}, тут багато експертів із цієї теми. Більшість із них готуються, а інші вже почали демонструвати свої вміння.\n\nВиставка — це набір кіосків, деякі скромні та зроблені з місцевих матеріалів, а інші — це високотехнологічні збірні фабрики зі світів Urb. Вони утворюють коло навколо головної сцени, де {1}.\n\nЗвісно, це буде використано для чогось більш корисного пізніше.</MFI_AnnualExpoDialogueIntroduction>
    <MFI_AnnualExpoFirstOption>Розпочнемо!</MFI_AnnualExpoFirstOption>

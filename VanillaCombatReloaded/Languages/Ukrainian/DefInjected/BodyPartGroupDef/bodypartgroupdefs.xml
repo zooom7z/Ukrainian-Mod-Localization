@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Right.label>права сторона</Right.label>
+  <Right.labelShort>праворуч</Right.labelShort>
+
+  <Left.label>ліва сторона</Left.label>
+  <Left.labelShort>зліва</Left.labelShort>
+
+  <Center.label>ціль по центру</Center.label>
+  <Center.labelShort>центр</Center.labelShort>
+
+
+</LanguageData>

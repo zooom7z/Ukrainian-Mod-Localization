@@ -2,10 +2,10 @@
 <LanguageData>
 
   <Orgy.label>оргія</Orgy.label>
-  <Orgy.letterTitle>Оргія</Orgy.letterTitle>
   <Orgy.letterText>{ORGANIZER_labelShort} влаштовує оргію! Кожен учасник отримає соціальну та сексуальну енергію.</Orgy.letterText>
   <Orgy.calledOffMessage>Оргію скасовано.</Orgy.calledOffMessage>
   <Orgy.finishedMessage>Оргія закінчилася.</Orgy.finishedMessage>
   <Orgy.duty>Оргія</Orgy.duty>
+  <Orgy.letterTitle>Оргія</Orgy.letterTitle>
 
 </LanguageData>

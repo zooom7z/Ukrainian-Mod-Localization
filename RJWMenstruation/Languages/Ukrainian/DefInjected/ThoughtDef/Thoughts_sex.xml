@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LeakingFluids.stages.0.label>витікають виділення</LeakingFluids.stages.0.label>
+	<LeakingFluids.stages.0.description>Чи можу я отримати щось, щоб це поглинути?</LeakingFluids.stages.0.description>
+
+	<HaterCameInsideM.stages.0.label>кінчає всередину в {0}</HaterCameInsideM.stages.0.label>
+	<HaterCameInsideM.stages.0.description>Я кінчив всередину свого суперника!</HaterCameInsideM.stages.0.description>
+
+	<CameInsideM.stages.0.label>кінчає всередину в {0}</CameInsideM.stages.0.label>
+	<CameInsideM.stages.0.description>Це було так приємно.</CameInsideM.stages.0.description>
+
+	<CameInsideFFetish.stages.0.label>{0} кінчає всередину</CameInsideFFetish.stages.0.label>
+	<CameInsideFFetish.stages.0.description>Сподіваюся, я завагітнію.</CameInsideFFetish.stages.0.description>
+
+	<HaterCameInsideF.stages.0.label>{0} кінчає всередину</HaterCameInsideF.stages.0.label>
+	<HaterCameInsideF.stages.0.description>Я не хочу бути вагітною його дитиною!</HaterCameInsideF.stages.0.description>
+
+	<HaterCameInsideFEstrus.stages.0.label>{0} кінчає всередину</HaterCameInsideFEstrus.stages.0.label>
+	<HaterCameInsideFEstrus.stages.0.description>Про що я думала, дозволяючи йому це робити?</HaterCameInsideFEstrus.stages.0.description>
+
+
+	<CameInsideFLowFert.stages.0.label>{0} кінчає всередину</CameInsideFLowFert.stages.0.label>
+	<CameInsideFLowFert.stages.0.description>Я боюся, що можу завагітніти.
+Шанс невеликий, але...</CameInsideFLowFert.stages.0.description>
+
+	<CameInsideF.stages.0.label>{0} кінчає всередину</CameInsideF.stages.0.label>
+	<CameInsideF.stages.0.description>Я боюся, що можу завагітніти.</CameInsideF.stages.0.description>
+
+	<CameInsideFFetishSafe.stages.0.label>{0} кінчає всередину</CameInsideFFetishSafe.stages.0.label>
+	<CameInsideFFetishSafe.stages.0.description>Я не думаю, що завагітнію, але фантазувати цікаво.</CameInsideFFetishSafe.stages.0.description>
+
+	<HaterCameInsideFSafe.stages.0.label>{0} кінчає всередину</HaterCameInsideFSafe.stages.0.label>
+	<HaterCameInsideFSafe.stages.0.description>Я, мабуть, не завагітнію, але мені все одно це не подобається.</HaterCameInsideFSafe.stages.0.description>
+
+	<UnwantedPregnancy.stages.0.label>небажана вагітність</UnwantedPregnancy.stages.0.label>
+	<UnwantedPregnancy.stages.0.description>Як я буду піклуватися про дитину? Що я буду робити?</UnwantedPregnancy.stages.0.description>
+
+	<UnwantedPregnancyMild.stages.0.label>небажана вагітність</UnwantedPregnancyMild.stages.0.label>
+	<UnwantedPregnancyMild.stages.0.description>У мене буде дитина. Сподіваюся, я впораюся.</UnwantedPregnancyMild.stages.0.description>
+
+	<TookContraceptivePill.stages.0.label>приймає протизаплідну таблетку</TookContraceptivePill.stages.0.label>
+	<TookContraceptivePill.stages.0.description>Тепер все буде добре.</TookContraceptivePill.stages.0.description>
+
+	<HateTookContraceptivePill.stages.0.label>приймає протизаплідну таблетку</HateTookContraceptivePill.stages.0.label>
+	<HateTookContraceptivePill.stages.0.description>Я хочу завагітніти.</HateTookContraceptivePill.stages.0.description>
+
+	<EggRestorationReceived.stages.0.label>отримує регенерацію яйцеклітин</EggRestorationReceived.stages.0.label>
+	<EggRestorationReceived.stages.0.description>Тепер я можу розмножуватися ще трохи довше.</EggRestorationReceived.stages.0.description>
+
+	<CameInsideMIdeo.stages.0.label>кінчає в {0}</CameInsideMIdeo.stages.0.label>
+	<CameInsideMIdeo.stages.0.description>Це мій обов'язок зробити її вагітною.</CameInsideMIdeo.stages.0.description>
+
+	<CameInsideFIdeo.stages.0.label>{0} кінчає всередину</CameInsideFIdeo.stages.0.label>
+	<CameInsideFIdeo.stages.0.description>Сподіваюся, це допоможе мені завагітніти, як і повинно бути.</CameInsideFIdeo.stages.0.description>
+
+	<HaterCameInsideFIdeo.stages.0.label>{0} кінчає всередину</HaterCameInsideFIdeo.stages.0.label>
+	<HaterCameInsideFIdeo.stages.0.description>Я знаю, що повинна завагітніти, але чи обов'язково від нього?</HaterCameInsideFIdeo.stages.0.description>
+
+	<HateTookContraceptivePillIdeo.stages.0.label>приймає протизаплідну таблетку</HateTookContraceptivePillIdeo.stages.0.label>
+	<HateTookContraceptivePillIdeo.stages.0.description>Мої переконання вимагають, щоб я завагітніла.</HateTookContraceptivePillIdeo.stages.0.description>
+
+
+</LanguageData>

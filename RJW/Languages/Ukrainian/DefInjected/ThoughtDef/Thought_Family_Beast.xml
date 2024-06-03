@@ -3,20 +3,20 @@
 
   <!-- Family Died Thoughts -->
 
-  <MySonDied_Beast.stages.0.label>my son {0} died</MySonDied_Beast.stages.0.label>
-  <MySonDied_Beast.stages.0.description>My son is dead. My own flesh and blood...</MySonDied_Beast.stages.0.description>
+  <MySonDied_Beast.stages.0.label>мій син {0} загинув</MySonDied_Beast.stages.0.label>
+  <MySonDied_Beast.stages.0.description>Мій син загинув. Моя плоть і кров...</MySonDied_Beast.stages.0.description>
 
-  <MyDaughterDied_Beast.stages.0.label>my daughter {0} died</MyDaughterDied_Beast.stages.0.label>
-  <MyDaughterDied_Beast.stages.0.description>My daughter is dead. My own flesh and blood...</MyDaughterDied_Beast.stages.0.description>
+  <MyDaughterDied_Beast.stages.0.label>моя дочка {0} загинула</MyDaughterDied_Beast.stages.0.label>
+  <MyDaughterDied_Beast.stages.0.description>Моя дочка загинула. Моя плоть і кров...</MyDaughterDied_Beast.stages.0.description>
 
-  <MyBrotherDied_Beast.stages.0.label>my brother {0} died</MyBrotherDied_Beast.stages.0.label>
-  <MyBrotherDied_Beast.stages.0.description>My brother died. My own flesh and blood...</MyBrotherDied_Beast.stages.0.description>
+  <MyBrotherDied_Beast.stages.0.label>мій брат {0} загинув</MyBrotherDied_Beast.stages.0.label>
+  <MyBrotherDied_Beast.stages.0.description>Мій брат загинув. Моя плоть і кров...</MyBrotherDied_Beast.stages.0.description>
 
-  <MySisterDied_Beast.stages.0.label>my sister {0} died</MySisterDied_Beast.stages.0.label>
-  <MySisterDied_Beast.stages.0.description>My sister died. My own flesh and blood...</MySisterDied_Beast.stages.0.description>
+  <MySisterDied_Beast.stages.0.label>моя сестра {0} загинула</MySisterDied_Beast.stages.0.label>
+  <MySisterDied_Beast.stages.0.description>Моя сестра загинула. Моя плоть і кров...</MySisterDied_Beast.stages.0.description>
 
   <MyGrandchildDied_Beast.stages.0.label>my grandchild {0} died</MyGrandchildDied_Beast.stages.0.label>
-  <MyGrandchildDied_Beast.stages.0.description>My grandchild died. My own flesh and blood...</MyGrandchildDied_Beast.stages.0.description>
+  <MyGrandchildDied_Beast.stages.0.description>My grandchild died. Моя плоть і кров...</MyGrandchildDied_Beast.stages.0.description>
 
   <MyNieceDied_Beast.stages.0.label>my niece {0} died</MyNieceDied_Beast.stages.0.label>
   <MyNieceDied_Beast.stages.0.description>My niece died. Such a wonderful child.</MyNieceDied_Beast.stages.0.description>
@@ -25,19 +25,19 @@
   <MyNephewDied_Beast.stages.0.description>My nephew died. Such a wonderful child.</MyNephewDied_Beast.stages.0.description>
 
   <MyHalfSiblingDied_Beast.stages.0.label>my half-sibling {0} died</MyHalfSiblingDied_Beast.stages.0.label>
-  <MyHalfSiblingDied_Beast.stages.0.description>My half-sibling died. My own flesh and blood...</MyHalfSiblingDied_Beast.stages.0.description>
+  <MyHalfSiblingDied_Beast.stages.0.description>My half-sibling died. Моя плоть і кров...</MyHalfSiblingDied_Beast.stages.0.description>
 
-  <MyAuntDied_Beast.stages.0.label>my aunt {0} died</MyAuntDied_Beast.stages.0.label>
-  <MyAuntDied_Beast.stages.0.description>My aunt died.</MyAuntDied_Beast.stages.0.description>
+  <MyAuntDied_Beast.stages.0.label>моя тітка {0} загинула</MyAuntDied_Beast.stages.0.label>
+  <MyAuntDied_Beast.stages.0.description>Моя тітка загинула.</MyAuntDied_Beast.stages.0.description>
 
-  <MyUncleDied_Beast.stages.0.label>my uncle {0} died</MyUncleDied_Beast.stages.0.label>
-  <MyUncleDied_Beast.stages.0.description>My uncle died.</MyUncleDied_Beast.stages.0.description>
+  <MyUncleDied_Beast.stages.0.label>мій дядько {0} загинув</MyUncleDied_Beast.stages.0.label>
+  <MyUncleDied_Beast.stages.0.description>Мій дядько загинув.</MyUncleDied_Beast.stages.0.description>
 
   <MyGrandparentDied_Beast.stages.0.label>my grandparent {0} died</MyGrandparentDied_Beast.stages.0.label>
   <MyGrandparentDied_Beast.stages.0.description>My grandparent died.</MyGrandparentDied_Beast.stages.0.description>
 
   <MyCousinDied_Beast.stages.0.label>my cousin {0} died</MyCousinDied_Beast.stages.0.label>
-  <MyCousinDied_Beast.stages.0.description>My cousin died. My own flesh and blood...</MyCousinDied_Beast.stages.0.description>
+  <MyCousinDied_Beast.stages.0.description>My cousin died. Моя плоть і кров...</MyCousinDied_Beast.stages.0.description>
 
   <MyKinDied_Beast.stages.0.label>my kin {0} died</MyKinDied_Beast.stages.0.label>
   <MyKinDied_Beast.stages.0.description>My kin died.</MyKinDied_Beast.stages.0.description>
@@ -45,17 +45,17 @@
 
   <!-- Family Lost Thoughts -->
 
-  <MySonLost_Beast.stages.0.label>my son {0} lost</MySonLost_Beast.stages.0.label>
-  <MySonLost_Beast.stages.0.description>My son has gone lost. I hope he will get back to us someday.</MySonLost_Beast.stages.0.description>
+  <MySonLost_Beast.stages.0.label>мій син {0} пропав</MySonLost_Beast.stages.0.label>
+  <MySonLost_Beast.stages.0.description>Мій син пропав. Надіюсь колись він повернеться до нас.</MySonLost_Beast.stages.0.description>
 
-  <MyDaughterLost_Beast.stages.0.label>my daughter {0} lost</MyDaughterLost_Beast.stages.0.label>
-  <MyDaughterLost_Beast.stages.0.description>My daughter has gone lost. I hope she will get back to us someday.</MyDaughterLost_Beast.stages.0.description>
+  <MyDaughterLost_Beast.stages.0.label>моя дочка {0} пропала</MyDaughterLost_Beast.stages.0.label>
+  <MyDaughterLost_Beast.stages.0.description>Моя дочка пропала. Надіюсь колись вона повернеться до нас.</MyDaughterLost_Beast.stages.0.description>
 
-  <MyBrotherLost_Beast.stages.0.label>my brother {0} lost</MyBrotherLost_Beast.stages.0.label>
-  <MyBrotherLost_Beast.stages.0.description>My brother has gone lost. I hope he will get back to us someday.</MyBrotherLost_Beast.stages.0.description>
+  <MyBrotherLost_Beast.stages.0.label>мій брат {0} пропав</MyBrotherLost_Beast.stages.0.label>
+  <MyBrotherLost_Beast.stages.0.description>Мій брат пропав. Надіюсь колись він повернеться до нас.</MyBrotherLost_Beast.stages.0.description>
 
-  <MySisterLost_Beast.stages.0.label>my sister {0} lost</MySisterLost_Beast.stages.0.label>
-  <MySisterLost_Beast.stages.0.description>My sister has gone lost. I hope she will get back to us someday.</MySisterLost_Beast.stages.0.description>
+  <MySisterLost_Beast.stages.0.label>моя сестра {0} пропала</MySisterLost_Beast.stages.0.label>
+  <MySisterLost_Beast.stages.0.description>Моя сестра пропала. Надіюсь колись вона повернеться до нас.</MySisterLost_Beast.stages.0.description>
 
   <MyGrandchildLost_Beast.stages.0.label>my grandchild {0} lost</MyGrandchildLost_Beast.stages.0.label>
   <MyGrandchildLost_Beast.stages.0.description>My grandchild has gone lost. I hope they will get back to us someday.</MyGrandchildLost_Beast.stages.0.description>
@@ -69,11 +69,11 @@
   <MyHalfSiblingLost_Beast.stages.0.label>my half-sibling {0} lost</MyHalfSiblingLost_Beast.stages.0.label>
   <MyHalfSiblingLost_Beast.stages.0.description>My half-sibling has gone lost.</MyHalfSiblingLost_Beast.stages.0.description>
 
-  <MyAuntLost_Beast.stages.0.label>my aunt {0} lost</MyAuntLost_Beast.stages.0.label>
-  <MyAuntLost_Beast.stages.0.description>My aunt has gone lost. I hope she will get back to us someday.</MyAuntLost_Beast.stages.0.description>
+  <MyAuntLost_Beast.stages.0.label>моя тітка {0} пропала</MyAuntLost_Beast.stages.0.label>
+  <MyAuntLost_Beast.stages.0.description>Моя тітка пропала. Надіюсь колись вона повернеться до нас.</MyAuntLost_Beast.stages.0.description>
 
-  <MyUncleLost_Beast.stages.0.label>my uncle {0} lost</MyUncleLost_Beast.stages.0.label>
-  <MyUncleLost_Beast.stages.0.description>My uncle has gone lost. I hope he will get back to us someday.</MyUncleLost_Beast.stages.0.description>
+  <MyUncleLost_Beast.stages.0.label>мій дядько {0} пропав</MyUncleLost_Beast.stages.0.label>
+  <MyUncleLost_Beast.stages.0.description>Мій дядько пропав. Надіюсь колись він повернеться до нас.</MyUncleLost_Beast.stages.0.description>
 
   <MyGrandparentLost_Beast.stages.0.label>my grandparent {0} lost</MyGrandparentLost_Beast.stages.0.label>
   <MyGrandparentLost_Beast.stages.0.description>My grandparent has gone lost.</MyGrandparentLost_Beast.stages.0.description>
@@ -87,14 +87,14 @@
 
   <!-- Family Social Memories -->
 
-  <KilledMyFather_Beast.stages.0.label>killed my father</KilledMyFather_Beast.stages.0.label>
-  <KilledMyMother_Beast.stages.0.label>killed my mother</KilledMyMother_Beast.stages.0.label>
-  <KilledMySon_Beast.stages.0.label>killed my son</KilledMySon_Beast.stages.0.label>
-  <KilledMyDaughter_Beast.stages.0.label>killed my daughter</KilledMyDaughter_Beast.stages.0.label>
-  <KilledMyBrother_Beast.stages.0.label>killed my brother</KilledMyBrother_Beast.stages.0.label>
-  <KilledMySister_Beast.stages.0.label>killed my sister</KilledMySister_Beast.stages.0.label>
-  <KilledMyKin_Beast.stages.0.label>killed my kin</KilledMyKin_Beast.stages.0.label>
-  <SoldMyLovedOne_Beast.stages.0.label>sold my kin</SoldMyLovedOne_Beast.stages.0.label>
+  <KilledMyFather_Beast.stages.0.label>вбивця мого батька</KilledMyFather_Beast.stages.0.label>
+  <KilledMyMother_Beast.stages.0.label>вбивця моєї матері</KilledMyMother_Beast.stages.0.label>
+  <KilledMySon_Beast.stages.0.label>вбивця мого сина</KilledMySon_Beast.stages.0.label>
+  <KilledMyDaughter_Beast.stages.0.label>вбивця моєї дочки</KilledMyDaughter_Beast.stages.0.label>
+  <KilledMyBrother_Beast.stages.0.label>вбивця мого брата</KilledMyBrother_Beast.stages.0.label>
+  <KilledMySister_Beast.stages.0.label>вбивця моєї сестри</KilledMySister_Beast.stages.0.label>
+  <KilledMyKin_Beast.stages.0.label>вбивця моєї любові</KilledMyKin_Beast.stages.0.label>
+  <SoldMyLovedOne_Beast.stages.0.label>продав мою любов</SoldMyLovedOne_Beast.stages.0.label>
 
 
 </LanguageData>
