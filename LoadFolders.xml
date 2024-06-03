@@ -7,6 +7,7 @@
 	<li IfModActive="devdisigdu.bulk.components">BulkComponents</li>
 	<li IfModActive="brrainz.cameraplus">CameraPlus</li>
 	<li IfModActive="avilmask.commonsense">CommonSense</li>
+	<li IfModActive="unlimitedhugs.defensivepositions">DefensivePositions</li>
 	<li IfModActive="dracoix.doormat.r12a">DoorMat</li>
 	<li IfModActive="ogliss.ykara.harvesteverything">HarvestEverything</li>
 	<li IfModActive="lwm.deepstorage">LWMDeepStorage</li>
@@ -37,7 +38,7 @@
 	<li IfModActive="vanillaexpanded.vhe">VanillaHairExpanded</li>
 	<li IfModActive="bodlosh.weaponstats">WeaponStats</li>
 
-	<li IfModActive=""></li>
+
 	<li IfModActive=""></li>
 	<li IfModActive=""></li>
 	<li IfModActive=""></li>
