@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DefensivePositions.label>Оборонні позиції</DefensivePositions.label>
-  <DefensivePositions.description>Комбінації клавіш для дій у моді «Defensive Positions».</DefensivePositions.description>
-
+	<DefensivePositions.label>Оборонні позиції</DefensivePositions.label>
+	<DefensivePositions.description>Комбінації клавіш для дій у моді «Defensive Positions».</DefensivePositions.description>
 
 </LanguageData>

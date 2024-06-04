@@ -1,23 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DefensivePositionGizmo.label>Відправити пішака на захисну позицію</DefensivePositionGizmo.label>
-  <DPSelectAllColonists.label>Вибрати всіх колоністів</DPSelectAllColonists.label>
-  <DPSendAllColonists.label>Всім колоністам зайняти оборонні позиції</DPSendAllColonists.label>
-  <DPUndraftAll.label>Відмінити призов всіх колоністів</DPUndraftAll.label>
+	<DefensivePositionGizmo.label>Відправити пішака на захисну позицію</DefensivePositionGizmo.label>
+	<DPSelectAllColonists.label>Вибрати всіх колоністів</DPSelectAllColonists.label>
+	<DPSendAllColonists.label>Всім колоністам зайняти оборонні позиції</DPSendAllColonists.label>
+	<DPUndraftAll.label>Відмінити призов всіх колоністів</DPUndraftAll.label>
 
 
   <!-- these can be safely removed if necessary -->
 
-  <DPSquad1.label>Обрати загін 1</DPSquad1.label>
-  <DPSquad2.label>Обрати загін 2</DPSquad2.label>
-  <DPSquad3.label>Обрати загін 3</DPSquad3.label>
-  <DPSquad4.label>Обрати загін 4</DPSquad4.label>
-  <DPSquad5.label>Обрати загін 5</DPSquad5.label>
-  <DPSquad6.label>Обрати загін 6</DPSquad6.label>
-  <DPSquad7.label>Обрати загін 7</DPSquad7.label>
-  <DPSquad8.label>Обрати загін 8</DPSquad8.label>
-  <DPSquad9.label>Обрати загін 9</DPSquad9.label>
-
+	<DPSquad1.label>Обрати загін 1</DPSquad1.label>
+	<DPSquad2.label>Обрати загін 2</DPSquad2.label>
+	<DPSquad3.label>Обрати загін 3</DPSquad3.label>
+	<DPSquad4.label>Обрати загін 4</DPSquad4.label>
+	<DPSquad5.label>Обрати загін 5</DPSquad5.label>
+	<DPSquad6.label>Обрати загін 6</DPSquad6.label>
+	<DPSquad7.label>Обрати загін 7</DPSquad7.label>
+	<DPSquad8.label>Обрати загін 8</DPSquad8.label>
+	<DPSquad9.label>Обрати загін 9</DPSquad9.label>
 
 </LanguageData>
